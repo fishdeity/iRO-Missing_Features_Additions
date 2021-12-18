@@ -1,7 +1,7 @@
 # Purpose #
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). This includes:
 - Maps missing have been added (like Eden and instances like Faceworm Nest)
--- Few maps have navigation for convenience (such as Amatsu Dungeon Floor 1)
+  - Few maps have navigation and other features for convenience (such as Amatsu Dungeon Floor 1 and Endless Tower showing which floor you're on)
 - Resource files that are missing and fail to load and appear as red text in chat box have been added (like opening kafra)
 - Card issues fixed:
   - Cards' Art that are missing are added (Rockridge Cramp Card)
