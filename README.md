@@ -11,8 +11,8 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 # Installation Steps #
 1. Download and install a program like **GRF Editor**: https://rathena.org/board/files/file/2766-grf-editor/
-2. Make a copy/backup of your iRO's **data.grf** in case it's needed in the future!
-3. Download each of the .grf in the code respository you wish to add on.
+2. Download each .grf in the code section you wish to add to your iRO game.
+3. Make a copy/backup of your iRO's **data.grf** in case it's needed in the future!
 4. Close all iRO game clients.
 5. Open **GRF Editor**:
 6. File -> Open -> choose your iRO's data.grf file that you will edit.
@@ -21,3 +21,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 9. Repeat Step 7 for any additional .grfs you wish to add on.
 10. Once finished, File -> Save if necessary.
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
+
+# Etc #
+If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
+
+# Contact #
+If any issues, Discord message me at 2Lazy2MakeAName#2486
