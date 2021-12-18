@@ -27,3 +27,12 @@ If interested to learn more how to use **GRF Editor**, check out a tutorial like
 
 # Contact #
 If any issues, Discord message me at 2Lazy2MakeAName#2486
+
+# Sample Pictures #
+![Eden Map](https://user-images.githubusercontent.com/56460323/146634536-c895c854-828d-40f8-811f-27911659a1bb.jpg)
+
+![Enchants in Name 2](https://user-images.githubusercontent.com/56460323/146634561-c6cf520a-8351-4543-a911-7cf4d1927c19.jpg)
+
+![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
+
+![Card View Button Fixed](https://user-images.githubusercontent.com/56460323/146634565-ec143402-b233-46ba-984a-0e619d251994.jpg)
