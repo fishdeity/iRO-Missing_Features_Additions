@@ -1,4 +1,5 @@
 # Purpose #
+**Note:** This isn't updated to the 185 patch.
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). This includes:
 - Maps missing have been added (like Eden and instances like Faceworm Nest)
   - Few maps have navigation and other features for convenience (such as Amatsu Dungeon Floor 1 and Endless Tower showing which floor you're on)
