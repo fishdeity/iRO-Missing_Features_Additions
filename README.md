@@ -1,6 +1,4 @@
 # Purpose #
-**Note:** Fixing some bugs first.
-
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). This includes:
 - Maps missing have been added (like Eden and instances like Faceworm Nest)
   - Few maps have navigation and other features for convenience (such as Amatsu Dungeon Floor 1 and Endless Tower showing which floor you're on)
@@ -12,6 +10,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - Big Card sprite is included to easily spot cards.
 - Enchants that are in card slots 1-4 have been added to item name to preview! (GFSS, Flattery Robe)
 - ¿¬±Ý¼ú»ç_¿©_Ã¢_°Ë±¤.spr has been added to stop the error.
+
+# Changelog #
+2021 Dec 25: Updated with lvl 185/65 patch. Temporary fix for and put back Sorry Loading card images for now.
 
 # Installation Steps #
 1. Download and install a program like **GRF Editor**: https://rathena.org/board/files/file/2766-grf-editor/
