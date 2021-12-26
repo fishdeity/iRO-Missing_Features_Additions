@@ -1,5 +1,5 @@
 # Purpose #
-**Note:** Updated to the 185 patch now!
+**Note:** Fixing some bugs first.
 
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). This includes:
 - Maps missing have been added (like Eden and instances like Faceworm Nest)
