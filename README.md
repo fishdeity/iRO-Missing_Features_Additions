@@ -12,7 +12,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - ¿¬±Ý¼ú»ç_¿©_Ã¢_°Ë±¤.spr has been added to stop the error.
 
 # Changelog #
-2021 Dec 25: Updated with lvl 185/65 patch. Temporary fix for and put back Sorry Loading card images for now.
+2021 Dec 25: Updated with lvl 185/65 patch. All issues fixed.
 
 # Installation Steps #
 1. Download and install a program like **GRF Editor**: https://rathena.org/board/files/file/2766-grf-editor/
