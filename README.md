@@ -11,9 +11,6 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - Enchants that are in card slots 1-4 have been added to item name to preview! (GFSS, Flattery Robe)
 - ¿¬±Ý¼ú»ç_¿©_Ã¢_°Ë±¤.spr has been added to stop the error.
 
-# Changelog #
-2021 Dec 25: Updated with lvl 185/65 patch. All issues fixed.
-
 # Installation Steps #
 1. Download and install a program like **GRF Editor**: https://rathena.org/board/files/file/2766-grf-editor/
 2. Download each .grf in the code section you wish to add to your iRO game.
@@ -26,6 +23,10 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 9. Repeat Step 7 for any additional .grfs you wish to add on.
 10. Once finished, File -> Save if necessary.
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
+
+# Changelog #
+2021 Dec 28: Added Evil Slayer Weapons (Devil's Tower) enchant for spell 1, etc to card-enchant-prefixes.grf
+2021 Dec 25: Updated with lvl 185/65 patch. All issues fixed.
 
 # Etc #
 If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
