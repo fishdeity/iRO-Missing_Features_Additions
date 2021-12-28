@@ -25,7 +25,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
 
 # Changelog #
-2021 Dec 28: Added Evil Slayer Weapons (Devil's Tower) enchant for spell 1, etc to card-enchant-prefixes.grf
+2021 Dec 28: Added Evil Slayer Weapons (Devil's Tower) enchant for spell 1, etc to card-enchant-prefixes.grf  
 2021 Dec 25: Updated with lvl 185/65 patch. All issues fixed.
 
 # Etc #
