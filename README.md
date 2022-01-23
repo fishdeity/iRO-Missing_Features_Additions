@@ -25,6 +25,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
 
 # Changelog #
+2022 Jan 23: Added Constellation enchants hook to card art. Also added (custom) card art to prevent crashing in card-art-missing-added.grf 
 2022 Jan 22: Added Angeling Poring Shoes Constellation enchants to card-enchant-prefixes.grf  
 2021 Dec 28: Added Evil Slayer Weapons (Devil's Tower) enchant for spell 1, etc to card-enchant-prefixes.grf  
 2021 Dec 25: Updated with lvl 185/65 patch. All issues fixed.
