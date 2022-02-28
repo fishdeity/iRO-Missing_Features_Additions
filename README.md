@@ -24,6 +24,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
 
 # Changelog #
+2022 Feb 27: Renamed files to read easier. Also added and fixed some maps to maps_added_and_fixed.grf
 2022 Feb 15: Added Costume Enchant Stone Box 10 to card-enchant-prefixes.grf  
 2022 Feb 3: Added enchants for EDDA Arunafeltz and renamed DarkLord Esscences to match other enchants (dleF1 -> dleS1) to card-enchant-prefixes.grf  
 2022 Jan 23: Added Constellation enchants hook to card art. Also added (custom) card art to prevent crashing in card-art-missing-added.grf  
