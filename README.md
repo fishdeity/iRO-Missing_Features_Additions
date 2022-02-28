@@ -1,14 +1,13 @@
 # Purpose #
-This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). This includes:
-- Maps missing have been added (like Eden and instances like Faceworm Nest)
-  - Few maps have navigation and other features for convenience (such as Amatsu Dungeon Floor 1 and Endless Tower showing which floor you're on)
-- Resource files that are missing and fail to load and appear as red text in chat box have been added (like opening kafra)
-- Card issues fixed:
-  - Cards' Art that are missing are added (Rockridge Cramp Card)
-  - Sorry Loading images replaced with their proper art (Archi Card)
-  - "View" button missing on some cards have been fixed (Ferre Card)
-- Big Card sprite is included to easily spot cards.
-- Enchants that are in card slots 1-4 have been added to item name to preview! (GFSS, Flattery Robe)
+This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
+- big_card.grf: Makes card sprites bigger so easier to see
+- card_art_missing_added.grf: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
+- card_enchant_prefixes.grf: Enchants in card slots 1-4 have been added to item name to preview! (GFSS, Flattery Robe)
+- maps_added_and_fixed: Maps missing have been added. Maps that break the game have been fixed.
+  - Endless Tower shows you which floor you are on
+  - Amatsu Dungeon and other maps show how to go through the maze
+  - and more
+- resource_file_fixes: Files that are missing and fail to load and appear as red text in chat box have been added (like opening Kafra)
 
 # Installation Steps #
 1. Download and install a program like **GRF Editor**: https://rathena.org/board/files/file/2766-grf-editor/
@@ -24,7 +23,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
 
 # Changelog #
-2022 Feb 27: Renamed files to read easier. Also added and fixed some maps to maps_added_and_fixed.grf
+2022 Feb 27: Renamed files to read easier. Also added and fixed some maps to maps_added_and_fixed.grf  
 2022 Feb 15: Added Costume Enchant Stone Box 10 to card-enchant-prefixes.grf  
 2022 Feb 3: Added enchants for EDDA Arunafeltz and renamed DarkLord Esscences to match other enchants (dleF1 -> dleS1) to card-enchant-prefixes.grf  
 2022 Jan 23: Added Constellation enchants hook to card art. Also added (custom) card art to prevent crashing in card-art-missing-added.grf  
