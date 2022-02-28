@@ -1,13 +1,13 @@
 # Purpose #
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
-- big_card.grf: Makes card sprites bigger so easier to see
-- card_art_missing_added.grf: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
-- card_enchant_prefixes.grf: Enchants in card slots 1-4 have been added to item name to preview! (GFSS, Flattery Robe)
-- maps_added_and_fixed: Maps missing have been added. Maps that break the game have been fixed.
+- **big_card.grf**: Makes card sprites bigger so easier to see
+- **card_art_missing_added.grf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
+- **card_enchant_prefixes.grf**: Enchants in card slots 1-4 have been added to item name to preview! (GFSS, Flattery Robe)
+- **maps_added_and_fixed**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
   - and more
-- resource_file_fixes: Files that are missing and fail to load and appear as red text in chat box have been added (like opening Kafra)
+- **resource_file_fixes**: Files that are missing and fail to load and appear as red text in chat box have been added (like opening Kafra)
 
 # Installation Steps #
 1. Download and install a program like **GRF Editor**: https://rathena.org/board/files/file/2766-grf-editor/
