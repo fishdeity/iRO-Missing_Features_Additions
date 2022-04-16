@@ -29,11 +29,12 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
 
 # Changelog #
+- 2022 Apr 16: **maps_added_and_fixed.grf** - Added 2 Malangdo indoor maps and fixed intro ship map.
 - 2022 Apr 9: 
   - **System/monster_size_effect_new.lub** , **backup_of_originals/** , **chat_filter_removed.grf** , **indoors_become_normal_view.grf** , **zoom_farther_out.grf** added.
   - **maps_added_and_fixed.grf** - Fixed scaling of some maps, added missing Malaya jeep ones, and Sky Fortress portal locations.
 - 2022 Mar 26: 
-  - **card-enchant-prefixes.grf** - added Costume Enchant Stone Box 11. 
+  - **card-enchant-prefixes.grf** - Added Costume Enchant Stone Box 11. 
   - **maps_added_and_fixed.grf** - Fixed Wave Mode and improved Jitterbug maps.  
 - 2022 Feb 27: 
   - Renamed files to read easier. 
