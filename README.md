@@ -55,6 +55,9 @@ If interested to learn more how to use **GRF Editor**, check out a tutorial like
 # Contact #
 If any issues, Discord message me at 2Lazy2MakeAName#2486
 
+# Special Thanks #
+- https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
+
 # Sample Pictures #
 ![Eden Map](https://user-images.githubusercontent.com/56460323/146634536-c895c854-828d-40f8-811f-27911659a1bb.jpg)
 
