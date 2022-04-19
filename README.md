@@ -30,7 +30,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 # Changelog #
 - 2022 Apr 18: **zoom_farther_out.grf** - Added missing Jitterbug map.
-- 2022 Apr 16, 17: **maps_added_and_fixed.grf** - Added 2 Malangdo indoor maps, fixed intro ship map, and 4 Eclage indoor maps.
+- 2022 Apr 16, 17, 19: **maps_added_and_fixed.grf** - Added 2 Malangdo indoor maps, fixed intro ship map, and New World indoor maps.
 - 2022 Apr 9: 
   - **System/monster_size_effect_new.lub** , **backup_of_originals/** , **chat_filter_removed.grf** , **indoors_become_normal_view.grf** , **zoom_farther_out.grf** added.
   - **maps_added_and_fixed.grf** - Fixed scaling of some maps, added missing Malaya jeep ones, and Sky Fortress portal locations.
