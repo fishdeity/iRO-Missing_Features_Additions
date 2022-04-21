@@ -29,7 +29,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
 
 # Changelog #
-- 2022 Apr 18: **zoom_farther_out.grf** - Added missing Jitterbug map.
+- 2022 Apr 18,21: **zoom_farther_out.grf** - Added missing Jitterbug, Magma Dungeon 3, Abyss Glast Heim maps.
 - 2022 Apr 16, 17, 19: **maps_added_and_fixed.grf** - Added 2 Malangdo indoor maps, fixed intro ship map, and many other indoor maps.
 - 2022 Apr 9: 
   - **System/monster_size_effect_new.lub** , **backup_of_originals/** , **chat_filter_removed.grf** , **indoors_become_normal_view.grf** , **zoom_farther_out.grf** added.
