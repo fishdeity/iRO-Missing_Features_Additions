@@ -29,6 +29,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
 
 # Changelog #
+- 2022 May 1: **zoom_farther_out.grf** - Added Corridor of Phantom maps.
 - 2022 Apr 22: **card-enchant-prefixes.grf** - Added Costume Enchant Stone Box 12.
 - 2022 Apr 18,21: **zoom_farther_out.grf** - Added missing Jitterbug, Magma Dungeon 3, Abyss Glast Heim maps.
 - 2022 Apr 16, 17, 19: **maps_added_and_fixed.grf** - Added 2 Malangdo indoor maps, fixed intro ship map, and many other indoor maps.
