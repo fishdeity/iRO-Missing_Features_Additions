@@ -38,7 +38,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   1. Make backup copy of your original **iteminfo.lub** first. (You can also download from **backup_of_originals/System**).
   2. Download and move my zip file into your iRO's **System** folder. Extract the zip file's contents in there.
   3. Run **iteminfo.bat**, a command prompt should open, then press any button.
-  4. Your **iteminfo.lub** will be replaced and **iteminfo2.lub** will be created.
+  4. Your **iteminfo.lub** will be replaced and **iteminfo2.lub** will be created. Feel free to delete the zip file now.
     - If you wish to go back to original, replace the **iteminfo.lub** with original one.
 
 # Changelog #
