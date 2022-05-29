@@ -42,6 +42,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - If you wish to go back to original, replace the **iteminfo.lub** with original one.
 
 # Changelog #
+- 2022 May 29: 
+  - **backup_of_originals/System** - Updated both files with ocp 37 patch.
+  - **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 13.
 - 2022 May 8: **System/unidentified_shows_item.zip** has been added. Thank you zyn for sharing this with me!
 - 2022 May 1: **zoom_farther_out.grf** - Added Corridor of Phantom maps.
 - 2022 Apr 22: **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 12.
