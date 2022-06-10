@@ -43,8 +43,6 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 # Changelog #
 - 2022 June 9: 
-  - **backup_of_originals/System/iteminfo.lub** - Updated.
-  - **backup_of_originals/indoors_view_original.grf** - Updated.
   - **maps_added_and_fixed.grf** - Added Taekwon 3rd job change maps.
   - **zoom_farther_out.grf** - Added Taekwon 3rd job change maps.
 - 2022 May 29: 
