@@ -42,7 +42,10 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - If you wish to go back to original, replace the **iteminfo.lub** with original one.
 
 # Changelog #
-- 2022 June 9: **backup_of_originals/System/iteminfo.lub** - updated
+- 2022 June 9: 
+  - **backup_of_originals/System/iteminfo.lub** - Updated
+  - **maps_added_and_fixed.grf** - Added Taekwon 3rd job change maps.
+  - **zoom_farther_out.grf** - Added Taekwon 3rd job change maps.
 - 2022 May 29: 
   - **backup_of_originals/System** - Updated both files with ocp 37 patch.
   - **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 13.
