@@ -2,7 +2,7 @@
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
 - **System/**: 
   - **monster_size_effect_new.lub**: Effects and monster sizes are at their supposed size before WP reverted back to old-old file.
-  - **unidentified_shows_item.zip**: Shows what items are without needing magnifier. 
+  - **unidentified_shows_item.zip**: Shows what items are without needing magnifier.
 - **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
 - **big_card.grf**: Makes card sprites bigger, thus easier to see.
 - **card_art_missing_added.grf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
@@ -40,8 +40,13 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   3. Run **iteminfo.bat**, a command prompt should open, then press any button.
   4. Your **iteminfo.lub** will be replaced and **iteminfo2.lub** will be created. Feel free to delete the zip file now.
       - If you wish to go back to original, replace the **iteminfo.lub** with original one.
+      - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
 
 # Changelog #
+- 2022 July 11: 
+  - **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 14. Also for class stones shortened (Garment) to (Garm).
+  - **maps_added_and_fixed.grf** - Fixed Sealed Shrine map (1@cata) that missed 1 grave and recolored parts to closer match iroWiki's map.
+  - **resource_file_fixes.grf** - Added Sky Fortress's missing egg model (pud_egg_03.rsm) and removed notice_poring.bmp since it's included already.
 - 2022 June 9: 
   - **maps_added_and_fixed.grf** - Added Taekwon 3rd job change maps.
   - **zoom_farther_out.grf** - Added Taekwon 3rd job change maps.
