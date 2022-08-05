@@ -43,6 +43,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
 
 # Changelog #
+- 2022 Aug 5: **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 15.
 - 2022 July 11: 
   - **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 14. Also for class stones shortened (Garment) to (Garm).
   - **maps_added_and_fixed.grf** - Fixed Sealed Shrine map (1@cata) that missed 1 grave and recolored parts to closer match iroWiki's map.
