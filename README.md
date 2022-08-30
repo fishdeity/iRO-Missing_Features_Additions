@@ -43,6 +43,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
 
 # Changelog #
+- 2022 Aug 30: **zoom_farther_out.grf** - Added Cupet Coin (Crack of Dimension) event maps.
 - 2022 Aug 5: **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 15.
 - 2022 July 11: 
   - **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 14. Also for class stones shortened (Garment) to (Garm).
