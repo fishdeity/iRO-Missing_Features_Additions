@@ -43,6 +43,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
 
 # Changelog #
+- 2022 Sept 25: **maps_added_and_fixed.grf** - Added missing Brasilis indoor map.
 - 2022 Sept 1: **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 16.
 - 2022 Aug 30: **zoom_farther_out.grf** - Added Cupet Coin (Crack of Dimension) event maps.
 - 2022 Aug 5: **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 15.
