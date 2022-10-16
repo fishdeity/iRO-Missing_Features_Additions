@@ -6,14 +6,14 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
 - **big_card.grf**: Makes card sprites bigger, thus easier to see.
 - **card_art_missing_added.grf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
-- **card_enchant_prefixes.grf**: Enchants in card slots 1-4 have been added to item name to preview! (GFSS, Flattery Robe)
+- **card_enchant_prefixes.grf**: Enchants in card slots 1-4 have been added to item name to preview! (GFSS, FAW, and more)
 - **chat_filter_removed.grf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_become_normal_view.grf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen.
 - **maps_added_and_fixed**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
   - and more
-- **resource_file_fixes**: Files that are missing and fail to load and appear as red text in chat box have been added (like opening Kafra)
+- **resource_file_fixes**: Files that are missing and fail to load and appear as red text in chat box have been added (like 16.2 lab map)
 - **zoom_farther_out.grf**: Able to zoom out farther than the default, extra useful for ranged classes.
   - Note that double right click to reset camera angle is disabled.
 
@@ -24,10 +24,10 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 4. Close all iRO game clients.
 5. Open **GRF Editor**:
 6. File -> Open -> choose your iRO's data.grf file that you will edit.
-7. Edit -> Merge -> Newer GRF Browse... -> Load... -> Choose any one of the .grf you downloaded from here
-8. Click Merge and wait for it to finish.
-9. Repeat Step 7,8 for any additional .grfs you wish to add on.
-10. Once finished, File -> Save if necessary.
+7. Edit -> Merge -> 
+8. Newer GRF Browse... -> Load... -> Choose any one of the .grf you downloaded from here
+9. Click Merge and wait for it to finish.
+10. Repeat Step 8, 9 for any additional .grfs you wish to add on.
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
 
 ## Installation Steps for non-GRF ##
@@ -43,6 +43,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
 
 # Changelog #
+- 2022 Oct 15:
+  - **maps_added_and_fixed.grf** - Bio5 Safe Map added
+  - **zoom_farther_out.grf** - Bio5 Safe Map, Royal Hunt, VIP MVP Summoner Maps added
 - 2022 Oct 14: **card_enchant_prefixes.grf** - New Bio Enchant (Tenacity) and Cos Box Enchant 17 
 - 2022 Oct 1: **card_enchant_prefixes.grf** - 2022 Royal Hunt Event cards.
 - 2022 Sept 25: **maps_added_and_fixed.grf** - Added missing Brasilis indoor map.
