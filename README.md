@@ -8,7 +8,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - **card_art_missing_added.grf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
 - **card_enchant_prefixes.grf**: Enchants in card slots 1-4 have been added to item name to preview! (GFSS, FAW, and more)
 - **chat_filter_removed.grf**: Certain words are no longer blocked. Feel free to type anything including bad words.
-- **indoors_become_normal_view.grf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen.
+- **indoors_view_no_lock.grf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
 - **maps_added_and_fixed**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
@@ -43,6 +43,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
 
 # Changelog #
+- 2022 Oct 17: Renamed some files and added some back up of original files, no major changes
 - 2022 Oct 15:
   - **maps_added_and_fixed.grf** - Bio5 Safe Map added
   - **zoom_farther_out.grf** - Bio5 Safe Map, Royal Hunt, VIP MVP Summoner Maps added
@@ -68,7 +69,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - 2022 Apr 18,21: **zoom_farther_out.grf** - Added missing Jitterbug, Magma Dungeon 3, Abyss Glast Heim maps.
 - 2022 Apr 16, 17, 19: **maps_added_and_fixed.grf** - Added 2 Malangdo indoor maps, fixed intro ship map, and many other indoor maps.
 - 2022 Apr 9: 
-  - **System/monster_size_effect_new.lub** , **backup_of_originals/** , **chat_filter_removed.grf** , **indoors_become_normal_view.grf** , **zoom_farther_out.grf** added.
+  - **System/monster_size_effect_new.lub** , **backup_of_originals/** , **chat_filter_removed.grf** , **indoors_view_no_lock.grf** , **zoom_farther_out.grf** added.
   - **maps_added_and_fixed.grf** - Fixed scaling of some maps, added missing Malaya jeep ones, and Sky Fortress portal locations.
 - 2022 Mar 26: 
   - **card_enchant_prefixes.grf** - Added Costume Enchant Stone Box 11. 
