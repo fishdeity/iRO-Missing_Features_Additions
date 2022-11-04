@@ -14,7 +14,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Amatsu Dungeon and other maps show how to go through the maze
   - and more
 - **resource_file_fixes**: Files that are missing and fail to load and appear as red text in chat box have been added (like 16.2 lab map)
-- **zoom_farther_out.grf**: Able to zoom out farther than the default, extra useful for ranged classes.
+- **zoom_farther_out.grf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
 
 # Installation Steps #
@@ -43,6 +43,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
 
 # Changelog #
+- 2022 Nov 4:
+  - **card_enchant_prefixes.grf** - Costume Box 17's Prof2 enchants renamed to Scholar2 b/c of item name change.
+  - **zoom_farther_out.grf** - Given new parameters so there's more flexibility zooming in, out, when changing maps, and by shift+right click angles
 - 2022 Oct 17: Renamed some files and added some back up of original files, no major changes
 - 2022 Oct 15:
   - **maps_added_and_fixed.grf** - Bio5 Safe Map added
