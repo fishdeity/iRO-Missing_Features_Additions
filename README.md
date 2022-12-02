@@ -43,6 +43,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
 
 # Changelog #
+- 2022 Dec 1: **zoom_farther_out.grf** , **maps_added_and_fixed.grf** - Halloween Event Instance Map added (1@halo)
 - 2022 Nov 7: **zoom_farther_out.grf** - Changed 2 parameters: shift_camera_angle_downwards (from -15 -> -5) and shift_camera_angle_upwards (from -65 to -85) for more flexibility.
 - 2022 Nov 4:
   - **card_enchant_prefixes.grf** - Costume Box 17's Prof2 enchants renamed to Scholar2 b/c of item name change.
