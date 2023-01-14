@@ -3,44 +3,57 @@
 # Purpose #
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
 - **System/**: 
-  - **monster_size_effect_new.lub**: Effects and monster sizes are at their supposed size before WP reverted back to old-old file.
+  - **monster_size_effect_new.lub**: Effects and monster sizes are at their correct size and effect (like illusion turtles are actually small).
   - **unidentified_shows_item.zip**: Shows what items are without needing magnifier. 
-    - Note that colored beams/pillars will not show from low drop rate items like cards!
 - **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
-- **big_card.grf**: Makes card sprites bigger, thus easier to see.
-- **card_art_missing_added.grf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
-- **card_enchant_prefixes.grf**: Enchants in card slots 1-4 have been added to item name to preview! (GFSS, FAW, and more)
-- **chat_filter_removed.grf**: Certain words are no longer blocked. Feel free to type anything including bad words.
-- **indoors_view_no_lock.grf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
-- **maps_added_and_fixed**: Maps missing have been added. Maps that break the game have been fixed.
+- **tools/** : Folder that contains programs for the installation alternate method. 
+- **big_card.gpf**: Makes card sprites bigger, thus easier to see.
+- **card_art_missing_added.gpf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
+- **card_enchant_prefixes.gpf**: Enchants in card slots 1-4 have been added to item name to preview! (GFSS, FAW, and more)
+- **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
+- **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
+- **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
   - and more
-- **resource_file_fixes**: Files that are missing and fail to load and appear as red text in chat box have been added (like 16.2 lab map)
+- **resource_file_fixes.gpf**: Files that are missing and fail to load and appear as red text in chat box have been added (like 16.2 lab map)
   - Missing Doram Garment Sprites like FAW, H.Backpack, AAW, Amistr
   - Sound files like drop_pink.wav also added (Blue, Green, Pink, Purple, Red, Yellow)
-- **zoom_farther_out.grf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
+- **zoom_farther_out.gpf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
 
 # Installation Steps #
 
-## For GRF types ##
-1. Download and install a program like **GRF Editor**: https://rathena.org/board/files/file/2766-grf-editor/
-2. Download each file in the code section (or **Code** -> **Download ZIP**) you wish to add to your iRO game.
+## Adding for GPF types (Original Method) ##
+1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
+2. Download each .gpf in the code section (or press the green button **Code** -> **Download ZIP**) you wish to add to your iRO game.
 3. Make a backup copy of your iRO's **data.grf** in case it's needed in the future!
 4. Close all iRO game clients.
 5. Open **GRF Editor**:
 6. File -> Open -> choose your iRO's data.grf file that you will edit.
 7. Edit -> Merge -> 
-8. Newer GRF Browse... -> Load... -> Choose any one of the .grf you downloaded from here
+8. Newer GRF Browse... -> Load... -> Choose any one of the .gpf you downloaded from here
 9. Click Merge and wait for it to finish.
-10. Repeat Step 8, 9 for any additional .grfs you wish to add on.
+10. Repeat Step 8, 9 for any additional .gpfs you wish to add on.
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
 
-## For non-GRF types ##
+## Adding for GPF types (Alternate Method) ##
+*Note that this process has many possible ways to do, this is just 1 example.
+1. In the code section above, press the green button **Code**, then choose **Download ZIP**.
+3. Make a backup copy of your iRO's **data.grf** in case it's needed in the future!
+4. Close all iRO game clients.
+5. Move each .gpf you want added into your Ragnarok Online folder where the data.grf is (e.g. C:\Gravity\Ragnarok Online\).
+6. Also in the **tools** folder downloaded, move **merge_gpf_into_data_grf.bat** and **rsumerge.exe** into that same Ragnarok Online folder. 
+7. In your RO folder, run **merge_gpf_into_data_grf.bat**, a command prompt should open, then press any button.
+8. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
+    - You can now delete those .gpf downloaded earlier. 
+    - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
+
+## Adding for non-GPF types ##
 - **System/monster_size_effect_new.lub**
-  1. Make backup copy of your original **monster_size_effect_new.lub** first (You can also download from **backup_of_originals folder/System**).
-  2. Download and move mine into your iRO's **System** folder. It will replace the original one.
+  1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
+  1. Make backup copy of your original **monster_size_effect_new.lub** first (Or you can also download from **backup_of_originals folder/System**).
+  2. Download and drag & drop mine inside your System folder. It will replace the original one.
 - **System/unidentified_shows_item.zip**
   1. Make backup copy of your original **iteminfo.lub** first. (You can also download from **backup_of_originals/System**).
   2. Download and move my zip file into your iRO's **System** folder. Extract the zip file's contents in there.
@@ -50,7 +63,19 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
 
 # Changelog #
+- 2023 Jan 14: Big change, now there's a  new method. Note that old method still works with the .GPFs . Thank you zyn for all this! <br>
+  Changes:
+  - Change extension of all .grf files to .gpf
+  - Add rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
+  - Add batch file that makes use of rsu.merge to merge gpf files into data.grf
+    - This removes the requirement of downloading GRF Editor to merge in patches
+  - Fix EffectIDs not being added
+  - Add a file in which users can set their own EffectIDs for items
+  - Remove luac.exe, changing extension accomplishes the same thing
+  - Add effect_list.txt from rAthena for reference
 - 2023 Jan 13: **resource_file_fixes.grf** - Added few missing Doram garment sprites like FAW, H.Backpack, AAW, Amistr. Also added missing drop_color.wav (Blue, Green, Pink, Purple, Red, Yellow)
+
+For previous changes, scroll down.
 
 # Etc #
 If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
@@ -59,8 +84,11 @@ If interested to learn more how to use **GRF Editor**, check out a tutorial like
 If any issues, Discord message me at 2Lazy2MakeAName#2486
 
 # Special Thanks #
+- [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
 - https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
-- zyn for sharing the unidentified_shows_item.zip file!
+- zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
+  - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
+- rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
 
 # Changelog (Previous) #
 - 2022 Dec 14: **card_enchant_prefixes.grf** - Fixed bug with Parry enchants. Thank you Keyron for pointing it out.
