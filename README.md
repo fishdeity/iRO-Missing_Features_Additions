@@ -1,5 +1,3 @@
-# Change in Progress. Please check back later #
-
 # Purpose #
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
 
@@ -30,6 +28,19 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 # Installation Steps #
 
+### Adding for Non-GPF Types ###
+- **System/monster_size_effect_new.lub**
+  1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
+  1. Make backup copy of your original **monster_size_effect_new.lub** first (Or you can also download from **backup_of_originals folder/System**).
+  2. Download and drag & drop mine inside your System folder. It will replace the original one.
+- **System/unidentified_shows_item.zip**
+  1. Make backup copy of your original **iteminfo.lub** first. (You can also download from **backup_of_originals/System**).
+  2. Download and move my zip file into your iRO's **System** folder. Extract the zip file's contents in there.
+  3. Run **iteminfo.bat**, a command prompt should open, then press any button.
+  4. Your **iteminfo.lub** will be replaced and **iteminfo2.lub** will be created. Feel free to delete the zip file now.
+      - If you wish to go back to original, replace the **iteminfo.lub** with original one.
+      - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
+
 ### Adding for GPF types (Original Method) ###
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
 2. Download each .gpf in the code section (or press the green button **Code** -> **Download ZIP**) you wish to add to your iRO game.
@@ -54,19 +65,6 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 8. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
     - You can now delete those .gpf downloaded earlier. 
     - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
-
-### Adding for Non-GPF Types ###
-- **System/monster_size_effect_new.lub**
-  1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
-  1. Make backup copy of your original **monster_size_effect_new.lub** first (Or you can also download from **backup_of_originals folder/System**).
-  2. Download and drag & drop mine inside your System folder. It will replace the original one.
-- **System/unidentified_shows_item.zip**
-  1. Make backup copy of your original **iteminfo.lub** first. (You can also download from **backup_of_originals/System**).
-  2. Download and move my zip file into your iRO's **System** folder. Extract the zip file's contents in there.
-  3. Run **iteminfo.bat**, a command prompt should open, then press any button.
-  4. Your **iteminfo.lub** will be replaced and **iteminfo2.lub** will be created. Feel free to delete the zip file now.
-      - If you wish to go back to original, replace the **iteminfo.lub** with original one.
-      - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
 
 # Changelog #
 - 2023 Jan 14: Big change, now there's a  new method. Note that old method still works with the .GPFs . Thank you zyn for all this! <br>
