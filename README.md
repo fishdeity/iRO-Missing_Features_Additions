@@ -2,29 +2,35 @@
 
 # Purpose #
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
-- **System/**: 
-  - **monster_size_effect_new.lub**: Effects and monster sizes are at their correct size and effect (like illusion turtles are actually small).
-  - **unidentified_shows_item.zip**: Shows what items are without needing magnifier. 
-- **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
-- **tools/** : Folder that contains programs for the installation alternate method. 
+
+### Non-GPF Types ###
++ **System/**: 
+  + **monster_size_effect_new.lub**: Effects and monster sizes are at their correct size and effect (like illusion turtles are actually small).
+  + **unidentified_shows_item.zip**: Shows what items are without needing magnifier. 
++ **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
++ **tools/** : Folder that contains programs for the installation alternate method.
+
+### GPF Types ###
 - **big_card.gpf**: Makes card sprites bigger, thus easier to see.
 - **card_art_missing_added.gpf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
-- **card_enchant_prefixes.gpf**: Enchants in card slots 1-4 have been added to item name to preview! (GFSS, FAW, and more)
+- **card_enchant_prefixes.gpf**: Enchants (not option enchants) are part of item name too (like FAW or Temporal Boots).
+  - Each name is added manually. To stay up-to-date, check back here and redownload few days after each new enchant or card comes out.
 - **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
 - **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
-  - and more
+  - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
 - **resource_file_fixes.gpf**: Files that are missing and fail to load and appear as red text in chat box have been added (like 16.2 lab map)
   - Missing Doram Garment Sprites like FAW, H.Backpack, AAW, Amistr
   - Sound files like drop_pink.wav also added (Blue, Green, Pink, Purple, Red, Yellow)
 - **zoom_farther_out.gpf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
+  - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
 
 # Installation Steps #
 
-## Adding for GPF types (Original Method) ##
+### Adding for GPF types (Original Method) ###
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
 2. Download each .gpf in the code section (or press the green button **Code** -> **Download ZIP**) you wish to add to your iRO game.
 3. Make a backup copy of your iRO's **data.grf** in case it's needed in the future!
@@ -37,7 +43,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 10. Repeat Step 8, 9 for any additional .gpfs you wish to add on.
 11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
 
-## Adding for GPF types (Alternate Method) ##
+### Adding for GPF Types (Alternate Method) ###
 *Note that this process has many possible ways to do, this is just 1 example.
 1. In the code section above, press the green button **Code**, then choose **Download ZIP**.
 3. Make a backup copy of your iRO's **data.grf** in case it's needed in the future!
@@ -49,7 +55,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - You can now delete those .gpf downloaded earlier. 
     - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
 
-## Adding for non-GPF types ##
+### Adding for Non-GPF Types ###
 - **System/monster_size_effect_new.lub**
   1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
   1. Make backup copy of your original **monster_size_effect_new.lub** first (Or you can also download from **backup_of_originals folder/System**).
