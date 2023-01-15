@@ -44,7 +44,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 ### Adding for GPF types (Original Method) ###
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
 2. Download each .gpf in the code section (or press the green button **Code** -> **Download ZIP**) you wish to add to your iRO game.
-3. Make a backup copy of your iRO's **data.grf** in case it's needed in the future!
+3. Make a backup copy of your iRO's **data.grf** in case it's needed in the future.
 4. Close all iRO game clients.
 5. Open **GRF Editor**:
 6. File -> Open -> choose your iRO's data.grf file that you will edit.
@@ -56,12 +56,13 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 ### Adding for GPF Types (Alternate Method) ###
 *Note that this process has many possible ways to do, this is just 1 example.
-1. In the code section above, press the green button **Code**, then choose **Download ZIP**.
-3. Make a backup copy of your iRO's **data.grf** in case it's needed in the future!
+1. In the code section above, press the green button **Code**, choose **Download ZIP**, then extract the zip file.
+3. Make a backup copy of your iRO's **data.grf** in case it's needed in the future.
 4. Close all iRO game clients.
 5. Move each .gpf you want added into your Ragnarok Online folder where the data.grf is (e.g. C:\Gravity\Ragnarok Online\).
 6. Also in the **tools** folder downloaded, move **merge_gpf_into_data_grf.bat** and **rsumerge.exe** into that same Ragnarok Online folder. 
-7. In your RO folder, run **merge_gpf_into_data_grf.bat**, a command prompt should open, then press any button.
+7. In your RO folder, run **merge_gpf_into_data_grf.bat**, a command prompt should open, then press 1 (or 2 if you're merging backups). 
+8. The command prompt will tell which gpf merges have worked. After it's done, press any key to continue.
 8. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
     - You can now delete those .gpf downloaded earlier. 
     - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
