@@ -40,6 +40,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   4. Your **iteminfo.lub** will be replaced and **iteminfo2.lub** will be created. Feel free to delete the zip file now.
       - If you wish to go back to original, replace the **iteminfo.lub** with original one.
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
+        - Can make a shortcut of iteminfo.bat and place on desktop for easier access.
 
 ### Adding for GPF types (Original Method) ###
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
