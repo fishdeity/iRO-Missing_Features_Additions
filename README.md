@@ -21,6 +21,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
 - **resource_file_fixes.gpf**: Files that are missing and fail to load and appear as red text in chat box have been added (like 16.2 lab map)
   - Missing Doram Garment Sprites like FAW, H.Backpack, Amistr
+  - Orcface_doram.spr missing files
 - **zoom_farther_out.gpf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
   - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
@@ -68,8 +69,11 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
 
 # Changelog #
+- 2023 Jan 28: 
+  - **card_enchant_prefixes.gpf** - Costume enchant stone box 18 enchants added.
+  - **resource_file_fixes.gpf** - Orcface_doram.spr files added to prevent Doram with orcface from crashing players. 
 - 2023 Jan 19: **resource_file_fixes.gpf** - Removed unncessarry files since included already and added Jitterbug 2nd NPC next to that priest.
-- 2023 Jan 14: Big change, now there's a  new method. Note that old method still works with the .GPFs . Thank you zyn for all this! <br>
+- 2023 Jan 14: Big change, now there's a alternate method. Note that original method still works with the .GPFs . Thank you zyn for all this! <br>
   Changes:
   - Change extension of all .grf files to .gpf
   - Add rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
