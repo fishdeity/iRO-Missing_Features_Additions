@@ -69,6 +69,16 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
 
 # Changelog #
+- 2023 April 27:
+  - **card_enchant_prefixes.gpf** - Lvl 200 and 17.2 patch. Part 1/?
+    - Enchant Stone Box 19 enchants added.
+    - Jitterbug changed to a prefix (of Jitterbug to Jitterbug).
+    - Costume class stones enchants slots are shorter, like Ranger(Mid) to Ranger(M).
+    - Still missing 17.2 module enchants. Will update in next few days.
+  - **resource_file_fixes.gpf** - Extra files that are now included were removed:
+    - That one egg in Sky Fortress
+    - Doram orcface
+    - Two doram garment sprites.
 - 2023 Jan 28: 
   - **card_enchant_prefixes.gpf** - Costume enchant stone box 18 enchants added.
   - **resource_file_fixes.gpf** - Orcface_doram.spr files added to prevent Doram with orcface from crashing players. 
