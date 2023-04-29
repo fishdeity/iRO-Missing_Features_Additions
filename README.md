@@ -17,6 +17,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Each name is added manually. To stay up-to-date, check back here and redownload few days after each new enchant or card comes out.
 - **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
+- **exp_bar_show_percent.gpf**: Shows the exp percent when reach lvl 185 and job 65+.
 - **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
@@ -76,6 +77,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 # Changelog #
 - 2023 April 29:
   - **System/customeffects.lua** - Added this in case people want to see glow and sound effects for new 17.2 and lvl 200 items.
+  - **exp_bar_show_percent.gpf** - Shows the exp percent at lvl 185 and job 65+
 - 2023 April 29:
   - **maps_added_and_fixed.gpf** - Lvl 200 and 17.2 patch. Many maps part of 17.2 update have been added. See its clickable change for details.
   - **zoom_farther_out.gpf** - Lvl 200 and 17.2 patch. 
