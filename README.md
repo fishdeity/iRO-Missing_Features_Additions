@@ -2,7 +2,9 @@
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
 
 ### Non-GPF Types ###
-+ **System/**: 
++ **System/**:
+  + **customeffects.lua**: File with custom effects, 17.2 and lvl 200 cards are included. 
+    + Requires unidentified_shows_item.zip to be working first.
   + **monster_size_effect_new.lub**: Effects and monster sizes are at their correct size and effect (like illusion turtles are actually small).
   + **unidentified_shows_item.zip**: Shows what items are without needing magnifier. 
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
@@ -29,6 +31,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 # Installation Steps #
 
 ### Adding for Non-GPF Types ###
+- **customeffects.lua**
+  1. Make **System/unidentified_shows_item.zip** work first.
+  2. Drag this file into the System folder and it should ask to replace the current one, click yes.
 - **System/monster_size_effect_new.lub**
   1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
   1. Make backup copy of your original **monster_size_effect_new.lub** first (Or you can also download from **backup_of_originals folder/System**).
@@ -69,6 +74,8 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
 
 # Changelog #
+- 2023 April 29:
+  - **System/customeffects.lua** - Added this in case people want to see glow and sound effects for new 17.2 and lvl 200 items.
 - 2023 April 29:
   - **maps_added_and_fixed.gpf** - Lvl 200 and 17.2 patch. Many maps part of 17.2 update have been added. See its clickable change for details.
   - **zoom_farther_out.gpf** - Lvl 200 and 17.2 patch. 
@@ -115,6 +122,7 @@ If any issues, Discord message me at 2Lazy2MakeAName#2486
 - zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
   - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
 - rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
+- [chrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
 
 # Changelog (Previous) #
 - 2022 Dec 14: **card_enchant_prefixes.grf** - Fixed bug with Parry enchants. Thank you Keyron for pointing it out.
