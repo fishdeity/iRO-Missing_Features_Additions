@@ -69,6 +69,12 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
 
 # Changelog #
+- 2023 April 29:
+  - **maps_added_and_fixed.gpf** - Lvl 200 and 17.2 patch. Many maps part of 17.2 update have been added. See its clickable change for details.
+  - **zoom_farther_out.gpf** - Lvl 200 and 17.2 patch. 
+    - Zoom in value changed from 100 -> 10
+    - Zoom out value changed from 900 -> 1200
+    - A bunch of maps have been added, see its clickable change for details.
 - 2023 April 27:
   - **card_enchant_prefixes.gpf** - Lvl 200 and 17.2 patch. Part 1/?
     - Enchant Stone Box 19 enchants added.
