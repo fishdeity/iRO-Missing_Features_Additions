@@ -6,7 +6,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   + **customeffects.lua**: File with custom effects, 17.2 and lvl 200 cards are included. 
     + Requires unidentified_shows_item.zip to be working first.
   + **monster_size_effect_new.lub**: Effects and monster sizes are at their correct size and effect (like illusion turtles are actually small).
-  + **unidentified_shows_item.zip**: Shows what items are without needing magnifier. 
+  + **unidentified_shows_item.zip**: Shows what items are without needing magnifier. Requires re-run a file every 1-2 weeks to keep working.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
 + **tools/** : Folder that contains programs for the installation alternate method.
 
@@ -17,14 +17,13 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Each name is added manually. To stay up-to-date, check back here and redownload few days after each new enchant or card comes out.
 - **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
-- **exp_bar_show_percent.gpf**: Shows the exp percent when reach lvl 185 and job 65+.
 - **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
   - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
 - **resource_file_fixes.gpf**: Files that are missing and fail to load and appear as red text in chat box have been added (like 16.2 lab map)
-  - Missing Doram Garment Sprites like FAW, H.Backpack, Amistr
-  - Orcface_doram.spr missing files
+  - Missing Doram Garment Sprites like Amistr Bag
+  - Shows the exp percent bar when reach lvl 185, job 65+, and the red aura at lvl 200.
 - **zoom_farther_out.gpf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
   - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
@@ -33,25 +32,25 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 ### Adding for Non-GPF Types ###
 - **customeffects.lua**
-  1. Make **System/unidentified_shows_item.zip** work first.
+  1. Do **System/unidentified_shows_item.zip** first.
   2. Drag this file into the System folder and it should ask to replace the current one, click yes.
+      - Requires to see unidentified items to keep working.
 - **System/monster_size_effect_new.lub**
   1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
-  1. Make backup copy of your original **monster_size_effect_new.lub** first (Or you can also download from **backup_of_originals folder/System**).
   2. Download and drag & drop mine inside your System folder. It will replace the original one.
 - **System/unidentified_shows_item.zip**
-  1. Make backup copy of your original **iteminfo.lub** first. (You can also download from **backup_of_originals/System**).
-  2. Download and move my zip file into your iRO's **System** folder. Extract the zip file's contents in there.
-  3. Run **iteminfo.bat**, a command prompt should open, then press any button.
-  4. Your **iteminfo.lub** will be replaced and **iteminfo2.lub** will be created. Feel free to delete the zip file now.
-      - If you wish to go back to original, replace the **iteminfo.lub** with original one.
+  1. Download and move my zip file into your iRO's **System** folder. Extract the zip file's contents in there.
+  2. Run **iteminfo.bat**, a command prompt should open, then press any button.
+  3. Feel free to delete the zip file now.
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
-        - Can make a shortcut of iteminfo.bat and place on desktop for easier access.
+        - Make a shortcut of iteminfo.bat and place on desktop for easier access.
+      - If you wish to go back to original, replace the **iteminfo.lub** with original one.
+      - customeffects.lua will be generated, you can customize effects (like pink glow) to any item you wish.
 
 ### Adding for GPF types (Original Method) ###
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
 2. Download each .gpf in the code section (or press the green button **Code** -> **Download ZIP**) you wish to add to your iRO game.
-3. Make a backup copy of your iRO's **data.grf** in case it's needed in the future.
+3. Make a backup copy of your iRO's **data.grf** in case you mess up.
 4. Close all iRO game clients.
 5. Open **GRF Editor**:
 6. File -> Open -> choose your iRO's data.grf file that you will edit.
@@ -64,7 +63,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 ### Adding for GPF Types (Alternate Method) ###
 *Note that this process has many possible ways to do, this is just 1 example.
 1. In the code section above, press the green button **Code**, choose **Download ZIP**, then extract the zip file.
-3. Make a backup copy of your iRO's **data.grf** in case it's needed in the future.
+3. Make a backup copy of your iRO's **data.grf** in case you mess up.
 4. Close all iRO game clients.
 5. Move each .gpf you want added into your Ragnarok Online folder where the data.grf is (e.g. C:\Gravity\Ragnarok Online\).
 6. Also in the **tools** folder downloaded, move **merge_gpf_into_data_grf.bat** and **rsumerge.exe** into that same Ragnarok Online folder. 
@@ -75,6 +74,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
 
 # Changelog #
+- 2023 May 4: 
+  - **card_enchant_prefixes.gpf**: Added 17.2 mods and Odin 4 enchants. Also shortened some names, see its clickable change for details.
+  - **resource_file_fixes.gpf**: Has included the exp percent bar in this file now.
 - 2023 April 29:
   - **System/customeffects.lua** - Added this in case people want to see glow and sound effects for new 17.2 and lvl 200 items.
   - **exp_bar_show_percent.gpf** - Shows the exp percent at lvl 185 and job 65+
