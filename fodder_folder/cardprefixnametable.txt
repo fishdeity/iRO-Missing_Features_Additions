@@ -1043,7 +1043,9 @@
 4792#DEF+6#
 4793#DEF+9#
 4794#DEF+12#
+4902#DEF+18#
 29026#DEF+20#
+4903#DEF+21#
 
 4786#MDEF+2#
 4787#MDEF+4#
@@ -1057,10 +1059,12 @@
 4859#Flee+1#
 4860#Flee+3#
 4762#Flee+6#
+29238#Flee+10#
 4763#Flee+12#
 
 4764#CRI+5#
 4765#CRI+7#
+29241#CRI+10#
 
 4926#Crit1#
 4939#Crit2#
@@ -1130,10 +1134,6 @@
 4948#ASD1#
 4949#ASD2#
 4950#ASD3#
-
-29053#SkillDelay1#
-29054#SkillDelay1#
-29055#SkillDelay1#
 
 4942#Parry1#
 4943#Parry2#
@@ -1300,26 +1300,123 @@
 29533#Heal#
 29534#ATK#
 29535#MATK#
-29536#Sharpshoot#
+29536#SS#
 29537#Speed#
 29538#Caster#
 29539#Crit#
-29540#SkillDelay#
+29540#Delay#
 29541#FCT#
 29542#AbvAll#
 29543#DrainHP#
 29544#DrainSP#
 29545#MagicHeal#
 29546#MagicSoul#
-29547#UnVit#
-29548#SpellBust#
-29549#FierceShoot#
+29547#UV#
+29548#SB#
+29549#FShoot#
 29550#OP#
-29551#Flash#
-29552#LuckyStrike#
+29551#FF#
+29552#LS#
 
 //--Ep17.2 Legacy of the Wise One Enchants
-//enchants coming soon
+310082#DEF#
+310083#MDEF#
+310084#VIT#
+310085#LUK#
+310086#STR#
+310087#AGI#
+310088#INT#
+310089#DEX#
+310090#HpRec#
+310091#SpRec#
+310092#Spell#
+310093#ASPD#
+310094#Fatal#
+310095#EA#
+310096#Health#
+310097#SPR#
+310098#Heal#
+310099#ATK#
+310100#MATK#
+310101#SS#
+310102#Speed#
+310103#Caster#
+310104#Crit#
+310105#MagF#
+310106#AtkF#
+310107#RngF#
+310108#CritF#
+310109#RecF#
+310110#Delay#
+310111#FCT#
+310112#AbvAll#
+310113#DrainHP#
+310114#DrainSP#
+310115#MagicHeal#
+310116#MagicSoul#
+310117#PwrF#
+310118#Robust#
+310119#Powerful#
+310120#AllF#
+310121#UV#
+310122#SB#
+310123#FShoot#
+310124#OP#
+310125#FF#
+310126#LS#
+310127#DrBr#
+310128#WaBr#
+310129#HuSp#
+310130#DrPr#
+310131#VaCa#
+310132#GeGl#
+310133#BoCa#
+310134#IcFl#
+310135#ToSw#
+310136#CaTo#
+310137#CrMa#
+310138#AcEx#
+310139#SoIm#
+310140#CuSl#
+310141#BeSl#
+310142#FaRa#
+310143#ShSp#
+310144#AnSh#
+310145#CrSt#
+310146#JaLi#
+310147#CoVo#
+310148#DoBo#
+310149#WaWa#
+310150#DiGr#
+310151#Magnus#
+310152#HoJu#
+310153#Duple#
+310154#FaTi#
+310155#RaAr#
+310156#RaCr#
+310157#Cluster#
+310158#BrSh#
+310159#AiSt#
+310160#MeEc#
+310161#Rev#
+310162#VuSe#
+310163#BlEx#
+310164#MoKi#
+310165#FaFl#
+310166#Eswoo#
+310167#Espa#
+310168#CuEx#
+310169#DeHaDa#
+310170#FiHoTa#
+310171#StBuTr#
+310172#PeSpBl#
+310173#CrSl#
+310174#DrDrWi#
+310175#Sea#
+310176#Land#
+310177#Life#
+310178#MiCo#
+310179#ReRe#
 
 //--Angel Poring Shoes Constellation Enchants
 29148#Leo#
@@ -1336,6 +1433,14 @@
 29124#LoveS#
 29125#InsightA#
 29126#InsightS#
+
+//--Odin's Temple 4 Enchants
+310076#BoS#
+310077#BoA#
+310078#BoV#
+310079#BoD#
+310080#BoI#
+310081#BoL#
 
 //--Costume Special Enchants
 //Some are also in other sections, search ID first
@@ -1362,6 +1467,11 @@
 29157#VCT-3%#
 29158#VCT-3%#
 29358#VCT-10%#
+
+//---Skill Delay
+29053#SD1#
+29054#SD1#
+29055#SD1#
 
 //---Crit Damage
 29359#CritDmg+3%#
