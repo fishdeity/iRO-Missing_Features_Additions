@@ -3,10 +3,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 ### Non-GPF Types ###
 + **System/**:
-  + **customeffects.lua**: File with custom effects, 17.2 and lvl 200 cards are included. 
-    + Requires unidentified_shows_item.zip to be working first.
   + **monster_size_effect_new.lub**: Effects and monster sizes are at their correct size and effect (like illusion turtles are actually small).
-  + **unidentified_shows_item.zip**: Shows what items are without needing magnifier. Requires re-run a file every 1-2 weeks to keep working.
+  + **unidentified_shows_item.zip**: Shows what items are without needing magnifier and item glows on some items.
+    + Requires re-run a file every 1-2 weeks to keep working.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
 + **tools/** : Folder that contains programs for the installation alternate method.
 
@@ -31,10 +30,6 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 # Installation Steps #
 
 ### Adding for Non-GPF Types ###
-- **customeffects.lua**
-  1. Do **System/unidentified_shows_item.zip** first.
-  2. Drag this file into the System folder and it should ask to replace the current one, click yes.
-      - Requires to see unidentified items to keep working.
 - **System/monster_size_effect_new.lub**
   1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
   2. Download and drag & drop mine inside your System folder. It will replace the original one.
@@ -45,7 +40,8 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
         - Make a shortcut of iteminfo.bat and place on desktop for easier access.
       - If you wish to go back to original, replace the **iteminfo.lub** with original one.
-      - customeffects.lua will be generated, you can customize effects (like pink glow) to any item you wish.
+      - customeffects.lua will be generated, it contains custom light effect for items
+        - You can add/remove anything you like in here.
 
 ### Adding for GPF types (Original Method) ###
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
@@ -74,6 +70,8 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
 
 # Changelog #
+- 2023 May 5:
+  - **unidentified_shows_item.zip**: customeffects.lua has been moved into this zip file. To see its contents, see its clickable change for details.
 - 2023 May 4: 
   - **card_enchant_prefixes.gpf**: Added 17.2 mods and Odin 4 enchants. Also shortened some names, see its clickable change for details.
   - **resource_file_fixes.gpf**: Has included the exp percent bar in this file now.
