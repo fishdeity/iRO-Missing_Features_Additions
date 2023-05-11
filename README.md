@@ -11,6 +11,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 ### GPF Types ###
 - **big_card.gpf**: Makes card sprites bigger, thus easier to see.
+- **big_ein3_ores**: Makes Einbroch Dungeon 3 ores sprites bigger.
 - **card_art_missing_added.gpf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
 - **card_enchant_prefixes.gpf**: Enchants (not option enchants) are part of item name too (like FAW or Temporal Boots).
   - Each name is added manually. To stay up-to-date, check back here and redownload few days after each new enchant or card comes out.
