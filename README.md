@@ -54,22 +54,26 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 8. Newer GRF Browse... -> Load... -> Choose any one of the .gpf you downloaded from here
 9. Click Merge and wait for it to finish.
 10. Repeat Step 8, 9 for any additional .gpfs you wish to add on.
-11. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
+11. Open the game and test it out! If there any issues, you can swap back to your backup copy data.grf
 
 ### Adding for GPF Types (Alternate Method) ###
 *Note that this process has many possible ways to do, this is just 1 example.
 1. In the code section above, press the green button **Code**, choose **Download ZIP**, then extract the zip file.
 3. Make a backup copy of your iRO's **data.grf** in case you mess up.
 4. Close all iRO game clients.
-5. Move each .gpf you want added into your Ragnarok Online folder where the data.grf is (e.g. C:\Gravity\Ragnarok Online\).
-6. Also in the **tools** folder downloaded, move **merge_gpf_into_data_grf.bat** and **rsumerge.exe** into that same Ragnarok Online folder. 
-7. In your RO folder, run **merge_gpf_into_data_grf.bat**, a command prompt should open, then press 1 (or 2 if you're merging backups). 
-8. The command prompt will tell which gpf merges have worked. After it's done, press any key to continue.
-8. Open iRO and test it out! If there any issues, you can swap back to your backup copy data.grf
-    - You can now delete those .gpf downloaded earlier. 
-    - merge_gpf_into_data_grf.bat and rsumerge.exe is suggested to be kept there in case for future use again.
+5. Move each .gpf you want added to your game into **iRO-Missing_Features_Additions-master**'s **tools** folder.
+6. Go into iRO folder and move **data.grf** into that tools folder.
+7. Run **merge_gpf_into_data_grf.bat**, a command prompt should open, press 1, and follow the instructions on there.
+8. Now move **data.grf** back into the iRO folder.
+9. Open the game and test it out! If there any issues, you can swap back to your backup copy data.grf
+    - You can now delete those downloaded files earlier.
+    - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+- 2023 May 11:
+  - **bundle_of_edits_for_newb/**: Folder added for tech illiterate users. 
+  - **big_ein3_ores.gpf**: Added thanks to Angux
+  - **resource_file_fixes.gpf**: Removed the file for exp % bar since patch has fixed it.
 - 2023 May 5:
   - **unidentified_shows_item.zip**: customeffects.lua has been moved into this zip file. To see its contents, see its clickable change for details.
 - 2023 May 4: 
