@@ -917,20 +917,20 @@ que_qaru05.rsw#que_qsch01.rsw#
 arug_cas04.gnd#arug_cas03.gnd#
 arug_cas04.gat#arug_cas03.gat#
 arug_cas04.rsw#arug_cas03.rsw#
-유저인터페이스\map\arug_cas04.bmp#유저인터페이스\map\arug_cas03.bmp#
+유저인터페이스\map\arug_cas04.bmp#유저인터페이스\map\arug_cas04.bmp#
 arug_cas05.gnd#arug_cas03.gnd#
 arug_cas05.gat#arug_cas03.gat#
 arug_cas05.rsw#arug_cas03.rsw#
-유저인터페이스\map\arug_cas05.bmp#유저인터페이스\map\arug_cas03.bmp#
+유저인터페이스\map\arug_cas05.bmp#유저인터페이스\map\arug_cas05.bmp#
 
 schg_cas04.gnd#schg_cas01.gnd#
 schg_cas04.gat#schg_cas01.gat#
 schg_cas04.rsw#schg_cas01.rsw#
-유저인터페이스\map\schg_cas04.bmp#유저인터페이스\map\schg_cas01.bmp#
+유저인터페이스\map\schg_cas04.bmp#유저인터페이스\map\schg_cas04.bmp#
 schg_cas05.gnd#schg_cas01.gnd#
 schg_cas05.gat#schg_cas01.gat#
 schg_cas05.rsw#schg_cas01.rsw#
-유저인터페이스\map\schg_cas05.bmp#유저인터페이스\map\schg_cas01.bmp#
+유저인터페이스\map\schg_cas05.bmp#유저인터페이스\map\schg_cas05.bmp#
 
 que_moc_16.gnd#in_moc_16.gnd#
 que_moc_16.gat#in_moc_16.gat#
@@ -1952,7 +1952,7 @@ ecl_tdun03.rsw#ecl_tdun03.rsw#
 dali02.gnd#dali.gnd#
 dali02.gat#dali.gat#
 dali02.rsw#dali.rsw#
-유저인터페이스\map\dali02.bmp#유저인터페이스\map\dali.bmp#
+유저인터페이스\map\dali02.bmp#유저인터페이스\map\dali02.bmp#
 
 1@tnm1.gnd#1@tnm1.gnd#
 1@tnm1.gat#1@tnm1.gat#
