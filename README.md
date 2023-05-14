@@ -3,7 +3,8 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 ### Non-GPF Types ###
 + **System/**:
-  + **monster_size_effect_new.lub**: Effects and monster sizes are at their correct size and effect (like illusion turtles are actually small).
+  + **monster_size_effect_new.lub**: Effects and monster sizes and effects are adjusted for QoL (like illusion turtles are actually small).
+    + Use at your own risk as altering monster sizes is against the rules in iRO!
   + **unidentified_shows_item.zip**: Shows what items are without needing magnifier and item glows on some items.
     + Requires re-run a file every 1-2 weeks to keep working.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
@@ -71,6 +72,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+- 2023 May 13: 
+  - **System/monster_size_effect_new.lub**: Added own improvements like bigger Beelzebub, Bio MVPs, etc. All listed in the file at the bottom.
+  - **maps_added_and_fixed.gpf**: Added more details for some maps and added resnametable.txt to fix broken maps not appearing. Thank you Blink for this info!
 - 2023 May 11:
   - **bundle_of_edits_for_newb/**: Folder added for tech illiterate users. 
   - **big_ein3_ores.gpf**: Added thanks to Angux
