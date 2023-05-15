@@ -8,6 +8,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   + **unidentified_shows_item.zip**: Shows what items are without needing magnifier and item glows on some items.
     + Requires re-run a file every 1-2 weeks to keep working.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
++ **bundle_of_edits_for_newb/**: Holds bundle of all gpf edits in here, mainly for lazy/tech newbie players.
 + **tools/** : Folder that contains programs for the installation alternate method.
 
 ### GPF Types ###
@@ -22,9 +23,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
   - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
-- **resource_file_fixes.gpf**: Files that are missing and fail to load and appear as red text in chat box have been added (like 16.2 lab map)
+- **resource_file_fixes.gpf**: Files that are missing and fail to load and appear as red text in chat box have been added.
   - Missing Doram Garment Sprites like Amistr Bag
-  - Shows the exp percent bar when reach lvl 185, job 65+, and the red aura at lvl 200.
+  - Missing map name pop up for some people, and more.
 - **zoom_farther_out.gpf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
   - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
@@ -72,6 +73,8 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+- 2023 May 15: 
+  - **resource_file_fixes.gpf**: Added display_mapname\ folder for those missing map name pop ups. Also added female kagerou sprite to stop missing sprite crashes.
 - 2023 May 13: 
   - **System/monster_size_effect_new.lub**: Added own improvements like bigger Beelzebub, Bio MVPs, etc. All listed in the file at the bottom.
   - **maps_added_and_fixed.gpf**: Added more details for some maps and added resnametable.txt to fix broken maps not appearing. Thank you Blink for this info!
@@ -81,6 +84,34 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - **resource_file_fixes.gpf**: Removed the file for exp % bar since patch has fixed it.
 - 2023 May 5:
   - **unidentified_shows_item.zip**: customeffects.lua has been moved into this zip file. To see its contents, see its clickable change for details.
+
+For previous changes, scroll all the way down.
+
+# Etc #
+If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
+
+# Contact #
+If any issues, Discord message me at 2Lazy2MakeAName#2486
+
+# Special Thanks #
+- [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
+- https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
+- zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
+  - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
+- rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
+- [chrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
+- Cate, Angux, Blink for their info
+
+# Sample Pictures #
+![Eden Map](https://user-images.githubusercontent.com/56460323/146634536-c895c854-828d-40f8-811f-27911659a1bb.jpg)
+
+![Enchants in Name 2](https://user-images.githubusercontent.com/56460323/146634561-c6cf520a-8351-4543-a911-7cf4d1927c19.jpg)
+
+![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
+
+![Card View Button Fixed](https://user-images.githubusercontent.com/56460323/146634565-ec143402-b233-46ba-984a-0e619d251994.jpg)
+
+# Changelog (Previous) #
 - 2023 May 4: 
   - **card_enchant_prefixes.gpf**: Added 17.2 mods and Odin 4 enchants. Also shortened some names, see its clickable change for details.
   - **resource_file_fixes.gpf**: Has included the exp percent bar in this file now.
@@ -118,24 +149,6 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Remove luac.exe, changing extension accomplishes the same thing
   - Add effect_list.txt from rAthena for reference
 - 2023 Jan 13: **resource_file_fixes.grf** - Added few missing Doram garment sprites like FAW, H.Backpack, AAW, Amistr. Also added missing drop_color.wav (Blue, Green, Pink, Purple, Red, Yellow)
-
-For previous changes, scroll down.
-
-# Etc #
-If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
-
-# Contact #
-If any issues, Discord message me at 2Lazy2MakeAName#2486
-
-# Special Thanks #
-- [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
-- https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
-- zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
-  - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
-- rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
-- [chrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
-
-# Changelog (Previous) #
 - 2022 Dec 14: **card_enchant_prefixes.grf** - Fixed bug with Parry enchants. Thank you Keyron for pointing it out.
 - 2022 Dec 1: **zoom_farther_out.grf** , **maps_added_and_fixed.grf** - Halloween Event Instance Map added (1@halo)
 - 2022 Nov 7: **zoom_farther_out.grf** - Changed 2 parameters: shift_camera_angle_downwards (from -15 -> -5) and shift_camera_angle_upwards (from -65 to -85) for more flexibility.
@@ -184,12 +197,3 @@ If any issues, Discord message me at 2Lazy2MakeAName#2486
 - 2022 Jan 22: **card_enchant_prefixes.grf** - Added Angeling Poring Shoes Constellation enchants.  
 - 2021 Dec 28: **card_enchant_prefixes.grf** - Added Evil Slayer Weapons (Devil's Tower) enchant for spell 1, etc.
 - 2021 Dec 25: Updated with lvl 185/65 patch. All issues fixed.
-
-# Sample Pictures #
-![Eden Map](https://user-images.githubusercontent.com/56460323/146634536-c895c854-828d-40f8-811f-27911659a1bb.jpg)
-
-![Enchants in Name 2](https://user-images.githubusercontent.com/56460323/146634561-c6cf520a-8351-4543-a911-7cf4d1927c19.jpg)
-
-![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
-
-![Card View Button Fixed](https://user-images.githubusercontent.com/56460323/146634565-ec143402-b233-46ba-984a-0e619d251994.jpg)
