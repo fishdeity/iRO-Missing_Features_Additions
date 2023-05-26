@@ -22,6 +22,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
+  - Areas like 17.1 instances and Malangdo Culvert show the correct map
   - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
 - **resource_file_fixes.gpf**: Files that are missing and fail to load and appear as red text in chat box have been added.
   - Missing Doram Garment Sprites like Amistr Bag
@@ -73,6 +74,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+- 2023 May 25: **card_enchant_prefixes.gpf**: Added costume enchant stone box 20.
 - 2023 May 15: 
   - **resource_file_fixes.gpf**: Added display_mapname\ folder for those missing map name pop ups. Also added female kagerou sprite to stop missing sprite crashes.
 - 2023 May 13: 
