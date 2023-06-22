@@ -74,7 +74,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
-- 2023 June 22: **card_enchant_prefixes.gpf**: Added costume enchant stone box 21.
+- 2023 June 22:
+  - **System/monster_size_effect_new.lub**: Added more improvements, such as marking invisible Faceworm waterball/poison cloud monsters.
+  - **card_enchant_prefixes.gpf**: Added costume enchant stone box 21.
 - 2023 May 25: **card_enchant_prefixes.gpf**: Added costume enchant stone box 20.
 - 2023 May 15: 
   - **resource_file_fixes.gpf**: Added display_mapname\ folder for those missing map name pop ups. Also added female kagerou sprite to stop missing sprite crashes.
