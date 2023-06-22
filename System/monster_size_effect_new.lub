@@ -1907,6 +1907,13 @@ tbl = {
 	[3194] = { MonsterSize = 1.00, MonsterEff = { EFFECT.EF_WHITEBODY } }, --Large Gigantes (Physical Immune)
 	[1627] = { MonsterSize = 1.00, MonsterEff = { EFFECT.EF_ORATIO } }, --Anopheles
 	
+	----Invisible Mobs
+	[2536] = { MonsterSize = 1.00, MonsterEff = { EFFECT.EF_VENOMDUST2 } }, --Faceworm fatal poison zone
+	[2537] = { MonsterSize = 1.00, MonsterEff = { EFFECT.EF_VENOMDUST2 } }, --Faceworm poison cloud minion
+	[2539] = { MonsterSize = 1.00, MonsterEff = { EFFECT.EF_COLDSTATUS } }, --Faceworm waterball minion
+	[2337] = { MonsterSize = 1.00, MonsterEff = { EFFECT.EF_BURNING } }, --Meteor Storm minion
+	[3038] = { MonsterSize = 1.00, MonsterEff = { EFFECT.EF_TORCH_RED } }, --Hidden_mob7 with npc_hellburning
+	
 	---Changes to ones already in the file
 	[1087] = { MonsterSize = 1.00, MonsterEff = { EFFECT.EF_NONE } }, --Orc Hero
 	
