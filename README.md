@@ -117,6 +117,7 @@ If any issues, Discord message me at 2Lazy2MakeAName#2486
 ![Card View Button Fixed](https://user-images.githubusercontent.com/56460323/146634565-ec143402-b233-46ba-984a-0e619d251994.jpg)
 
 # Changelog (Previous) #
+- 2023 July 1: **card_enchant_prefixes.gpf**: Fixed CrimsonWave Effect, thank you Lucky_Jack for the correction!
 - 2023 May 4: 
   - **card_enchant_prefixes.gpf**: Added 17.2 mods and Odin 4 enchants. Also shortened some names, see its clickable change for details.
   - **resource_file_fixes.gpf**: Has included the exp percent bar in this file now.
