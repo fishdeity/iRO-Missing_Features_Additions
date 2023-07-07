@@ -13,12 +13,13 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 ### GPF Types ###
 - **big_card.gpf**: Makes card sprites bigger, thus easier to see.
-- **big_ein3_ores**: Makes Einbroch Dungeon 3 ores sprites bigger.
+- **big_ein3_ores_bio5_frags.gpf**: Makes Einbroch Dungeon 3 ores sprites and Bio5 fragments bigger like Dynite and Cursed Fragment.
 - **card_art_missing_added.gpf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
 - **card_enchant_prefixes.gpf**: Enchants (not option enchants) are part of item name too (like FAW or Temporal Boots).
   - Each name is added manually. To stay up-to-date, check back here and redownload few days after each new enchant or card comes out.
 - **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
+- **eden_textures_premium.gpf**: Makes Eden a nice white color view.
 - **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
@@ -74,6 +75,11 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+- 2023 July 06:
+  - **big_ein3_ores_bio5_frags.gpf**: Added bio5 frags thanks to k.a!
+  - **card_enchant_prefixes.gpf**: Fixed CrimsonWave's effect. 
+  - **eden_textures_premium.gpf**: Added which makes Eden a nice white color, thanks to k.a!
+  - **resource_file_fixes.gpf**: Added missing bard illustration (ragi01) in the Eden room with the teleporter.
 - 2023 June 22:
   - **System/monster_size_effect_new.lub**: Added more improvements, such as marking invisible Faceworm waterball/poison cloud monsters.
   - **card_enchant_prefixes.gpf**: Added costume enchant stone box 21.
@@ -105,7 +111,10 @@ If any issues, Discord message me at 2Lazy2MakeAName#2486
   - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
 - rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
 - [chrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
-- Cate, Angux, Blink for their info
+- Cate for info on fixing lvl 200 aura
+- Angux for the bigger Einbech 3 ores
+- Blink for more mini maps and the file that tells the game where to look for each map's mini map
+- k.a for his eden view premium and bigger bio5 frags
 
 # Sample Pictures #
 ![Eden Map](https://user-images.githubusercontent.com/56460323/146634536-c895c854-828d-40f8-811f-27911659a1bb.jpg)
