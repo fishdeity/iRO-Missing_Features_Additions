@@ -75,6 +75,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+- 2023 July 20:
+  - **card_enchant_prefixes.gpf**: Shortened ShadowEffect to Shadow. Added Enchant Stone Box 22 new enchants.
+  - **maps_added_and_fixed.gpf**: Added missing map for gene's homunculus s quest room.
 - 2023 July 17: **unidentified_shows_item.zip**: customeffects.lua has been cleaned up and removed less important items.
 - 2023 July 06:
   - **big_ein3_ores_bio5_frags.gpf**: Added bio5 frags thanks to k.a!
