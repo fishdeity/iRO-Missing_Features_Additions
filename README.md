@@ -20,6 +20,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
 - **eden_textures_premium.gpf**: Makes Eden a nice white color view.
+- **exp_advisor_show_enchant.gpf**: Makes exp enchant readable and can see the number percent, including all race. 
 - **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
@@ -75,6 +76,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+- 2023 July 30: **exp_advisor_show_enchant.gpf**: Added
 - 2023 July 20:
   - **card_enchant_prefixes.gpf**: Shortened ShadowEffect to Shadow. Added Enchant Stone Box 22 new enchants.
   - **maps_added_and_fixed.gpf**: Added missing map for gene's homunculus s quest room.
