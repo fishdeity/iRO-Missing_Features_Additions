@@ -52,15 +52,33 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 ### Adding for GPF types (Original Method) ###
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
 2. Download each .gpf in the code section (or press the green button **Code** -> **Download ZIP**) you wish to add to your iRO game.
-3. Make a backup copy of your iRO's **data.grf** in case you mess up.
-4. Close all iRO game clients.
-5. Open **GRF Editor**:
-6. File -> Open -> choose your iRO's data.grf file that you will edit.
-7. Edit -> Merge -> 
-8. Newer GRF Browse... -> Load... -> Choose any one of the .gpf you downloaded from here
-9. Click Merge and wait for it to finish.
-10. Repeat Step 8, 9 for any additional .gpfs you wish to add on.
-11. Open the game and test it out! If there any issues, you can swap back to your backup copy data.grf
+
+![edits-00-click](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/664a50d1-599f-48be-ad78-f5de728d9158)
+![edits-01-download](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/f29ea11f-76c9-4fb8-b37f-a4ca9143066c)
+
+4. Make a backup copy of your iRO's **data.grf** in case you mess up.
+5. Close all iRO game clients.
+6. Open **GRF Editor**:
+8. File -> Open -> choose your iRO's data.grf file that you will edit.
+
+![edits-04-file_open](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/47533da0-43df-4911-bc80-3ccb0918eac8)
+![edits-05-open_data](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b4139cba-f4f1-4bb5-89d9-24406f23d324)
+
+10. Edit -> Merge ->
+    
+![edits-06-edit_merge](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/bf9e8572-06be-4034-a43e-675a96897c4d)
+
+12. Newer GRF Browse... -> Load... -> Choose any one of the .gpf you downloaded from here
+    
+![edits-07-browse_load](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/a616d5e0-6566-48a5-9560-34f65996a761)
+![edits-08-choose_edit](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b4fe6062-1d6a-4b19-bbe8-1c03883c683a)
+
+14. Click Merge and wait for it to finish.
+    
+![edits-09-merge](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/a8a8f6a4-eea0-43c5-9b32-d5ae2e1607b8)
+
+16. Repeat Step 8, 9 for any additional .gpfs you wish to add on.
+17. Open the game and test it out! If there any issues, you can swap back to your backup copy data.grf
 
 ### Adding for GPF Types (Alternate Method) ###
 *Note that this process has many possible ways to do, this is just 1 example.
