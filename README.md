@@ -141,13 +141,29 @@ If any issues, Discord message me at 2Lazy2MakeAName#2486
 - k.a for his eden view premium and bigger bio5 frags
 
 # Sample Pictures #
-![Eden Map](https://user-images.githubusercontent.com/56460323/146634536-c895c854-828d-40f8-811f-27911659a1bb.jpg)
+indoors_view_no_lock.gpf:
+
+![Eden view](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/290f74b5-73d6-451f-9330-c0c191daf12c)
+
+card_enchant_prefixes.gpf:
 
 ![Enchants in Name 2](https://user-images.githubusercontent.com/56460323/146634561-c6cf520a-8351-4543-a911-7cf4d1927c19.jpg)
 
-![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
+zoom_farther_out.gpf:
 
-![Card View Button Fixed](https://user-images.githubusercontent.com/56460323/146634565-ec143402-b233-46ba-984a-0e619d251994.jpg)
+![super zoom](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b3535887-7b51-4c34-bffb-5fcb3e02f835)
+
+maps_added_and_fixed.gpf:
+
+![et map](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/247bda36-98c0-433f-83b4-382f432fa380)
+
+exp_advisor_show_enchant.gpf:
+
+![exp advisor](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b3a4e59b-2f36-47bf-a2a0-d4bb437ac87e)
+
+card_art_missing_added.gpf:
+
+![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
 
 # Changelog (Previous) #
 - 2023 July 1: **card_enchant_prefixes.gpf**: Fixed CrimsonWave Effect, thank you Lucky_Jack for the correction!
