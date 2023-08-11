@@ -813,7 +813,7 @@
 27362#Orb of Queen Spider#
 27363#Doomed#
 
-// 22_09 2019 ?•ì‹¤ ?¬ëƒ¥ ?€??
+// 22_09 2019 ??i?¢´ ?¡þe?¡Í ?¢æ??
 27389#Wolfe's#
 27390#of Wolfe Lugenburg#
 27391#Poe's#
@@ -1653,4 +1653,22 @@
 310267#Min/Gyp2(M)#
 310268#Min/Gyp2(L)#
 
-//-Custom Additions End Here
+//----Box 22
+//Added melee and range stones in sections above
+
+//---Class Enchants section end
+//--Costume Special Enchants section end
+
+//--Will start organizing based on latest items instead of category
+
+//---Box 23
+310654#ASPD+1(D)#
+310659#VCT(D)#
+310661#Melee(D)#
+310662#HpAbs(D)#
+310664#MgcPwr(U)#
+310665#MgcPwr(M)#
+310666#MgcPwr(L)#
+310667#MgcPwr(D)#
+
+//-Custom Additions End Here-
