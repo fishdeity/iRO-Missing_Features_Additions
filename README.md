@@ -20,7 +20,6 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
 - **eden_textures_premium.gpf**: Makes Eden a nice white color view.
-- **exp_advisor_show_enchant.gpf**: Makes exp enchant readable and can see the number percent, including all race. 
 - **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
@@ -94,6 +93,11 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+- 2023 August 11:
+  - **card_art_missing_added.gpf**: Moved the file *num2cardillustnametable.txt* here from card_enchant_prefixes.gpf, no change.
+  - **card_enchant_prefixes.gpf**: Added enchant stone box 23, details here in the dev branch: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/d525c1a401b5eac42e456f39da4d17ff881d7a52).
+  - **exp_advisor_show_enchant.gpf**: Removed since latest patch fixed the unreadable % in exp advisor's enchants.
+  - Github dev_branch has been added if you like to see file changes online. Check the branch here: [dev_branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) .
 - 2023 July 30: **exp_advisor_show_enchant.gpf**: Added
 - 2023 July 20:
   - **card_enchant_prefixes.gpf**: Shortened ShadowEffect to Shadow. Added Enchant Stone Box 22 new enchants.
@@ -104,6 +108,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - **card_enchant_prefixes.gpf**: Fixed CrimsonWave's effect. 
   - **eden_textures_premium.gpf**: Added which makes Eden a nice white color, thanks to k.a!
   - **resource_file_fixes.gpf**: Added missing bard illustration (ragi01) in the Eden room with the teleporter.
+- 2023 July 1: **card_enchant_prefixes.gpf**: Fixed CrimsonWave Effect, thank you Lucky_Jack for the correction!
 - 2023 June 22:
   - **System/monster_size_effect_new.lub**: Added more improvements, such as marking invisible Faceworm waterball/poison cloud monsters.
   - **card_enchant_prefixes.gpf**: Added costume enchant stone box 21.
@@ -141,7 +146,8 @@ If any issues, Discord message me at 2Lazy2MakeAName#2486
 - k.a for his eden view premium and bigger bio5 frags
 
 # Sample Pictures #
-indoors_view_no_lock.gpf:
+indoors_view_no_lock.gpf (for normal camera view):
+eden_textures_premium.gpf (for different color):
 
 ![Eden view](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/290f74b5-73d6-451f-9330-c0c191daf12c)
 
@@ -157,16 +163,11 @@ maps_added_and_fixed.gpf:
 
 ![et map](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/247bda36-98c0-433f-83b4-382f432fa380)
 
-exp_advisor_show_enchant.gpf:
-
-![exp advisor](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b3a4e59b-2f36-47bf-a2a0-d4bb437ac87e)
-
 card_art_missing_added.gpf:
 
 ![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
 
 # Changelog (Previous) #
-- 2023 July 1: **card_enchant_prefixes.gpf**: Fixed CrimsonWave Effect, thank you Lucky_Jack for the correction!
 - 2023 May 4: 
   - **card_enchant_prefixes.gpf**: Added 17.2 mods and Odin 4 enchants. Also shortened some names, see its clickable change for details.
   - **resource_file_fixes.gpf**: Has included the exp percent bar in this file now.
