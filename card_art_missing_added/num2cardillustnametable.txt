@@ -990,6 +990,32 @@
 300124#Pitaya_B_Card#
 300125#Pitaya_G_Card#
 
+// 23_2Q UPDATE
+300240#Gan_Ceann_Card#
+300241#Brutal_Murderer_Card#
+300242#Ghost_Cube_Card#
+300243#Lude_Gal_Card#
+300244#Disguiser_Card#
+300245#Bluemoon_Loli_Ruri_Card#
+300246#Grote_Card#
+300247#Pierrotzoist_Card#
+300248#Death_Witch_Card#
+300249#Giant_Caput_Card#
+300250#Dolorian_Card#
+300251#Plagarion_Card#
+300252#Deadre_Card#
+300253#Venedi_Card#
+300254#Amitera_Card#
+300255#Litus_Card#
+300256#Fillia_Card#
+300257#Vanilaqus_Card#
+300258#Lava_Eater_Card#
+300259#Fulgor_Card#
+300260#Napeo_Card#
+300261#Galensis_Card#
+300262#The_One_Card#
+300281#R001_Bestia_Card#
+
 //Jitterbug - were missing but now added
 27106#각성한페르카드#
 27107#연주하는페르카드#
