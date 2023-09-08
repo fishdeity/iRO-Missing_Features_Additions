@@ -30,6 +30,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Missing map name pop up for some people, and more.
 - **zoom_farther_out.gpf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
+  - indoors_view_no_lock.gpf is automatically added into this file.
   - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
 
 # Installation Steps #
@@ -51,6 +52,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 ### Adding for GPF types (Original Method) ###
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
 2. Download each .gpf in the code section (or press the green button **Code** -> **Download ZIP**) you wish to add to your iRO game.
+   - Pictures example will use bundle_of_edits .gpf
 
 ![edits-00-click](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/664a50d1-599f-48be-ad78-f5de728d9158)
 ![edits-01-download](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/f29ea11f-76c9-4fb8-b37f-a4ca9143066c)
@@ -93,6 +95,13 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+- 2023 Sept 7: 4th jobs update
+  - **big_card.gpf**: Added .act file for players coming from super big card. No big change if yours is working fine already.
+  - **card_art_missing_added.gpf**: num2cardillustnametable.txt got updated, copied my own edits back into that file.
+  - **card_enchant_prefixes.gpf**: LEFT EMPTY UNTIL SERVER COMES BACK UP
+  - **maps_added_and_fixed.gpf**: Updated with 4th job maps. Click this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/6f93561ac763524926ab667021538b51467f7965) .
+  - **resource_file_fixes.gpf**: Removed the sprite file for Costume Amistr Bag for Dorams. It's not needed anymore.
+  - **zoom_farther_out.gpf**: Updated with 4th job maps. Click this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ededed1cb7a04e3c9582d0b53917e32799c17372) .
 - 2023 August 11:
   - **card_art_missing_added.gpf**: Moved the file *num2cardillustnametable.txt* here from card_enchant_prefixes.gpf, no change.
   - **card_enchant_prefixes.gpf**: Added enchant stone box 23, details here in the dev branch: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/d525c1a401b5eac42e456f39da4d17ff881d7a52).
@@ -131,7 +140,7 @@ For previous changes, scroll all the way down.
 If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
 
 # Contact #
-If any issues, Discord message me at 2Lazy2MakeAName#2486
+If any issues, Discord message me at 2Lazy2MakeAName.
 
 # Special Thanks #
 - [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
