@@ -97,10 +97,10 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
-- 2023 Sept 7: 4th jobs update
+- 2023 Sept 8: 4th jobs update
   - **big_card.gpf**: Added .act file for players coming from super big card. No big change if yours is working fine already.
   - **card_art_missing_added.gpf**: num2cardillustnametable.txt got updated, copied my own edits back into that file.
-  - **card_enchant_prefixes.gpf**: LEFT EMPTY UNTIL SERVER COMES BACK UP
+  - **card_enchant_prefixes.gpf**: Files got updated, copied my own edits back into those files.
   - **maps_added_and_fixed.gpf**: Updated with 4th job maps. Click this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/6f93561ac763524926ab667021538b51467f7965) .
   - **resource_file_fixes.gpf**: Removed the sprite file for Costume Amistr Bag for Dorams. It's not needed anymore.
   - **zoom_farther_out.gpf**: Updated with 4th job maps. Click this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ededed1cb7a04e3c9582d0b53917e32799c17372) .
