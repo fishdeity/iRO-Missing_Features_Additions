@@ -1,0 +1,1 @@
+//map rsw listed here change camera angle to indoors mode
