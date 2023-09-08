@@ -1,4 +1,6 @@
 # Purpose #
+[![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
+
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
 
 ### Non-GPF Types ###
