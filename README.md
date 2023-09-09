@@ -10,7 +10,8 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   + **unidentified_shows_item.zip**: Shows what items are without needing magnifier and item glows on some items.
     + Requires re-run a file every 1-2 weeks to keep working.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
-+ **bundle_of_edits_for_newb/**: Holds bundle of all gpf edits in here, mainly for lazy/tech newbie players.
++ **bundle_of_edits_for_newb/**: Holds bundle of ALL gpf type edits in here, mainly for lazy/tech newbie players.
+    + eden_textures_premium.gpf is not included in this for time being.
 + **tools/** : Folder that contains programs for the installation alternate method.
 
 ### GPF Types ###
@@ -97,6 +98,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
 - 2023 Sept 8: 4th jobs update
   - **big_card.gpf**: Added .act file for players coming from super big card. No big change if yours is working fine already.
   - **card_art_missing_added.gpf**: num2cardillustnametable.txt got updated, copied my own edits back into that file.
