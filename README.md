@@ -22,7 +22,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Each name is added manually. To stay up-to-date, check back here and redownload few days after each new enchant or card comes out.
 - **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
-- **eden_textures_premium.gpf**: Makes Eden a nice white color view.
+- **eden_textures_premium.gpf**: Makes Eden a nice white color view. /lightmap ingame can reduce brightness.
 - **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
