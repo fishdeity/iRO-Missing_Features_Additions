@@ -10,7 +10,8 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   + **unidentified_shows_item.zip**: Shows what items are without needing magnifier and item glows on some items.
     + Requires re-run a file every 1-2 weeks to keep working.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
-+ **bundle_of_edits_for_newb/**: Holds bundle of all gpf edits in here, mainly for lazy/tech newbie players.
++ **bundle_of_edits_for_newb/**: Holds bundle of ALL gpf type edits in here, mainly for lazy/tech newbie players.
+    + eden_textures_premium.gpf is not included in this for time being.
 + **tools/** : Folder that contains programs for the installation alternate method.
 
 ### GPF Types ###
@@ -21,7 +22,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Each name is added manually. To stay up-to-date, check back here and redownload few days after each new enchant or card comes out.
 - **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
-- **eden_textures_premium.gpf**: Makes Eden a nice white color view.
+- **eden_textures_premium.gpf**: Makes Eden a nice white color view. /lightmap ingame can reduce brightness.
 - **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
@@ -97,6 +98,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
+Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
 - 2023 Sept 8: 4th jobs update
   - **big_card.gpf**: Added .act file for players coming from super big card. No big change if yours is working fine already.
   - **card_art_missing_added.gpf**: num2cardillustnametable.txt got updated, copied my own edits back into that file.
