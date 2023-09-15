@@ -16,7 +16,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 ### GPF Types ###
 - **big_card.gpf**: Makes card sprites bigger, thus easier to see.
-- **big_ein3_ores_bio5_frags.gpf**: Makes Einbroch Dungeon 3 ores sprites and Bio5 fragments bigger like Dynite and Cursed Fragment.
+- **big_other_items.gpf**: Makes other item sprites bigger. Click commit message (words right of the file name above) to see full list of items.
 - **card_art_missing_added.gpf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
 - **card_enchant_prefixes.gpf**: Enchants (not option enchants) are part of item name too (like FAW or Temporal Boots).
   - Each name is added manually. To stay up-to-date, check back here and redownload few days after each new enchant or card comes out.
@@ -54,13 +54,16 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 ### Adding for GPF types (Original Method) ###
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
-2. Download each .gpf in the code section (or press the green button **Code** -> **Download ZIP**) you wish to add to your iRO game.
+2. Download each .gpf in the code section you wish to add to your iRO game (or press the green button **Code** -> **Download ZIP**).
    - Pictures example will use bundle_of_edits .gpf
 
 ![edits-00-click](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/664a50d1-599f-48be-ad78-f5de728d9158)
 ![edits-01-download](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/f29ea11f-76c9-4fb8-b37f-a4ca9143066c)
 
 3. Make a backup copy of your iRO's **data.grf** in case you mess up.
+
+![backup-copy](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/f5be269f-2577-4955-b7e5-f1c3b3fbc92f)
+
 4. Close all iRO game clients.
 5. Open **GRF Editor**:
 6. File -> Open -> choose your iRO's data.grf file that you will edit.
@@ -93,12 +96,16 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 6. Go into iRO folder and move **data.grf** into that tools folder.
 7. Run **merge_gpf_into_data_grf.bat**, a command prompt should open, press 1, and follow the instructions on there.
 8. Now move **data.grf** back into the iRO folder.
-9. Open the game and test it out! If there any issues, you can swap back to your backup copy data.grf
+9. Open the game and test it out! If there any issues, you can swap back to your backup copy data.grf by renaming it back to data.grf
     - You can now delete those downloaded files earlier.
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2023 Sept 14:
+  - **System/unidentified_shows_item.zip**: Added Etel (Ether) Dust in customeffects.lua, check this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0bf1ec1b0c25250d22f5a54adeb4c3ce5012d49c)
+  - **big_other_items.gpf**: Added Ether Dust, Shadowdecon, Shadowdecon Ore, Zelunium, Zelunium Ore in here too. This file was renamed.
+  - **resource_file_fixes.gpf**: Added missing Champion's Wreath sprite. Its file name has 남_황금월계수 in it.
 - 2023 Sept 8: 4th jobs update
   - **big_card.gpf**: Added .act file for players coming from super big card. No big change if yours is working fine already.
   - **card_art_missing_added.gpf**: num2cardillustnametable.txt got updated, copied my own edits back into that file.
