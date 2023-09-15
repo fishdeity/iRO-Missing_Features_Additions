@@ -58,6 +58,7 @@ customeffects = {
 	[25812]	   = { EffectID = 1191 }, --Purdium
 	[25813]	   = { EffectID = 1191 }, --Whidium
 	[25814]	   = { EffectID = 1191 }, --Dynite
+	[1000322]  = { EffectID = 1191 }, --Ether Dust
 	---Cards Missing
 	[300001]   = { EffectID = 1186 }, --Poisonous Card
 	[300002]   = { EffectID = 1186 }, --Toxious Card
