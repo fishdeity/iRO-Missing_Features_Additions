@@ -53,6 +53,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
         - You can add/remove anything you like in here.
 
 ### Adding for GPF types (Original Method) ###
+Note this works only for files ending with .gpf or .grf
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
 2. Download each .gpf in the code section you wish to add to your iRO game (or press the green button **Code** -> **Download ZIP**).
    - Pictures example will use bundle_of_edits .gpf
@@ -102,6 +103,8 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2023 Sept 21:
+  - **card_enchant_prefixes.gpf**: Added Stone Box 24. Check this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ad2e345da4d58e5be43e2a7882afc5f8287ecbe2)
 - 2023 Sept 14:
   - **System/unidentified_shows_item.zip**: Added Etel (Ether) Dust in customeffects.lua, check this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0bf1ec1b0c25250d22f5a54adeb4c3ce5012d49c)
   - **big_other_items.gpf**: Added Ether Dust, Shadowdecon, Shadowdecon Ore, Zelunium, Zelunium Ore in here too. This file was renamed.
@@ -113,37 +116,6 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
   - **maps_added_and_fixed.gpf**: Updated with 4th job maps. Click this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/6f93561ac763524926ab667021538b51467f7965) .
   - **resource_file_fixes.gpf**: Removed the sprite file for Costume Amistr Bag for Dorams. It's not needed anymore.
   - **zoom_farther_out.gpf**: Updated with 4th job maps. Click this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ededed1cb7a04e3c9582d0b53917e32799c17372) .
-- 2023 August 11:
-  - **card_art_missing_added.gpf**: Moved the file *num2cardillustnametable.txt* here from card_enchant_prefixes.gpf, no change.
-  - **card_enchant_prefixes.gpf**: Added enchant stone box 23, details here in the dev branch: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/d525c1a401b5eac42e456f39da4d17ff881d7a52).
-  - **exp_advisor_show_enchant.gpf**: Removed since latest patch fixed the unreadable % in exp advisor's enchants.
-  - Github dev_branch has been added if you like to see file changes online. Check the branch here: [dev_branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) .
-- 2023 July 30: **exp_advisor_show_enchant.gpf**: Added
-- 2023 July 20:
-  - **card_enchant_prefixes.gpf**: Shortened ShadowEffect to Shadow. Added Enchant Stone Box 22 new enchants.
-  - **maps_added_and_fixed.gpf**: Added missing map for gene's homunculus s quest room.
-- 2023 July 17: **unidentified_shows_item.zip**: customeffects.lua has been cleaned up and removed less important items.
-- 2023 July 06:
-  - **big_ein3_ores_bio5_frags.gpf**: Added bio5 frags thanks to k.a!
-  - **card_enchant_prefixes.gpf**: Fixed CrimsonWave's effect. 
-  - **eden_textures_premium.gpf**: Added which makes Eden a nice white color, thanks to k.a!
-  - **resource_file_fixes.gpf**: Added missing bard illustration (ragi01) in the Eden room with the teleporter.
-- 2023 July 1: **card_enchant_prefixes.gpf**: Fixed CrimsonWave Effect, thank you Lucky_Jack for the correction!
-- 2023 June 22:
-  - **System/monster_size_effect_new.lub**: Added more improvements, such as marking invisible Faceworm waterball/poison cloud monsters.
-  - **card_enchant_prefixes.gpf**: Added costume enchant stone box 21.
-- 2023 May 25: **card_enchant_prefixes.gpf**: Added costume enchant stone box 20.
-- 2023 May 15: 
-  - **resource_file_fixes.gpf**: Added display_mapname\ folder for those missing map name pop ups. Also added female kagerou sprite to stop missing sprite crashes.
-- 2023 May 13: 
-  - **System/monster_size_effect_new.lub**: Added own improvements like bigger Beelzebub, Bio MVPs, etc. All listed in the file at the bottom.
-  - **maps_added_and_fixed.gpf**: Added more details for some maps and added resnametable.txt to fix broken maps not appearing. Thank you Blink for this info!
-- 2023 May 11:
-  - **bundle_of_edits_for_newb/**: Folder added for tech illiterate users. 
-  - **big_ein3_ores.gpf**: Added thanks to Angux
-  - **resource_file_fixes.gpf**: Removed the file for exp % bar since patch has fixed it.
-- 2023 May 5:
-  - **unidentified_shows_item.zip**: customeffects.lua has been moved into this zip file. To see its contents, see its clickable change for details.
 
 For previous changes, scroll all the way down.
 
@@ -188,6 +160,37 @@ card_art_missing_added.gpf:
 ![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
 
 # Changelog (Previous) #
+- 2023 August 11:
+  - **card_art_missing_added.gpf**: Moved the file *num2cardillustnametable.txt* here from card_enchant_prefixes.gpf, no change.
+  - **card_enchant_prefixes.gpf**: Added enchant stone box 23, details here in the dev branch: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/d525c1a401b5eac42e456f39da4d17ff881d7a52).
+  - **exp_advisor_show_enchant.gpf**: Removed since latest patch fixed the unreadable % in exp advisor's enchants.
+  - Github dev_branch has been added if you like to see file changes online. Check the branch here: [dev_branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) .
+- 2023 July 30: **exp_advisor_show_enchant.gpf**: Added
+- 2023 July 20:
+  - **card_enchant_prefixes.gpf**: Shortened ShadowEffect to Shadow. Added Enchant Stone Box 22 new enchants.
+  - **maps_added_and_fixed.gpf**: Added missing map for gene's homunculus s quest room.
+- 2023 July 17: **unidentified_shows_item.zip**: customeffects.lua has been cleaned up and removed less important items.
+- 2023 July 06:
+  - **big_ein3_ores_bio5_frags.gpf**: Added bio5 frags thanks to k.a!
+  - **card_enchant_prefixes.gpf**: Fixed CrimsonWave's effect. 
+  - **eden_textures_premium.gpf**: Added which makes Eden a nice white color, thanks to k.a!
+  - **resource_file_fixes.gpf**: Added missing bard illustration (ragi01) in the Eden room with the teleporter.
+- 2023 July 1: **card_enchant_prefixes.gpf**: Fixed CrimsonWave Effect, thank you Lucky_Jack for the correction!
+- 2023 June 22:
+  - **System/monster_size_effect_new.lub**: Added more improvements, such as marking invisible Faceworm waterball/poison cloud monsters.
+  - **card_enchant_prefixes.gpf**: Added costume enchant stone box 21.
+- 2023 May 25: **card_enchant_prefixes.gpf**: Added costume enchant stone box 20.
+- 2023 May 15: 
+  - **resource_file_fixes.gpf**: Added display_mapname\ folder for those missing map name pop ups. Also added female kagerou sprite to stop missing sprite crashes.
+- 2023 May 13: 
+  - **System/monster_size_effect_new.lub**: Added own improvements like bigger Beelzebub, Bio MVPs, etc. All listed in the file at the bottom.
+  - **maps_added_and_fixed.gpf**: Added more details for some maps and added resnametable.txt to fix broken maps not appearing. Thank you Blink for this info!
+- 2023 May 11:
+  - **bundle_of_edits_for_newb/**: Folder added for tech illiterate users. 
+  - **big_ein3_ores.gpf**: Added thanks to Angux
+  - **resource_file_fixes.gpf**: Removed the file for exp % bar since patch has fixed it.
+- 2023 May 5:
+  - **unidentified_shows_item.zip**: customeffects.lua has been moved into this zip file. To see its contents, see its clickable change for details.
 - 2023 May 4: 
   - **card_enchant_prefixes.gpf**: Added 17.2 mods and Odin 4 enchants. Also shortened some names, see its clickable change for details.
   - **resource_file_fixes.gpf**: Has included the exp percent bar in this file now.
