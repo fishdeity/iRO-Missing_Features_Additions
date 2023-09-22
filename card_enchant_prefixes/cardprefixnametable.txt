@@ -1697,4 +1697,18 @@
 310666#MgcPwr(L)#
 310667#MgcPwr(D)#
 
+//---Box 24
+310658#MCT(D)#
+310660#LRD(D)#
+310663#SpAbs(D)#
+310881#RK(U)#
+310882#RK(M)#
+310883#RK(L)#
+310884#WL(U)#
+310885#WL(M)#
+310886#WL(L)#
+310887#RG(U)#
+310888#RG(M)#
+310889#RG(L)#
+
 //-Custom Additions End Here-
