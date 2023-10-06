@@ -921,22 +921,20 @@
 300257#Torrent#
 300258#Deep Darkness#
 
-//-Missing Cards Info-
+//-Custom Edits-
 
-//--Jitterbug
+//--Jitterbug cards missing 
 27106#Musician's#
 27107#Dancing#
 27108#Singing#
 27109#Jitterbug#
 
-//--Flame Basin
+//--Flame Basin cards missing
 27026#Blazing#
 27027#Flaming#
 27028#Searing#
 27029#Flame Eater#
 27030#Firebug#
-
-//-Custom Additions-
 
 //--Primary Stats Enchants
 4700#S+1#
@@ -1479,44 +1477,44 @@
 4992#HpAbs1#
 29013#HpAbs3#
 4993#SpAbs1#
-29032#SpAbs1_Phys#
+29032#SpAbs1(U)#
 4932#SpRec1#
 
 29155#LexA#
 
 //---Cast Times
-29154#FCT-0.3#
-29056#FCT-0.5#
+29154#MCT#
+29056#FCT#
 
-29156#VCT-3%#
-29157#VCT-3%#
-29158#VCT-3%#
-29358#VCT-10%#
+29156#VCT(U)#
+29157#VCT(M)#
+29158#VCT(L)#
+29358#VCT#
 
 //---Skill Delay
-29053#SD1#
-29054#SD1#
-29055#SD1#
+29053#SD1(U)#
+29054#SD1(M)#
+29055#SD1(L)#
 
 //---Crit Damage
-29359#CritDmg+3%#
-29360#CritDmg+3%#
-29361#CritDmg+20%#
+29359#Crit(U)#
+29360#Crit(L)#
+29361#Crit(G)#
 
 //---Other Effects
 4931#HpRegen10# //Recovers 10 HP per some seconds
 
-310325#LRD+3%#  //Range Stone (Upper)
-310326#LRD+3%#  //Range Stone (Lower)
-310330#LRD+3%#  //Range Stone (Middle)
+310325#Range(U)#  //Range Stone (Upper)
+310326#Range(L)#  //Range Stone (Lower)
+310330#Range(M)#  //Range Stone (Middle)
 
-310327#Melee+3%#
-310328#Melee+3%#
-310329#Melee+3%#
+310327#Melee(U)#
+310328#Melee(M)#
+310329#Melee(L)#
 
-29159#EXP+2%#
-29145#EXP+2%#
-29027#EXP+2%#
+29159#EXP(U)#
+29145#EXP(M)#
+29027#EXP(L)#
 
 //---Skill Usage Enabled Enchants
 29046#Greed#
@@ -1526,8 +1524,8 @@
 29146#ItemAppraisal#
 29227#Heal#
 29228#Steal#
-29229#Teleport#
-29362#DoubleAttack#
+29229#Tele#
+29362#DA#
 
 //---Cosmetic Enchants
 29040#Ghost#
@@ -1699,7 +1697,7 @@
 
 //---Box 24
 310658#MCT(D)#
-310660#LRD(D)#
+310660#Range(D)#
 310663#SpAbs(D)#
 310881#RK(U)#
 310882#RK(M)#
@@ -1711,4 +1709,4 @@
 310888#RG(M)#
 310889#RG(L)#
 
-//-Custom Additions End Here-
+//-Custom Edits End Here-
