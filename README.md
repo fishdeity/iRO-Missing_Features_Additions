@@ -106,7 +106,7 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
 - 2023 October 5:
   - **big_other_items.gpf**: Added Bloody Branch
   - **card_art_missing_added.gpf**: Updated to illu teddy bear. Changed Angel Poring Shoes and Temp Boots enchants preview pics to sorry images to decrease custom images. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/e18606f7d89d208b1efe8f7724fc8a37a37e896a)
-  - **card_enchant_prefixes.gpf**: Updated illu teddy bear. Changed a bunch of enchants names. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/47eeffff67191ae0841b1e7400e48f405e10d1ab)
+  - **card_enchant_prefixes.gpf**: Updated illu teddy bear. Changed a bunch of enchants names. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/47eeffff67191ae0841b1e7400e48f405e10d1ab) Also fixed missing option enchant for Maximum Mammonth Shadow. See this [image](https://media.discordapp.net/attachments/1149600885996003378/1159702200986120222/image1.png?ex=6531fbd6&is=651f86d6&hm=1ed8203fc0f7b451595ddafe5f87d4f2d0cd8b1ad9f661ffeabbd2b0f97fcbb0&=)
 - 2023 Sept 21:
   - **card_enchant_prefixes.gpf**: Added Stone Box 24. Check this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ad2e345da4d58e5be43e2a7882afc5f8287ecbe2)
 - 2023 Sept 14:
