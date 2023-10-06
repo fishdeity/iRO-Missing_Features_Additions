@@ -18,7 +18,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - **big_card.gpf**: Makes card sprites bigger, thus easier to see.
 - **big_other_items.gpf**: Makes other item sprites bigger. Click commit message (words right of the file name above) to see full list of items.
 - **card_art_missing_added.gpf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
-- **card_enchant_prefixes.gpf**: Enchants (not option enchants) are part of item name too (like FAW or Temporal Boots).
+- **card_enchant_prefixes.gpf**: Enchants (not option enchants) are part of item name too (like FAW or Temporal Boots). Also fixes descriptions of option enchants lines.
   - Each name is added manually. To stay up-to-date, check back here and redownload few days after each new enchant or card comes out.
 - **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
@@ -103,6 +103,10 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2023 October 5:
+  - **big_other_items.gpf**: Added Bloody Branch
+  - **card_art_missing_added.gpf**: Updated to illu teddy bear. Changed Angel Poring Shoes and Temp Boots enchants preview pics to sorry images to decrease custom images. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/e18606f7d89d208b1efe8f7724fc8a37a37e896a)
+  - **card_enchant_prefixes.gpf**: Updated illu teddy bear. Changed a bunch of enchants names. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/47eeffff67191ae0841b1e7400e48f405e10d1ab)
 - 2023 Sept 21:
   - **card_enchant_prefixes.gpf**: Added Stone Box 24. Check this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ad2e345da4d58e5be43e2a7882afc5f8287ecbe2)
 - 2023 Sept 14:
