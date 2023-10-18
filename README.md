@@ -103,6 +103,8 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2023 October 18:
+  - **card_enchant_prefixes.gpf**: Added Enchant Stone Box 25. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/487257eb75ad9f3cad66c38e5af6d893d8b8b811)
 - 2023 October 5:
   - **big_other_items.gpf**: Added Bloody Branch
   - **card_art_missing_added.gpf**: Updated to illu teddy bear. Changed Angel Poring Shoes and Temp Boots enchants preview pics to sorry images to decrease custom images. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/e18606f7d89d208b1efe8f7724fc8a37a37e896a)
