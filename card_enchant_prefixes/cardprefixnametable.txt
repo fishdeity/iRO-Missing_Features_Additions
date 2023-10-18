@@ -708,7 +708,7 @@
 4608#Knight's#
 4609#Knight's#
 
-//2017??3??Brasilis
+//2017³â 3¿ù Brasilis
 27120#Recovery#
 27121#Serrasalmus#
 27122#Tidal Wave#
@@ -719,7 +719,7 @@
 
 
 
-//2017??9??Moscovia Card
+//2017³â 9¿ù Moscovia Card
 27157#of Aqua Wood#
 27158#of Windness#
 27159#Demon Hunter#
@@ -813,7 +813,7 @@
 27362#Orb of Queen Spider#
 27363#Doomed#
 
-// 22_09 2019 ?•ì‹¤ ?¬ëƒ¥ ?€??
+// 22_09 2019 ¿Õ½Ç »ç³É ´ëÈ¸
 27389#Wolfe's#
 27390#of Wolfe Lugenburg#
 27391#Poe's#
@@ -920,6 +920,14 @@
 300256#Hellfire#
 300257#Torrent#
 300258#Deep Darkness#
+
+//2023 3Q Additional Update Illusion of TeddyBear
+27286#Lumping#
+27287#of Luminant#
+27288#of Worker#
+27289#Proper#
+27290#of Obsidian#
+//2023 3Q Additional Update Illusion of TeddyBear end
 
 //-Custom Edits-
 
@@ -1708,5 +1716,18 @@
 310887#RG(U)#
 310888#RG(M)#
 310889#RG(L)#
+
+//---Box 25
+311005#Mae/Wan(U)#
+311006#Mae/Wan(M)#
+311007#Mae/Wan(L)#
+311008#Gene(U)#
+311009#Gene(M)#
+311010#Gene(L)#
+311011#Sorc(U)#
+311012#Sorc(M)#
+311013#Sorc(L)#
+311014#Reload(D)#
+311015#CRT(D)#
 
 //-Custom Edits End Here-
