@@ -1,3 +1,9 @@
+# Table of Contents Mini #
+[Purpose](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#purpose) <br>
+[Installation Steps - Original Method](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#adding-for-gpf-types-original-method) <br>
+[Changelog](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#changelog) <br>
+[Sample Pictures](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#sample-pictures) <br>
+
 # Purpose #
 [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
 
@@ -8,7 +14,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   + **monster_size_effect_new.lub**: Effects and monster sizes and effects are adjusted for QoL (like illusion turtles are actually small).
     + Use at your own risk as altering monster sizes is against the rules in iRO!
   + **unidentified_shows_item.zip**: Shows what items are without needing magnifier and item glows on some items.
-    + Requires re-run a file every 1-2 weeks to keep working.
+    + Requires re-run a file every 1-2 weeks or when new items come out to keep working.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
 + **bundle_of_edits_for_newb/**: Holds bundle of ALL gpf type edits in here, mainly for lazy/tech newbie players.
     + eden_textures_premium.gpf is not included in this for time being.
@@ -103,6 +109,10 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2023 October 31:
+  - **card_art_missing_added.gpf**: Edda Fall of Glast Heim Update, copied my edits to updated file.
+  - **card_enchant_prefixes.gpf**: Added Edda Fall of Glast Heim enchants. See here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/34ac404371e28400c151f0c5c1793519f9a8d703)
+  - **maps_added_and_fixed.gpf**: Added Edda Fall of Glast Heim and few other missing mini maps. Also for resnametable.txt , copied my edits to updated file. 
 - 2023 October 18:
   - **card_enchant_prefixes.gpf**: Added Enchant Stone Box 25. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/487257eb75ad9f3cad66c38e5af6d893d8b8b811)
 - 2023 October 5:
