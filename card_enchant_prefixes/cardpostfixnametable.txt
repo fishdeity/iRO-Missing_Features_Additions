@@ -301,9 +301,12 @@
 300261#
 300281#
 
-
 //2023 3Q Additional Update Illusion of TeddyBear
 27287#
 27288#
 27290#
 //2023 3Q Additional Update Illusion of TeddyBear end
+
+//2023 3Q Additional Update Fall of Glast Heim
+//글래스트헤임 에다 카드
+27329#

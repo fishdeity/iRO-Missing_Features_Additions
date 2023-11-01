@@ -708,7 +708,7 @@
 4608#Knight's#
 4609#Knight's#
 
-//2017≥‚ 3ø˘ Brasilis
+//2017??3??Brasilis
 27120#Recovery#
 27121#Serrasalmus#
 27122#Tidal Wave#
@@ -719,7 +719,7 @@
 
 
 
-//2017≥‚ 9ø˘ Moscovia Card
+//2017??9??Moscovia Card
 27157#of Aqua Wood#
 27158#of Windness#
 27159#Demon Hunter#
@@ -813,7 +813,7 @@
 27362#Orb of Queen Spider#
 27363#Doomed#
 
-// 22_09 2019 ø’Ω« ªÁ≥… ¥Î»∏
+// 22_09 2019 ?ïÏã§ ?¨ÎÉ• ?Ä??
 27389#Wolfe's#
 27390#of Wolfe Lugenburg#
 27391#Poe's#
@@ -928,6 +928,10 @@
 27289#Proper#
 27290#of Obsidian#
 //2023 3Q Additional Update Illusion of TeddyBear end
+
+//2023 3Q Additional Update Fall of Glast Heim
+//Í∏Ä?òÏä§?∏Ìó§???êÎã§ Ïπ¥Îìú
+27329#of Schmidt#
 
 //-Custom Edits-
 
@@ -1729,5 +1733,21 @@
 311013#Sorc(L)#
 311014#Reload(D)#
 311015#CRT(D)#
+
+//---Edda Fall of Glast Heim Enchants
+29302#Water#
+29303#Wind#
+29304#Earth#
+29305#Fire#
+29306#Dark#
+29307#Holy#
+29308#Undead#
+29309#Poison#
+29587#Flash#
+29588#Strong#
+29589#CB#
+29590#DP#
+29591#Rigid#
+29592#WC#
 
 //-Custom Edits End Here-
