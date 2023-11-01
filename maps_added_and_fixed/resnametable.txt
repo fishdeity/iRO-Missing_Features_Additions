@@ -2510,6 +2510,15 @@ te_prt_gld.rsw#te_prt_gld.rsw#
 1@4drk.rsw#1@4drk.rsw#
 유저인터페이스\map\1@4drk.bmp#유저인터페이스\map\1@4drk.bmp#
 
+//2023 3Q Additional Update Fall of Glast Heim
+// EDDA 글래스트 헤임의 몰락
+1@gl_prq.gnd#1@gl_prq.gnd#
+1@gl_prq.gat#1@gl_prq.gat#
+1@gl_prq.rsw#1@gl_prq.rsw#
+유저인터페이스\map\1@gl_prq.bmp#유저인터페이스\map\1@gl_prq.bmp#
+
+//Custom Edits
+
 //this file tells each ingame map where to look for the mini map file
 
 //the map names listed here have been changed in the file
