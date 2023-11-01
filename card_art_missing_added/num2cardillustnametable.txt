@@ -586,7 +586,7 @@
 4584#머너넝걸카드#
 4585#멍쿠쿠럼카드#
 4586#틱버렁카드#
-4587#티억넠카�?
+4587#티억넠카드#
 4588#웤웤카드#
 4589#제제링카드#
 4590#벙웅곳카드#
@@ -1016,15 +1016,26 @@
 300262#The_One_Card#
 300281#R001_Bestia_Card#
 
+//일루전 오브 테디베어
+27286#알록달록곰인형카드#
+27287#빛나는곰인형카드#
+27288#노동형핏맨카드#
+27289#영혼의파편카드#
+27290#사념이깃든옵시디언카드#
+
+//2023 3Q Additional Update Fall of Glast Heim
+//글래스트헤임 에다 카드
+27329#Schmidt_Card#
+
 //-Custom Edits-
 
-//--Jitterbug - were missing but now added
+//--Jitterbug : were missing but now added
 27106#각성한페르카드#
 27107#연주하는페르카드#
 27108#노래하는페르카드#
 27109#지터벅카드#
 
-//--Geffen Magic Tournament - Sorry images replaced
+//--Geffen Magic Tournament : Sorry images replaced
 27249#Archi_Card#
 27250#Dio_Anemos_Card#
 27251#Geffen_Gang_Card#
@@ -1041,7 +1052,7 @@
 27262#Dy_Card#
 27263#Fei_Kanabian_Card#
 
-//--Sealed MVPs - Sorry images replaced
+//--Sealed MVPs : Sorry images replaced
 4480#Sealed_Kiel_Card#
 4481#Sealed_Ktullanux_Card#
 4482#Sealed_B_Ygnizem_Card#
@@ -1076,7 +1087,7 @@
 27224#SLD_Kades_Card#
 27225#SLD_Timeholder_Card#
 
-//--Angel Poring Shoes Enchants - adding to prevent card view crashing game
+//--Angel Poring Shoes Enchants : adding to prevent card view crashing game
 29148#sorry#
 29149#sorry#
 29150#sorry#
@@ -1084,7 +1095,7 @@
 29152#sorry#
 29153#sorry#
 
-//--Temporal Boots Enchants - adding to prevent card view crashing game
+//--Temporal Boots Enchants : adding to prevent card view crashing game
 4875#sorry#
 4876#sorry#
 4877#sorry#
