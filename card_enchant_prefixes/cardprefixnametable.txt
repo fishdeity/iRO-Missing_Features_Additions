@@ -1750,4 +1750,17 @@
 29591#Rigid#
 29592#WC#
 
+//---Box 26
+311354#Crit(D)#
+311355#CON(D)#
+311356#AB(U)#
+311357#AB(M)#
+311358#AB(L)#
+311359#Ranger(U)#
+311360#Ranger(M)#
+311361#Ranger(L)#
+311362#SC(U)#
+311363#SC(M)#
+311364#SC(L)#
+
 //-Custom Edits End Here-
