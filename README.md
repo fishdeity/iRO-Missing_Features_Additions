@@ -44,20 +44,6 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 # Installation Steps #
 
-### Adding for Non-GPF Types ###
-- **System/monster_size_effect_new.lub**
-  1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
-  2. Download and drag & drop mine inside your System folder. It will replace the original one.
-- **System/unidentified_shows_item.zip**
-  1. Download and move my zip file into your iRO's **System** folder. Extract the zip file's contents in there.
-  2. Run **iteminfo.bat**, a command prompt should open, then press any button.
-  3. Feel free to delete the zip file now.
-      - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
-        - Make a shortcut of iteminfo.bat and place on desktop for easier access.
-      - If you wish to go back to original, replace the **iteminfo.lub** with original one.
-      - customeffects.lua will be generated, it contains custom light effect for items
-        - You can add/remove anything you like in here.
-
 ### Adding for GPF types (Original Method) ###
 Note this works only for files ending with .gpf or .grf
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
@@ -107,8 +93,24 @@ Note this works only for files ending with .gpf or .grf
     - You can now delete those downloaded files earlier.
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
+### Adding for Non-GPF Types ###
+- **System/monster_size_effect_new.lub**
+  1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
+  2. Download and drag & drop mine inside your System folder. It will replace the original one.
+- **System/unidentified_shows_item.zip**
+  1. Download and move my zip file into your iRO's **System** folder. Extract the zip file's contents in there.
+  2. Run **iteminfo.bat**, a command prompt should open, then press any button.
+  3. Feel free to delete the zip file now.
+      - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
+        - Make a shortcut of iteminfo.bat and place on desktop for easier access.
+      - If you wish to go back to original, replace the **iteminfo.lub** with original one.
+      - customeffects.lua will be generated, it contains custom light effect for items
+        - You can add/remove anything you like in here.
+
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2023 November 14:
+  - **card_enchant_prefixes.gpf**: Added Enchant Stone Box 26.
 - 2023 October 31:
   - **card_art_missing_added.gpf**: Edda Fall of Glast Heim Update, copied my edits to updated file.
   - **card_enchant_prefixes.gpf**: Added Edda Fall of Glast Heim enchants. See here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/34ac404371e28400c151f0c5c1793519f9a8d703)
