@@ -9,17 +9,6 @@
 
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
 
-### Non-GPF Types ###
-+ **System/**:
-  + **monster_size_effect_new.lub**: Effects and monster sizes and effects are adjusted for QoL (like illusion turtles are actually small).
-    + Use at your own risk as altering monster sizes is against the rules in iRO!
-  + **unidentified_shows_item.zip**: Shows what items are without needing magnifier and item glows on some items.
-    + Requires re-run a file every 1-2 weeks or when new items come out to keep working.
-+ **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
-+ **bundle_of_edits_for_newb/**: Holds bundle of ALL gpf type edits in here, mainly for lazy/tech newbie players.
-    + eden_textures_premium.gpf is not included in this for time being.
-+ **tools/** : Folder that contains programs for the installation alternate method.
-
 ### GPF Types ###
 - **big_card.gpf**: Makes card sprites bigger, thus easier to see.
 - **big_other_items.gpf**: Makes other item sprites bigger. Click commit message (words right of the file name above) to see full list of items.
@@ -42,6 +31,17 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - indoors_view_no_lock.gpf is automatically added into this file.
   - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
 
+### Non-GPF Types ###
++ **System/**:
+  + **monster_size_effect_new.lub**: Effects and monster sizes and effects are adjusted for QoL (like illusion turtles are actually small).
+    + Use at your own risk as altering monster sizes is against the rules in iRO!
+  + **unidentified_shows_item.zip**: Shows what items are without needing magnifier and item glows on some items.
+    + Requires re-run a file every 1-2 weeks or when new items come out to keep working.
++ **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
++ **bundle_of_edits_for_newb/**: Holds bundle of ALL gpf type edits in here, mainly for lazy/tech newbie players.
+    + eden_textures_premium.gpf is not included in this for time being.
++ **tools/** : Folder that contains programs for the installation alternate method.
+  
 # Installation Steps #
 
 ### Adding for GPF types (Original Method) ###
@@ -109,6 +109,12 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2023 Dec 5:
+  - **big_other_items.gpf**: Added Adventure Card A at 30x size for future huge MVP card sprite.
+  - **card_art_missing_added.gpf**: Updated file to include my edits: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/180a9e3d79bed997e31033ce1eb4a5c4ce1accc0)
+  - **card_enchant_prefixes.gpf**: Updated with EDDA Biolabs and OGHCM enchants: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/261b72491f8edac80dfb0a923554142d55e40593)
+  - **maps_added_and_fixed.gpf**: Added missing mini maps for EDDA Biolabs and Geffen Night Arena. Also fixed Thanatos Tower highest floor wording from Agony to Misery.
+  - **zoom_farther_out.gpf**: Added Geffen Night Arena mini map for farther zoom. Other maps like Edda Biolabs and OGHCM maps were already added before: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0e477e2e1d74e6647e7539a4cead38f6695add5d)
 - 2023 November 14:
   - **card_enchant_prefixes.gpf**: Added Enchant Stone Box 26.
 - 2023 October 31:
