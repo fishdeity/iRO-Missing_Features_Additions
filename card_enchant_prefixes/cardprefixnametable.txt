@@ -1763,4 +1763,39 @@
 311363#SC(M)#
 311364#SC(L)#
 
+//EDDA Biolabs enchants
+29594#SeyM#
+29595#HowM#
+29596#EreM#
+29598#KatM#
+29599#MarM#
+29600#CecM#
+29601#RanM#
+29602#FlaM#
+29603#GerM#
+29604#CelM#
+29605#CheM#
+29606#TreM#
+29607#AlpM#
+
+//Old Glast Heim Challenge Mode (OGHCM) enchants
+29672#tjS1#
+29673#tjS2#
+29674#tjS3#
+29675#tjA1#
+29676#tjA2#
+29677#tjA3#
+29678#tjV1#
+29679#tjV2#
+29680#tjV3#
+29681#tjI1#
+29682#tjI2#
+29683#tjI3#
+29684#tjD1#
+29685#tjD2#
+29686#tjD3#
+29687#tjL1#
+29688#tjL2#
+29689#tjL3#
+
 //-Custom Edits End Here-
