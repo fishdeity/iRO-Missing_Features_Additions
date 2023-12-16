@@ -109,6 +109,8 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2023 Dec 15: 
+  - **card_enchant_prefixes.gpf**: Fixed missing OGHCM, GNA card prefixes: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/4d5e5f2bb68a08ea59804acd7e8d3c832a8d05bb)
 - 2023 Dec 5:
   - **big_other_items.gpf**: Added Adventure Card A at 30x size for future huge MVP card sprite.
   - **card_art_missing_added.gpf**: Updated file to include my edits: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/180a9e3d79bed997e31033ce1eb4a5c4ce1accc0)
