@@ -33,9 +33,12 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 ### Non-GPF Types ###
 + **System/**:
+  + **Adventure_Card_A_sprite-big_x30.gpf**: Giant sprite in case someone wants it for big, different MVP cards.
+  + **customeffects.lua**: File that can customize item light effects.
+  + **customsprites-some_mvp_cards.lua**: File that can customize item sprites, has some mvp cards changed to Adventure Card A sprite.
   + **monster_size_effect_new.lub**: Effects and monster sizes and effects are adjusted for QoL (like illusion turtles are actually small).
     + Use at your own risk as altering monster sizes is against the rules in iRO!
-  + **unidentified_shows_item.zip**: Shows what items are without needing magnifier and item glows on some items.
+  + **unidentified_shows_item.zip**: Shows what items are without needing magnifier. Can customize item glows and item sprites.
     + Requires re-run a file every 1-2 weeks or when new items come out to keep working.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
 + **bundle_of_edits_for_newb/**: Holds bundle of ALL gpf type edits in here, mainly for lazy/tech newbie players.
@@ -98,17 +101,21 @@ Note this works only for files ending with .gpf or .grf
   1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
   2. Download and drag & drop mine inside your System folder. It will replace the original one.
 - **System/unidentified_shows_item.zip**
-  1. Download and move my zip file into your iRO's **System** folder. Extract the zip file's contents in there.
+  1. Download my zip file, extract, then move the contents of all 5+ files into your iRO's **System** folder.
   2. Run **iteminfo.bat**, a command prompt should open, then press any button.
   3. Feel free to delete the zip file now.
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
         - Make a shortcut of iteminfo.bat and place on desktop for easier access.
-      - If you wish to go back to original, replace the **iteminfo.lub** with original one.
+      - If you wish to go back to original, delete **iteminfo.lub**, then rename the **iteminfo2.lub** to iteminfo.lub.
       - customeffects.lua will be generated, it contains custom light effect for items
         - You can add/remove anything you like in here.
+      - customsprites.lua will be generated, similar but with sprites instead.
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2023 Dec 19:
+  - **unidentified_shows_item.zip**: Added more files for capability to change item sprites.
+  - **card_enchant_prefixes.gpf**: Added enchant stone box 27: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ba0d088f139996ecac97cac6c5ce17aa1f7d6a01)
 - 2023 Dec 15: 
   - **card_enchant_prefixes.gpf**: Fixed missing OGHCM, GNA card prefixes: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/4d5e5f2bb68a08ea59804acd7e8d3c832a8d05bb)
 - 2023 Dec 5:
