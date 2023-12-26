@@ -113,6 +113,8 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2023 Dec 26:
+  - **big_other_items.gpf**: Added Flower Left by Phantom (300% size).
 - 2023 Dec 19:
   - **unidentified_shows_item.zip**: Added more files for capability to change item sprites.
   - **card_enchant_prefixes.gpf**: Added enchant stone box 27: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ba0d088f139996ecac97cac6c5ce17aa1f7d6a01)
