@@ -113,6 +113,10 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 Jan 16:
+  - **card_art_missing_added.gpf**: Luanda update, copy pasted edits over. See here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/21512c349e1f3d520b67ee0ec5dd88dde4865683)
+  - **card_enchant_prefixes.gpf**: Luanda update and Box 28 enchants added. See here details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/d586f18cac73bd6cd0ea26946dc493aca1057f1f)
+  - **resource_file_fixes.gpf**: Removed files that come with the game now. 
 - 2023 Dec 26:
   - **big_other_items.gpf**: Added Flower Left by Phantom (300% size).
 - 2023 Dec 19:
@@ -126,31 +130,6 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
   - **card_enchant_prefixes.gpf**: Updated with EDDA Biolabs and OGHCM enchants: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/261b72491f8edac80dfb0a923554142d55e40593)
   - **maps_added_and_fixed.gpf**: Added missing mini maps for EDDA Biolabs and Geffen Night Arena. Also fixed Thanatos Tower highest floor wording from Agony to Misery.
   - **zoom_farther_out.gpf**: Added Geffen Night Arena mini map for farther zoom. Other maps like Edda Biolabs and OGHCM maps were already added before: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0e477e2e1d74e6647e7539a4cead38f6695add5d)
-- 2023 November 14:
-  - **card_enchant_prefixes.gpf**: Added Enchant Stone Box 26.
-- 2023 October 31:
-  - **card_art_missing_added.gpf**: Edda Fall of Glast Heim Update, copied my edits to updated file.
-  - **card_enchant_prefixes.gpf**: Added Edda Fall of Glast Heim enchants. See here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/34ac404371e28400c151f0c5c1793519f9a8d703)
-  - **maps_added_and_fixed.gpf**: Added Edda Fall of Glast Heim and few other missing mini maps. Also for resnametable.txt , copied my edits to updated file. 
-- 2023 October 18:
-  - **card_enchant_prefixes.gpf**: Added Enchant Stone Box 25. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/487257eb75ad9f3cad66c38e5af6d893d8b8b811)
-- 2023 October 5:
-  - **big_other_items.gpf**: Added Bloody Branch
-  - **card_art_missing_added.gpf**: Updated to illu teddy bear. Changed Angel Poring Shoes and Temp Boots enchants preview pics to sorry images to decrease custom images. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/e18606f7d89d208b1efe8f7724fc8a37a37e896a)
-  - **card_enchant_prefixes.gpf**: Updated illu teddy bear. Changed a bunch of enchants names. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/47eeffff67191ae0841b1e7400e48f405e10d1ab) Also fixed missing option enchant for Maximum Mammonth Shadow. See this [image](https://media.discordapp.net/attachments/1149600885996003378/1159702200986120222/image1.png?ex=6531fbd6&is=651f86d6&hm=1ed8203fc0f7b451595ddafe5f87d4f2d0cd8b1ad9f661ffeabbd2b0f97fcbb0&=)
-- 2023 Sept 21:
-  - **card_enchant_prefixes.gpf**: Added Stone Box 24. Check this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ad2e345da4d58e5be43e2a7882afc5f8287ecbe2)
-- 2023 Sept 14:
-  - **System/unidentified_shows_item.zip**: Added Etel (Ether) Dust in customeffects.lua, check this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0bf1ec1b0c25250d22f5a54adeb4c3ce5012d49c)
-  - **big_other_items.gpf**: Added Ether Dust, Shadowdecon, Shadowdecon Ore, Zelunium, Zelunium Ore in here too. This file was renamed.
-  - **resource_file_fixes.gpf**: Added missing Champion's Wreath sprite. Its file name has 남_황금월계수 in it.
-- 2023 Sept 8: 4th jobs update
-  - **big_card.gpf**: Added .act file for players coming from super big card. No big change if yours is working fine already.
-  - **card_art_missing_added.gpf**: num2cardillustnametable.txt got updated, copied my own edits back into that file.
-  - **card_enchant_prefixes.gpf**: Files got updated, copied my own edits back into those files.
-  - **maps_added_and_fixed.gpf**: Updated with 4th job maps. Click this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/6f93561ac763524926ab667021538b51467f7965) .
-  - **resource_file_fixes.gpf**: Removed the sprite file for Costume Amistr Bag for Dorams. It's not needed anymore.
-  - **zoom_farther_out.gpf**: Updated with 4th job maps. Click this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ededed1cb7a04e3c9582d0b53917e32799c17372) .
 
 For previous changes, scroll all the way down.
 
@@ -195,6 +174,31 @@ card_art_missing_added.gpf:
 ![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
 
 # Changelog (Previous) #
+- 2023 November 14:
+  - **card_enchant_prefixes.gpf**: Added Enchant Stone Box 26.
+- 2023 October 31:
+  - **card_art_missing_added.gpf**: Edda Fall of Glast Heim Update, copied my edits to updated file.
+  - **card_enchant_prefixes.gpf**: Added Edda Fall of Glast Heim enchants. See here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/34ac404371e28400c151f0c5c1793519f9a8d703)
+  - **maps_added_and_fixed.gpf**: Added Edda Fall of Glast Heim and few other missing mini maps. Also for resnametable.txt , copied my edits to updated file. 
+- 2023 October 18:
+  - **card_enchant_prefixes.gpf**: Added Enchant Stone Box 25. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/487257eb75ad9f3cad66c38e5af6d893d8b8b811)
+- 2023 October 5:
+  - **big_other_items.gpf**: Added Bloody Branch
+  - **card_art_missing_added.gpf**: Updated to illu teddy bear. Changed Angel Poring Shoes and Temp Boots enchants preview pics to sorry images to decrease custom images. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/e18606f7d89d208b1efe8f7724fc8a37a37e896a)
+  - **card_enchant_prefixes.gpf**: Updated illu teddy bear. Changed a bunch of enchants names. Check here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/47eeffff67191ae0841b1e7400e48f405e10d1ab) Also fixed missing option enchant for Maximum Mammonth Shadow. See this [image](https://media.discordapp.net/attachments/1149600885996003378/1159702200986120222/image1.png?ex=6531fbd6&is=651f86d6&hm=1ed8203fc0f7b451595ddafe5f87d4f2d0cd8b1ad9f661ffeabbd2b0f97fcbb0&=)
+- 2023 Sept 21:
+  - **card_enchant_prefixes.gpf**: Added Stone Box 24. Check this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ad2e345da4d58e5be43e2a7882afc5f8287ecbe2)
+- 2023 Sept 14:
+  - **System/unidentified_shows_item.zip**: Added Etel (Ether) Dust in customeffects.lua, check this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0bf1ec1b0c25250d22f5a54adeb4c3ce5012d49c)
+  - **big_other_items.gpf**: Added Ether Dust, Shadowdecon, Shadowdecon Ore, Zelunium, Zelunium Ore in here too. This file was renamed.
+  - **resource_file_fixes.gpf**: Added missing Champion's Wreath sprite. Its file name has 남_황금월계수 in it.
+- 2023 Sept 8: 4th jobs update
+  - **big_card.gpf**: Added .act file for players coming from super big card. No big change if yours is working fine already.
+  - **card_art_missing_added.gpf**: num2cardillustnametable.txt got updated, copied my own edits back into that file.
+  - **card_enchant_prefixes.gpf**: Files got updated, copied my own edits back into those files.
+  - **maps_added_and_fixed.gpf**: Updated with 4th job maps. Click this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/6f93561ac763524926ab667021538b51467f7965) .
+  - **resource_file_fixes.gpf**: Removed the sprite file for Costume Amistr Bag for Dorams. It's not needed anymore.
+  - **zoom_farther_out.gpf**: Updated with 4th job maps. Click this to see full changes: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ededed1cb7a04e3c9582d0b53917e32799c17372) .
 - 2023 August 11:
   - **card_art_missing_added.gpf**: Moved the file *num2cardillustnametable.txt* here from card_enchant_prefixes.gpf, no change.
   - **card_enchant_prefixes.gpf**: Added enchant stone box 23, details here in the dev branch: [commit link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/d525c1a401b5eac42e456f39da4d17ff881d7a52).
