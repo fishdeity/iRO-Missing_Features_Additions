@@ -708,7 +708,7 @@
 4608#Knight's#
 4609#Knight's#
 
-//2017³â 3¿ù Brasilis
+//2017ë…„ 3ì›” Brasilis
 27120#Recovery#
 27121#Serrasalmus#
 27122#Tidal Wave#
@@ -719,7 +719,7 @@
 
 
 
-//2017³â 9¿ù Moscovia Card
+//2017ë…„ 9ì›” Moscovia Card
 27157#of Aqua Wood#
 27158#of Windness#
 27159#Demon Hunter#
@@ -813,7 +813,7 @@
 27362#Orb of Queen Spider#
 27363#Doomed#
 
-// 22_09 2019 ¿Õ½Ç »ç³É ´ëÈ¸
+// 22_09 2019 ì™•ì‹¤ ì‚¬ëƒ¥ ëŒ€íšŒ
 27389#Wolfe's#
 27390#of Wolfe Lugenburg#
 27391#Poe's#
@@ -922,7 +922,7 @@
 300258#Deep Darkness#
 
 //========2023 3Q UPDATE==================
-//°í¼º µµÀü¸ğµå
+//ê³ ì„± ë„ì „ëª¨ë“œ
 27381#of Fallen Angel#
 27382#of Creep#
 27383#of Relax#
@@ -932,7 +932,7 @@
 27387#Undead Slayer's#
 27388#Strong Recovery#
 
-//°ÔÆæ¾ß°£Åõ±âÀå Ä«µå
+//ê²Œíœì•¼ê°„íˆ¬ê¸°ì¥ ì¹´ë“œ
 300177#Midnight Arhi#
 300178#Midnight Anemos#
 300180#Midnight Gangster#
@@ -960,8 +960,19 @@
 //2023 3Q Additional Update Illusion of TeddyBear end
 
 //2023 3Q Additional Update Fall of Glast Heim
-//±Û·¡½ºÆ®ÇìÀÓ ¿¡´Ù Ä«µå
+//ê¸€ë˜ìŠ¤íŠ¸í—¤ì„ ì—ë‹¤ ì¹´ë“œ
 27329#of Schmidt#
+
+//2024 1Q Additional Update Illusion of Luanda
+//ì¼ë£¨ì „ ì˜¤ë¸Œ ë£¨ì•ˆë‹¤
+27291#Full Charging#
+27292#of Stalactic#
+27293#Circular#
+27294#of Big Stone#
+27295#of Stone Shooter#
+27296#of Wootan Shooter#
+27297#Wootan Fist#
+27298#of Big Shield#
 
 //-Custom Edits-
 
@@ -1840,5 +1851,19 @@
 311433#GX(U)#
 311434#GX(M)#
 311435#GX(L)#
+
+//---Box 28
+311460#SE(U)#
+311461#SE(M)#
+311462#SE(L)#
+311463#Rebel(U)#
+311464#Rebel(M)#
+311465#Rebel(L)#
+311466#SR(U)#
+311467#SR(M)#
+311468#SR(L)#
+311469#M-PATK(G)#
+311470#R-PATK(G)#
+311471#POW(D)#
 
 //-Custom Edits End Here-
