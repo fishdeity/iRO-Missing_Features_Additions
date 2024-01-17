@@ -1056,6 +1056,16 @@
 //글래스트헤임 에다 카드
 27329#Schmidt_Card#
 
+//2024 1Q Additional Update Illusion of Luanda
+27291#고대의트라이조인트카드#
+27292#고대의스터랙틱고렘카드#
+27293#고대의메갈리스카드#
+27294#고대의타오군카카드#
+27295#고대의스톤슈터카드#
+27296#고대의우탄슈터카드#
+27297#고대의우탄파이터카드#
+27298#고대의우탄디펜더카드#
+
 //-Custom Edits-
 
 //--Jitterbug : were missing but now added
