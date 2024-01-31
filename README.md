@@ -1,8 +1,8 @@
 # Table of Contents Mini #
-[Purpose](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#purpose) <br>
-[Installation Steps - Original Method](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#adding-for-gpf-types-original-method) <br>
-[Changelog](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#changelog) <br>
-[Sample Pictures](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#sample-pictures) <br>
+[Purpose](#purpose) <br>
+[Installation Steps - Original Method](#adding-for-gpf-types-original-method) <br>
+[Changelog](#changelog) <br>
+[Sample Pictures](#sample-pictures) <br>
 
 # Purpose #
 [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
@@ -97,10 +97,10 @@ Note this works only for files ending with .gpf or .grf
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 ### Adding for Non-GPF Types ###
-- **System/monster_size_effect_new.lub**
+- #### **System/monster_size_effect_new.lub** ####
   1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
   2. Download and drag & drop mine inside your System folder. It will replace the original one.
-- **System/unidentified_shows_item.zip**
+- #### **System/unidentified_shows_item.zip** ####
   1. Download my zip file, extract, then move the contents of all 5+ files into your iRO's **System** folder.
   2. Run **iteminfo.bat**, a command prompt should open, then press any button.
   3. Feel free to delete the zip file now.
@@ -151,14 +151,14 @@ If any issues, Discord message me at 2Lazy2MakeAName.
 - zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
   - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
 - rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
-- [chrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
+- [llchrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
 - Cate for info on fixing lvl 200 aura
 - Angux for the bigger Einbech 3 ores
 - Blink for more mini maps and the file that tells the game where to look for each map's mini map
 - k.a for his eden view premium and bigger bio5 frags
 
 # Sample Pictures #
-indoors_view_no_lock.gpf (for normal camera view):
+indoors_view_no_lock.gpf (for normal camera view): <br>
 eden_textures_premium.gpf (for different color):
 
 ![Eden view](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/290f74b5-73d6-451f-9330-c0c191daf12c)
