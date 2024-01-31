@@ -1,8 +1,8 @@
 # Table of Contents Mini #
-[Purpose](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#purpose) <br>
-[Installation Steps - Original Method](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#adding-for-gpf-types-original-method) <br>
-[Changelog](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#changelog) <br>
-[Sample Pictures](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master#sample-pictures) <br>
+[Purpose](#purpose) <br>
+[Installation Steps - Original Method](#adding-for-gpf-types-original-method) <br>
+[Changelog](#changelog) <br>
+[Sample Pictures](#sample-pictures) <br>
 
 # Purpose #
 [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
