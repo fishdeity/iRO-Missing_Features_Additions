@@ -1066,6 +1066,38 @@
 27297#고대의우탄파이터카드#
 27298#고대의우탄디펜더카드#
 
+//========2024 1Q UPDATE==================
+//회한의 무덤 카드 Tomb of Remorse
+300192#sorry#
+300193#sorry#
+
+//비공정 추락 신규카드 Airship Crash
+300170#MD_Airboat_Card#
+300171#MD_Airboat_Card2#
+300172#MD_Airboat_Card3#
+300173#MD_Airboat_Card4#
+300174#MD_Airboat_Card5#
+300175#MD_Airboat_Card6#
+300176#MD_Airboat_Card7#
+
+//타나토스 타워 개편(lv180) Thanatos Tower Revamp
+300267#Crow_Baron_Card#
+300268#Crow_Duke_Card#
+300269#Eldest_Card#
+300270#Empathizer_Card#
+300271#Happy_Giver_Card#
+300272#Pray_Giver_Card#
+300273#Smile_Giver_Card#
+300274#Tha_Anger_Card#
+300275#Tha_Horror_Card#
+300276#Tha_Regret_Card#
+300277#Tha_Resent_Card#
+300278#Void_Mimic_Card#
+300279#Book_Of_Death_Card#
+300280#Broken_Thanatos_Card#
+
+//=======================2024 1Q UPDATE end
+
 //-Custom Edits-
 
 //--Jitterbug : were missing but now added
