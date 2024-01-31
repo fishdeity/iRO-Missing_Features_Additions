@@ -113,6 +113,12 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 Jan 30:
+  - Tomb of Remorse, Airship Crash, Thanatos Tower Revamp update
+  - **card_art_missing_added.gpf**: Copy pasted edits over. See here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/425b106d6366d25a39039dbf5fba24517fc19ace)
+  - **card_enchant_prefixes.gpf**: Added Thanatos Tower Revamp instance enchants. See here details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/328cb064376e29f38b23544dce3c08af725ad069)
+  - **maps_added_and_fixed.gpf**: Added GX job change bar, Tomb of Remorse, Thana Tower instance maps. Also updated a file, see here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/9ff063c795a37a968a9ad3290471edd2d521a245)
+  - **zoom_farther_out.gpf**: Added zoom for all 3 new instances, see here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/828ec92f929391b3f46faff97aa9be60fa8c720f)
 - 2024 Jan 16:
   - **card_art_missing_added.gpf**: Luanda update, copy pasted edits over. See here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/21512c349e1f3d520b67ee0ec5dd88dde4865683)
   - **card_enchant_prefixes.gpf**: Luanda update and Box 28 enchants added. See here details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/d586f18cac73bd6cd0ea26946dc493aca1057f1f)
