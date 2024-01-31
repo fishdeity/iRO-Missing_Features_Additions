@@ -708,7 +708,7 @@
 4608#Knight's#
 4609#Knight's#
 
-//2017년 3월 Brasilis
+//2017??3??Brasilis
 27120#Recovery#
 27121#Serrasalmus#
 27122#Tidal Wave#
@@ -719,7 +719,7 @@
 
 
 
-//2017년 9월 Moscovia Card
+//2017??9??Moscovia Card
 27157#of Aqua Wood#
 27158#of Windness#
 27159#Demon Hunter#
@@ -813,7 +813,7 @@
 27362#Orb of Queen Spider#
 27363#Doomed#
 
-// 22_09 2019 왕실 사냥 대회
+// 22_09 2019 ?�실 ?�냥 ?�??
 27389#Wolfe's#
 27390#of Wolfe Lugenburg#
 27391#Poe's#
@@ -922,7 +922,7 @@
 300258#Deep Darkness#
 
 //========2023 3Q UPDATE==================
-//고성 도전모드
+//고성 ?�전모드
 27381#of Fallen Angel#
 27382#of Creep#
 27383#of Relax#
@@ -932,7 +932,7 @@
 27387#Undead Slayer's#
 27388#Strong Recovery#
 
-//게펜야간투기장 카드
+//게펜?�간?�기??카드
 300177#Midnight Arhi#
 300178#Midnight Anemos#
 300180#Midnight Gangster#
@@ -960,11 +960,11 @@
 //2023 3Q Additional Update Illusion of TeddyBear end
 
 //2023 3Q Additional Update Fall of Glast Heim
-//글래스트헤임 에다 카드
+//글?�스?�헤???�다 카드
 27329#of Schmidt#
 
 //2024 1Q Additional Update Illusion of Luanda
-//일루전 오브 루안다
+//?�루???�브 루안??
 27291#Full Charging#
 27292#of Stalactic#
 27293#Circular#
@@ -973,6 +973,25 @@
 27296#of Wootan Shooter#
 27297#Wootan Fist#
 27298#of Big Shield#
+
+//========2024 1Q UPDATE==================
+//?�한??무덤 Tomb of Remorese
+300192#Pisa#
+300193#Bobetta#
+
+//비공??추락 ?�규카드 Airship Crash
+300170#Rotten#
+300171#Digger#
+300172#Melting#
+300173#Annoying#
+300174#Denied#
+300175#Unknown#
+300176#of Undefine#
+
+//?�?�토???�??개편(lv180) Thanatos Tower Revamp
+300274#of Real Rage#
+
+//=======================2024 1Q UPDATE end
 
 //-Custom Edits-
 
@@ -1865,5 +1884,67 @@
 311469#M-PATK(G)#
 311470#R-PATK(G)#
 311471#POW(D)#
+
+//---Thanatos Tower Revamp 
+310197#Rage1#
+310198#Rage2#
+310199#Rage3#
+310200#Rage4#
+310201#Rage5#
+310202#Fear1#
+310203#Fear2#
+310204#Fear3#
+310205#Fear4#
+310206#Fear5#
+310207#Resent1#
+310208#Resent2#
+310209#Resent3#
+310210#Resent4#
+310211#Resent5#
+310212#Regret1#
+310213#Regret2#
+310214#Regret3#
+310215#Regret4#
+310216#Regret5#
+310217#Empathy1#
+310218#Empathy2#
+310219#Empathy3#
+310220#Empathy4#
+310221#Empathy5#
+310222#Hap1#
+310223#Hap2#
+310224#Hap3#
+310225#Hap4#
+310226#Hap5#
+310227#Rest1#
+310228#Rest2#
+310229#Rest3#
+310230#Rest4#
+310231#Rest5#
+310232#Condo1#
+310233#Condo2#
+310234#Condo3#
+310235#Condo4#
+310236#Condo5#
+310237#Disgust1#
+310238#Disgust2#
+310239#Disgust3#
+310240#Disgust4#
+310241#Disgust5#
+310242#Majesty1#
+310243#Majesty2#
+310244#Majesty3#
+310245#Majesty4#
+310246#Majesty5#
+310247#Demigod1#
+310248#Demigod2#
+310249#Demigod3#
+310250#Demigod4#
+310251#Demigod5#
+310252#Annihi1#
+310253#Annihi2#
+310254#Annihi3#
+310255#Annihi4#
+310256#Annihi5#
 
 //-Custom Edits End Here-
