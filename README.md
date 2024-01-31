@@ -158,7 +158,7 @@ If any issues, Discord message me at 2Lazy2MakeAName.
 - k.a for his eden view premium and bigger bio5 frags
 
 # Sample Pictures #
-indoors_view_no_lock.gpf (for normal camera view):
+indoors_view_no_lock.gpf (for normal camera view): <br>
 eden_textures_premium.gpf (for different color):
 
 ![Eden view](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/290f74b5-73d6-451f-9330-c0c191daf12c)
