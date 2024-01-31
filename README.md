@@ -97,10 +97,10 @@ Note this works only for files ending with .gpf or .grf
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 ### Adding for Non-GPF Types ###
-- **System/monster_size_effect_new.lub**
+- #### **System/monster_size_effect_new.lub** ####
   1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
   2. Download and drag & drop mine inside your System folder. It will replace the original one.
-- **System/unidentified_shows_item.zip**
+- #### **System/unidentified_shows_item.zip** ####
   1. Download my zip file, extract, then move the contents of all 5+ files into your iRO's **System** folder.
   2. Run **iteminfo.bat**, a command prompt should open, then press any button.
   3. Feel free to delete the zip file now.
