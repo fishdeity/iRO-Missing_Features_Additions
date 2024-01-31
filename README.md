@@ -151,7 +151,7 @@ If any issues, Discord message me at 2Lazy2MakeAName.
 - zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
   - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
 - rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
-- [chrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
+- [llchrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
 - Cate for info on fixing lvl 200 aura
 - Angux for the bigger Einbech 3 ores
 - Blink for more mini maps and the file that tells the game where to look for each map's mini map
