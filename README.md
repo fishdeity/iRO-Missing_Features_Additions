@@ -113,6 +113,13 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 Feb 6:
+  - Card update for Edda Biolabs, Thana Tower, and Temple of the Demon God.
+  - **big_other_items.gpf**: Added big Mineas and Ymir Fragment at 2x size.
+  - **card_art_missing_added.gpf**: Copy pasted my edits to updated files. Details here: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/8c15cbf65008779a66ec1052d3b031c1ce5bbaaa)
+  - **card_enchant_prefixes.gpf**: Copy pasted my edits to updated files. Details here: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/d80fb6c61b595a5e4304cdc2b6be4239bb837ea9)
+  - **maps_added_and_fixed.gpf**: Improved few maps: Airship Crash 2nd map, Thana Tower instance maps. Details here: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/df2c812dfe319b67e2eebe5e92894e2bb445b4ef)
+  - **System/customeffects.lua**: Added light effects for Tomb of Remorse, Airship Crash, Thana Tower revamp items. Details here: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/435833bf800605beac102be1dcbc7dc60f329169)
 - 2024 Jan 30:
   - Tomb of Remorse, Airship Crash, Thanatos Tower Revamp update
   - **card_art_missing_added.gpf**: Copy pasted edits over. See here for details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/425b106d6366d25a39039dbf5fba24517fc19ace)

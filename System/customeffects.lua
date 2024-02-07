@@ -16,6 +16,7 @@ customeffects = {
     -- ## Equipment ##
     -- ###############
 
+    [501] = {EffectID = 1189}, -- Red Potion
     [1181] = {EffectID = 1189}, -- Tae Goo Lyeon
     [1377] = {EffectID = 1189}, -- Hurricane Fury
     [1418] = {EffectID = 1189}, -- Gungnir
@@ -147,6 +148,53 @@ customeffects = {
     [820000] = {EffectID = 1189}, -- Lust Shatter
     [830001] = {EffectID = 1189}, -- Lust Crusher
     [840000] = {EffectID = 1189}, -- Lust Boom
+    -- Poenitentia weapons
+    [460013] = {EffectID = 1189}, -- Poenitentia Aegis
+    [530010] = {EffectID = 1189}, -- Poenitentia Asta
+    [100478] = {EffectID = 1189}, -- Poenitentia Asta Set
+    [700024] = {EffectID = 1189}, -- Poenitentia Attendo
+    [620006] = {EffectID = 1189}, -- Poenitentia Axia
+    [560012] = {EffectID = 1189}, -- Poenitentia Caestus
+    [570013] = {EffectID = 1189}, -- Poenitentia Chorda
+    [590016] = {EffectID = 1189}, -- Poenitentia Clava
+    [540014] = {EffectID = 1189}, -- Poenitentia Codex
+    [550020] = {EffectID = 1189}, -- Poenitentia Crystallum
+    [510028] = {EffectID = 1189}, -- Poenitentia Dilacero
+    [600014] = {EffectID = 1189}, -- Poenitentia Ensis
+    [550062] = {EffectID = 1189}, -- Poenitentia Ferrum
+    [580013] = {EffectID = 1189}, -- Poenitentia Flagellum
+    [800011] = {EffectID = 1189}, -- Poenitentia Foramen
+    [500019] = {EffectID = 1189}, -- Poenitentia Gladius
+    [100477] = {EffectID = 1189}, -- Poenitentia Gladius Set
+    [510057] = {EffectID = 1189}, -- Poenitentia Jana
+    [630009] = {EffectID = 1189}, -- Poenitentia Katapulta
+    [540015] = {EffectID = 1189}, -- Poenitentia Liber
+    [610016] = {EffectID = 1189}, -- Poenitentia Manus
+    [510027] = {EffectID = 1189}, -- Poenitentia Mucro
+    [700023] = {EffectID = 1189}, -- Poenitentia Nervus
+    [500046] = {EffectID = 1189}, -- Poenitentia Orbis
+    [590017] = {EffectID = 1189}, -- Poenitentia Pendulus
+    [810007] = {EffectID = 1189}, -- Poenitentia Penet
+    [550060] = {EffectID = 1189}, -- Poenitentia Planta
+    [540044] = {EffectID = 1189}, -- Poenitentia Radius
+    [550061] = {EffectID = 1189}, -- Poenitentia Ramus
+    [500020] = {EffectID = 1189}, -- Poenitentia Rigula
+    [840006] = {EffectID = 1189}, -- Poenitentia Ruina
+    [550019] = {EffectID = 1189}, -- Poenitentia Scipio
+    [510056] = {EffectID = 1189}, -- Poenitentia Sol
+    [700022] = {EffectID = 1189}, -- Poenitentia Tenon
+    [640014] = {EffectID = 1189}, -- Poenitentia Termes
+    [560013] = {EffectID = 1189}, -- Poenitentia Ungula
+    [700025] = {EffectID = 1189}, -- Poenitentia Vatia
+    [830010] = {EffectID = 1189}, -- Poenitentia Veloci
+    [640015] = {EffectID = 1189}, -- Poenitentia Virga
+    -- Unknown Boots
+    [470071] = {EffectID = 1189}, -- Unknown Str Boots
+    [470072] = {EffectID = 1189}, -- Unknown Dex Boots
+    [470073] = {EffectID = 1189}, -- Unknown Vit Boots
+    [470074] = {EffectID = 1189}, -- Unknown Int Boots
+    [470076] = {EffectID = 1189}, -- Unknown Agi Boots
+    [470077] = {EffectID = 1189}, -- Unknown Luk Boots
     -- EDDA Biolabs
     [1333] = {EffectID = 1189}, -- Golden Wrench
     [1865] = {EffectID = 1189}, -- Combo Fist
@@ -327,6 +375,16 @@ customeffects = {
     [100412] = {EffectID = 1190}, -- Great Heros Bravery
     [100413] = {EffectID = 1190}, -- Great Heros Wisdom
     [100742] = {EffectID = 1190}, -- Awakened Ancient Heros Weapon Box
+    [100476] = {EffectID = 1190}, -- Ymir Beads
+    [100462] = {EffectID = 1190}, -- Contaminated Card Album
+    [100486] = {EffectID = 1190}, -- Condensed Sakrays Regret
+    [100485] = {EffectID = 1190}, -- Sakrays Regret
+    [100480] = {EffectID = 1190}, -- Condensed Sakrays Fury
+    [100479] = {EffectID = 1190}, -- Sakrays Fury
+    [100487] = {EffectID = 1190}, -- Tiaras Loss
+    [100488] = {EffectID = 1190}, -- Condensed Tiaras Loss
+    [100489] = {EffectID = 1190}, -- Tiaras Tears
+    [100490] = {EffectID = 1190}, -- Condensed Tiaras Tears
 
     -- ###############
     -- ## Etc items ##
@@ -370,6 +428,16 @@ customeffects = {
     [25812] = {EffectID = 1869}, -- Purdium
     [25813] = {EffectID = 1869}, -- Whidium
     [25867] = {EffectID = 1869}, -- Temporal Fragment
+    [1000243] = {EffectID = 1869}, -- Fragment of Rage
+    [1000244] = {EffectID = 1869}, -- Fragment of Fear
+    [1000245] = {EffectID = 1869}, -- Fragments of Resentment
+    [1000255] = {EffectID = 1869}, -- Fragments of Regret
+    [1000256] = {EffectID = 1869}, -- Fragments of Sorrow
+    [1000258] = {EffectID = 1869}, -- Fragment of Empathy
+    [1000259] = {EffectID = 1869}, -- Fragment of Happiness
+    [1000260] = {EffectID = 1869}, -- Fragment of Rest
+    [1000261] = {EffectID = 1869}, -- Fragments of Condolence
+    [1000262] = {EffectID = 1869}, -- Fragment of Wishes
     -- Rune materials
     [969] = {EffectID = 1870}, -- Gold
     [7938] = {EffectID = 1870}, -- Light Granule
@@ -458,7 +526,7 @@ customeffects = {
     [6523] = {EffectID = 1190}, -- Piece of Bakonawa's Spirit
     [6524] = {EffectID = 1190}, -- Piece of Bangungot's Spirit
     [6525] = {EffectID = 1190}, -- Piece of Buwaya's Spirit
-    [7562] = {EffectID = 1870}, -- Ice Scale
+    [7562] = {EffectID = 1190}, -- Ice Scale
     [7925] = {EffectID = 1190}, -- Powerful Dimensional Essence
     [25262] = {EffectID = 1190}, -- Well-Dried Clover
     [25271] = {EffectID = 1190}, -- Illusion Stone
@@ -475,6 +543,11 @@ customeffects = {
     [25866] = {EffectID = 1190}, -- Temporal Spell
     [1000322] = {EffectID = 1190}, -- Ether Dust
     [1000323] = {EffectID = 1190}, -- Ether Stone
+    [1000363] = {EffectID = 1190}, -- Ymir Fragment
+    [1000364] = {EffectID = 1190}, -- Ymir Ore
+    [1000367] = {EffectID = 1190}, -- Mineas
+    [1000257] = {EffectID = 1190}, -- Fragment of Sin
+    [1000263] = {EffectID = 1190}, -- Fragment of Fate
 
     -- ###################
     -- ## Missing Cards ##
@@ -1438,4 +1511,14 @@ customeffects = {
     [300261] = {EffectID = 1186}, -- Galensis Card
     [300262] = {EffectID = 1186}, -- The One Card
     [300281] = {EffectID = 1186}, -- R001-Bestia Card
+    [300192] = {EffectID = 1186}, -- Sakray Card
+    [300193] = {EffectID = 1186}, -- Tiara Card
+    [300170] = {EffectID = 1186}, -- Rotten Wood Card
+    [300171] = {EffectID = 1186}, -- Grave Worm Card
+    [300172] = {EffectID = 1186}, -- Brain Sucker Card
+    [300173] = {EffectID = 1186}, -- Moskillro Card
+    [300174] = {EffectID = 1186}, -- Melted Poring Card
+    [300175] = {EffectID = 1186}, -- Unidentified Creature Card
+    [300176] = {EffectID = 1186}, -- Unidentified Life Form Card
+    [300274] = {EffectID = 1186}, -- Anger of Thanatos Card
 }
