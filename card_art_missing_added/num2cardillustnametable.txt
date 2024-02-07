@@ -1098,6 +1098,59 @@
 
 //=======================2024 1Q UPDATE end
 
+//2024.02.06 신규카드 42종, 모로크 EP14.3
+300240#Gan_Ceann_Card#
+300241#Brutal_Murderer_Card#
+300242#Ghost_Cube_Card#
+300243#Lude_Gal_Card#
+300244#Disguiser_Card#
+300245#Bluemoon_Loli_Ruri_Card#
+300246#Grote_Card#
+300247#Pierrotzoist_Card#
+300248#Death_Witch_Card#
+300249#Giant_Caput_Card#
+300250#Dolorian_Card#
+300251#Plagarion_Card#
+300252#Deadre_Card#
+300253#Venedi_Card#
+300254#Amitera_Card#
+300255#Litus_Card#
+300256#Fillia_Card#
+300257#Vanilaqus_Card#
+300258#Lava_Eater_Card#
+300259#Fulgor_Card#
+300260#Napeo_Card#
+300261#Galensis_Card#
+300262#The_One_Card#
+300263#Reken_Guard_Card#
+300264#Reken_H_Guard_Card#
+300265#Regen_Scientist_Card#
+300266#Unknown_Swordman_Card#
+300267#Crow_Baron_Card#
+300268#Crow_Duke_Card#
+300269#Eldest_Card#
+300270#Empathizer_Card#
+300271#Happy_Giver_Card#
+300272#Pray_Giver_Card#
+300273#Smile_Giver_Card#
+300274#Tha_Anger_Card#
+300275#Tha_Horror_Card#
+300276#Tha_Regret_Card#
+300277#Tha_Resent_Card#
+300278#Void_Mimic_Card#
+300279#Book_Of_Death_Card#
+300280#Broken_Thanatos_Card#
+300281#R001_Bestia_Card#
+27325#Muspellskoll_Card#
+27326#MinionOfMorocc_Card#
+27327#ReaperAnkou_Card#
+27321#DespairGodMorocc_Card#
+27328#LivingDeath_Card#
+27322#Ahat_Card#
+27323#Shnaim_Card#
+27324#Brinaranea_Card#
+//2024.02.06 신규카드 42종, 모로크 EP14.3 end
+
 //-Custom Edits-
 
 //--Jitterbug : were missing but now added
