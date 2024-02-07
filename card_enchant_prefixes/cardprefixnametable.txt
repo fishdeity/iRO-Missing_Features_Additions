@@ -988,10 +988,37 @@
 300175#Unknown#
 300176#of Undefine#
 
-//?�?�토???�??개편(lv180) Thanatos Tower Revamp
-300274#of Real Rage#
-
 //=======================2024 1Q UPDATE end
+
+//2024.02.06 ?�규카드 42�? 모로??EP14.3 ?�규카드
+27321#Demon God's#
+27322#Dominator's#
+27323#Coordinator's#
+27324#Brinaranea#
+27325#Muspelheim#
+27326#Destructive#
+27327#Grim Reaper Ankou#
+27328#Corrupt Life#
+300263#Guardman#
+300264#High Guardman#
+300265#Magic Guardman#
+300266#of Unknown Swordsman#
+300267#of Speed Bolt#
+300268#of Power Bolt#
+300269#Eldest#
+300270#Empathic#
+300271#Happy#
+300272#Pray#
+300273#Smile#
+300274#of Real Rage#
+300275#of Real Horror#
+300276#Wing Breaker#
+300277#of Real Resent#
+300278#of Void#
+300279#Dead-pansion#
+300280#Corrupted Magic Swordsman's#
+300281#of Water Bug#
+//2024.02.06 ?�규카드 42�? 모로??EP14.3 ?�규카드 end
 
 //-Custom Edits-
 
