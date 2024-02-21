@@ -18,7 +18,6 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Each name is added manually. To stay up-to-date, check back here and redownload few days after each new enchant or card comes out.
 - **chat_filter_removed.gpf**: Certain words are no longer blocked. Feel free to type anything including bad words.
 - **indoors_view_no_lock.gpf**: Inside shops and other indoor maps will now have a normal camera view and mini map can be seen, like Eden.
-- **eden_textures_premium.gpf**: Makes Eden a nice white color view. /lightmap ingame can reduce brightness.
 - **maps_added_and_fixed.gpf**: Maps missing have been added. Maps that break the game have been fixed.
   - Endless Tower shows you which floor you are on
   - Amatsu Dungeon and other maps show how to go through the maze
@@ -37,8 +36,6 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   + **Adventure_Card_A_sprite-big_x30.gpf**: Giant sprite in case someone wants it for big, different MVP cards.
   + **customeffects.lua**: File that can customize item light effects.
   + **customsprites-some_mvp_cards.lua**: File that can customize item sprites, has some mvp cards changed to Adventure Card A sprite.
-  + **monster_size_effect_new.lub**: Effects and monster sizes and effects are adjusted for QoL (like illusion turtles are actually small).
-    + Use at your own risk as altering monster sizes is against the rules in iRO!
   + **unidentified_shows_item.zip**: Shows what items are without needing magnifier. Can customize item glows and item sprites.
     + Requires re-run a file every 1-2 weeks or when new items come out to keep working.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
@@ -114,6 +111,9 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 Feb 20:
+  - **card_enchant_prefixes.gpf**: Updated with enchant stone box 29
+  - **resource_file_fixes**: Added missing izlude swordsman npc illustration and missing costume blank eyes sprite
 - 2024 Feb 6:
   - Card update for Edda Biolabs, Thana Tower, and Temple of the Demon God.
   - **big_other_items.gpf**: Added big Mineas and Ymir Fragment at 2x size.
