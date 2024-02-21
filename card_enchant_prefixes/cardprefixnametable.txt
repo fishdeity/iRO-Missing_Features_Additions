@@ -1974,4 +1974,20 @@
 310255#Annihi4#
 310256#Annihi5#
 
+//---Box 29
+311912#Kage(U)#
+311913#Kage(M)#
+311914#Kage(L)#
+311915#Oboro(U)#
+311916#Oboro(M)#
+311917#Oboro(L)#
+311918#Sum(U)#
+311919#Sum(M)#
+311920#Sum(L)#
+311921#Def(U)#
+311922#Def(M)#
+311923#Def(L)#
+311924#ResDef(G)#
+311925#StaWis(D)#
+
 //-Custom Edits End Here-
