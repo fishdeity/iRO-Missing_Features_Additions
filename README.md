@@ -114,6 +114,8 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
 - 2024 Feb 20:
   - **card_enchant_prefixes.gpf**: Updated with enchant stone box 29
   - **resource_file_fixes**: Added missing izlude swordsman npc illustration and missing costume blank eyes sprite
+  - **System/monster_size_effect_new.lub**: Moved to illegal_edits branch.
+  - **eden_textures_premium.gpf**: Moved to illegal_edits branch.
 - 2024 Feb 6:
   - Card update for Edda Biolabs, Thana Tower, and Temple of the Demon God.
   - **big_other_items.gpf**: Added big Mineas and Ymir Fragment at 2x size.
