@@ -228,6 +228,7 @@ NameTable_VAR = {
 	[EnumVAR.ADDSKILLMDAMAGE_DARKNESS[1]] = "Magical Damage with Shadow Property +%d%%",
 	[EnumVAR.ADDSKILLMDAMAGE_TELEKINESIS[1]] = "Magical Damage with Ghost Property +%d%%",
 	[EnumVAR.ADDSKILLMDAMAGE_UNDEAD[1]] = "Magical Damage with Undead Property +%d%%",
+	[EnumVAR.ADDSKILLMDAMAGE_ALL[1]] = "Magical Damage with All Property +%d%%",
 	[EnumVAR.ADDEXPPERCENT_KILLRACE_NOTHING[1]] = "EXP earned from Formless monster+%d%%",
 	[EnumVAR.ADDEXPPERCENT_KILLRACE_UNDEAD[1]] = "EXP earned from Undead monster +%d%%",
 	[EnumVAR.ADDEXPPERCENT_KILLRACE_ANIMAL[1]] = "EXP earned from Brute monster +%d%%",
@@ -257,5 +258,4 @@ NameTable_VAR = {
 	[EnumVAR.DAMAGE_SIZE_PERFECT[1]] = "Recovers 100%% of damage lost from size penalty.",
 	[EnumVAR.MELEE_ATTACK_DAMAGE_TARGET[1]] = "Melee Damage +%d%%",
 	[EnumVAR.MELEE_ATTACK_DAMAGE_USER[1]] = "Received Melee Damage -%d%%",
-	[EnumVAR.ADDSKILLMDAMAGE_ALL[1]] = "Magical Damage with All Property +%d%%",
 }
