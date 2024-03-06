@@ -1151,6 +1151,19 @@
 27324#Brinaranea_Card#
 //2024.02.06 신규카드 42종, 모로크 EP14.3 end
 
+//2024.03.05 일루전 오브 라비린스 Illusion of Labyrinth
+//일루전오브라비린스 카드
+27338#혼돈의맨티스카드#
+27339#혼돈의고스트링카드#
+27340#혼돈의킬러맨티스카드#
+27334#혼돈의바포메트카드#
+27341#혼돈의포포링카드#
+27335#혼돈의바포메트주니어카드#
+27342#혼돈의스템웜카드#
+27336#혼돈의사이드와인더카드#
+27343#혼돈의복사카드#
+27337#혼돈의헌터플라이카드#
+
 //-Custom Edits-
 
 //--Jitterbug : were missing but now added
@@ -1226,5 +1239,8 @@
 4878#sorry#
 4879#sorry#
 4880#sorry#
+
+//--Dead King Card : were missing but now added
+27025#망자의군주카드#
 
 //-Custom Edits End Here-
