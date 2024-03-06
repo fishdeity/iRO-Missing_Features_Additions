@@ -111,6 +111,10 @@ Note this works only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 March 6:
+  - Illusion of Labyrinth update. 
+  - **card_art_missing_added.gpf**: Copy pasted my edits to updated files. Added missing Dead King Card's card art.
+  - **card_enchant_prefixes.gpf**: Copy pasted my edits to updated files. Added missing Dead King Card's enchant prefix.
 - 2024 Feb 20:
   - **card_enchant_prefixes.gpf**: Updated with enchant stone box 29
   - **resource_file_fixes**: Added missing izlude swordsman npc illustration and missing costume blank eyes sprite
