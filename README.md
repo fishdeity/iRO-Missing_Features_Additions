@@ -33,11 +33,12 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 
 ### Non-GPF Types ###
 + **System/**:
-  + **Adventure_Card_A_sprite-big_x30.gpf**: Giant sprite in case someone wants it for big, different MVP cards.
-  + **customeffects.lua**: File that can customize item light effects.
-  + **customsprites-some_mvp_cards.lua**: File that can customize item sprites, has some mvp cards changed to Adventure Card A sprite.
   + **unidentified_shows_item.zip**: Shows what items are without needing magnifier. Can customize item glows and item sprites.
     + Requires re-run a file every 1-2 weeks or when new items come out to keep working.
+  + The following work only if unidentified_shows_item.zip is done and working first:
+    + **Adventure_Card_A_sprite-big_x30.gpf**: Giant sprite in case someone wants it for big, different MVP cards.
+    + **customeffects.lua**: File that can customize item light effects.
+    + **customsprites-some_mvp_cards.lua**: File that can customize item sprites, has some mvp cards changed to Adventure Card A sprite.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
 + **bundle_of_edits_for_newb/**: Holds bundle of ALL gpf type edits in here, mainly for lazy/tech newbie players.
     + eden_textures_premium.gpf is not included in this for time being.
@@ -46,7 +47,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 # Installation Steps #
 
 ### Adding for GPF types (Original Method) ###
-Note this works only for files ending with .gpf or .grf
+Note instructions work only for files ending with .gpf or .grf
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
 2. Download each .gpf in the code section you wish to add to your iRO game (or press the green button **Code** -> **Download ZIP**).
    - Pictures example will use bundle_of_edits .gpf
@@ -106,11 +107,14 @@ Note this works only for files ending with .gpf or .grf
         - Make a shortcut of iteminfo.bat and place on desktop for easier access.
       - If you wish to go back to original, delete **iteminfo.lub**, then rename the **iteminfo2.lub** to iteminfo.lub.
       - customeffects.lua will be generated, it contains custom light effect for items
-        - You can add/remove anything you like in here.
+        - You can add/remove anything you like in here, open with Notepad.
       - customsprites.lua will be generated, similar but with sprites instead.
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 March 26:
+  - **maps_added_and_fixed.gpf**: Sonic mini map added. Also copy pasted edits over for resnametable.txt
+  - **zoom_farther_out.gpf**: Zoom added for Sonic map. Also changed shift + scroll wheel from -5 to -1.
 - 2024 March 6:
   - Illusion of Labyrinth update. 
   - **card_art_missing_added.gpf**: Copy pasted my edits to updated files. Added missing Dead King Card's card art.
