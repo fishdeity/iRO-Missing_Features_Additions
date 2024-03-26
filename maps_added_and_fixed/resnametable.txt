@@ -2598,6 +2598,12 @@ te_prt_gld.rsw#te_prt_gld.rsw#
 유저인터페이스\map\8@thts.bmp#유저인터페이스\map\8@thts.bmp#
 //=======================2024 1Q UPDATE end
 
+//소닉 콜라보
+유저인터페이스\map\1@vrsn.bmp#유저인터페이스\map\1@vrsn.bmp#
+1@vrsn.gnd#1@vrsn.gnd#
+1@vrsn.gat#1@vrsn.gat#
+1@vrsn.rsw#1@vrsn.rsw#
+
 //Custom Edits
 
 //this file tells each ingame map where to look for the mini map file
