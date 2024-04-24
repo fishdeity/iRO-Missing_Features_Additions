@@ -1164,6 +1164,21 @@
 27343#혼돈의복사카드#
 27337#혼돈의헌터플라이카드#
 
+//2024.04.23 일루전 오브 언더워터
+//일루전오브언터워터
+300140#ILL_Sropho_Card#
+300141#ILL_Obeaune_Card#
+300142#ILL_Deviace_Card#
+300143#ILL_Marse_Card#
+300144#ILL_Merman_Card#
+300145#ILL_Abysmal_Witch_Card#
+300146#ILL_Sedora_Card#
+300147#ILL_Sword_Fish_Card#
+300148#ILL_Strouf_Card#
+300149#ILL_Phen_Card#
+300150#ILL_King_Dramoh_Card#
+300151#ILL_Kraken_Card#
+
 //-Custom Edits-
 
 //--Jitterbug : were missing but now added
