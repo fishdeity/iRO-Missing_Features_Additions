@@ -112,6 +112,12 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 April 23:
+  - Illusion Underwater update
+  - **card_art_missing_added.gpf**: Copy pasted edits over to updated file.
+  - **card_enchant_prefixes.gpf**: Copy pasted edits over to updated file.
+  - **resource_file_fixes.gpf**: Added Male Crusader 2H sword sprite fix and other missing illustrations.
+  - **zoom_farther_out.gpf**: Added Illusion Underwater maps and a Rachel Sanc quest map.
 - 2024 March 26:
   - **maps_added_and_fixed.gpf**: Sonic mini map added. Also copy pasted edits over for resnametable.txt
   - **zoom_farther_out.gpf**: Zoom added for Sonic map. Also changed shift + scroll wheel from -5 to -1.
