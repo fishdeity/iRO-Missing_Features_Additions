@@ -1401,24 +1401,24 @@
 29120#Aff10#
 
 //--Darklord Essences
-4908#dleS1#
-4909#dleS2#
-4910#dleS3#
-4911#dleI1#
-4912#dleI2#
-4913#dleI3#
-4914#dleA1#
-4915#dleA2#
-4916#dleA3#
-4917#dleV1#
-4918#dleV2#
-4919#dleV3#
-4920#dleD1#
-4921#dleD2#
-4922#dleD3#
-4923#dleL1#
-4924#dleL2#
-4925#dleL3#
+4908#dleForce1#
+4909#dleForce2#
+4910#dleForce3#
+4911#dleInt1#
+4912#dleInt2#
+4913#dleInt3#
+4914#dleSpeed1#
+4915#dleSpeed2#
+4916#dleSpeed3#
+4917#dleVit1#
+4918#dleVit2#
+4919#dleVit3#
+4920#dleCon1#
+4921#dleCon2#
+4922#dleCon3#
+4923#dleLuck1#
+4924#dleLuck2#
+4925#dleLuck3#
 
 //--Ep16 Royal Banquet and Terra Gloria Enchants
 4994#S1#
