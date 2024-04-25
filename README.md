@@ -112,6 +112,8 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 April 24:
+  - **resource_file_fixes.gpf**: Added illusion kraken missing sound files. 
 - 2024 April 23:
   - **card_enchant_prefixes.gpf**: Edited Darklord Essences' prefixes based on discord popular vote.
 - 2024 April 23:
