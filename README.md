@@ -50,7 +50,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 Note instructions work only for files ending with .gpf or .grf
 1. Download and install a program like **GRF Editor**: http://www.mediafire.com/?aflylbhblrzpz0h
 2. Download each .gpf in the code section you wish to add to your iRO game (or press the green button **Code** -> **Download ZIP**).
-   - Pictures example will use bundle_of_edits .gpf
+   - Pictures example will use [bundle_of_edits .gpf](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/master/bundle_of_edits_for_newb)
 
 ![edits-00-click](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/664a50d1-599f-48be-ad78-f5de728d9158)
 ![edits-01-download](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/f29ea11f-76c9-4fb8-b37f-a4ca9143066c)
@@ -96,13 +96,10 @@ Note instructions work only for files ending with .gpf or .grf
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
 ### Adding for Non-GPF Types ###
-- #### **System/monster_size_effect_new.lub** ####
-  1. Go into your Ragnarok folder's **System** folder (e.g. C:\Gravity\Ragnarok Online\System\).
-  2. Download and drag & drop mine inside your System folder. It will replace the original one.
 - #### **System/unidentified_shows_item.zip** ####
-  1. Download my zip file, extract, then move the contents of all 5+ files into your iRO's **System** folder.
+  1. Download my [zip file](https://github.com/fishdeity/iRO-Missing_Features_Additions/blob/master/System/unidentified_shows_item.zip), extract, then move the contents of all 5+ files into your iRO's **System** folder.
   2. Run **iteminfo.bat**, a command prompt should open, then press any button.
-  3. Feel free to delete the zip file now.
+  3. Feel free to delete the zip file now and open game to try.
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
         - Make a shortcut of iteminfo.bat and place on desktop for easier access.
       - If you wish to go back to original, delete **iteminfo.lub**, then rename the **iteminfo2.lub** to iteminfo.lub.
@@ -112,6 +109,13 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 May 22:
+  - Episode 18 Direction of Prayer update
+  - **card_art_missing_added.gpf**: Tomb of Remorse mvp Sakray and Tiara card art added. Other details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/73e7cea437fe872649c7711c1a6c519537751ad5)
+  - **card_enchant_prefixes.gpf**: Wolf Orb enchants added. Details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/108c6c34992865ea9b72b701320be8c054bcdac6)
+  - **maps_added_and_fixed.gpf**: Missing ep 18 maps added: Some details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/be2802f63f7bd8a63d08d41c3fe7ea98f913c141)
+  - **resource_file_fixes.gpf**: Added missing clan illustrations, missing hairstyle 33-42 sprites, removed files already included in game now.
+  - **zoom_farther_out.gpf**: Added episode 18 maps. Details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/1050ecabe8a25ef2f48f2a8e2510f28e535b13d9)
 - 2024 April 24:
   - **resource_file_fixes.gpf**: Added illusion kraken missing sound files. 
 - 2024 April 23:
