@@ -1179,6 +1179,25 @@
 300150#ILL_King_Dramoh_Card#
 300151#ILL_Kraken_Card#
 
+//===========2024 2Q UPDATE===============
+//EP18
+300211#EP18_Ash_Toad_Card#
+300212#EP18_Rakehand_Card#
+300213#EP18_Spark_Card#
+300214#EP18_Hot_Molar_Card#
+300215#EP18_Volcaring_Card#
+300216#EP18_Lava_Toad_Card#
+300217#EP18_Burning_Fang_Card#
+300218#EP18_Ashhopper_Card#
+300219#EP18_Ashring_Card#
+300220#EP18_Grey_Wolf_Card#
+300221#EP18_Tumble_Ring_Card#
+300222#EP18_Firewind_Kite_Card#
+300223#EP18_Phantom_Wolf_Card#
+300227#EP18_Schulang_Card#
+300228#EP18_Demi_Freyja_Card#
+//===========2024 2Q UPDATE end
+
 //-Custom Edits-
 
 //--Jitterbug : were missing but now added
@@ -1205,24 +1224,24 @@
 27263#Fei_Kanabian_Card#
 
 //--Sealed MVPs : Sorry images replaced
-4480#Sealed_Kiel_Card#
-4481#Sealed_Ktullanux_Card#
-4482#Sealed_B_Ygnizem_Card#
-4483#Sealed_Dracula_Card#
-4484#Sealed_Mistress_Card#
-4485#Sealed_Gloom_Card#
-4487#Sealed_Ifrit_Card#
-4490#Sealed_M_Flower_Card#
-4491#Sealed_B_Shecil_Card#
-4494#Sealed_TurtleG_Card#
-4499#Sealed_Samurai_Card#
-4500#Sealed_Orc_Load_Card#
-4501#Sealed_B_Magaleta_Card#
-4502#Sealed_B_Harword_Card#
-4503#Sealed_Apocalips_H_Card#
-4504#Sealed_Eddga_Card#
-4538#Sealed_Bacsojin_Card#
-4539#Sealed_F_Bishop_Card#
+4480#봉인된키엘_D_01카드#      //Kiel
+4481#봉인된크툴라낙스카드#     //Ktullanux
+4482#봉인된보스이그니젬카드#   //Boss Egnigem
+4483#봉인된드라큐라카드#       //Dracula
+4484#봉인된미스트레스카드#     //Mistress
+4485#봉인된글룸카드#          //Gloom
+4487#봉인된이프리트카드#      //Ifrit
+4490#봉인된월야화카드#        //Moonlight Flower
+4491#봉인된스나이퍼카드#      //Sniper Cecil 
+4494#봉인된터틀제네럴카드#    //Turtle General
+4499#봉인된원령무사카드#      //Samurai Specter
+4500#봉인된오크로드카드#      //Orc Lord
+4501#봉인된하이프리스트카드#   //High Priest Margaretha
+4502#봉인된화이트스미스카드#   //Whitesmith Howard
+4503#봉인된베스퍼카드#        //Vesper
+4504#봉인된에드가카드#        //Eddga
+4538#봉인된백소진카드#        //White Lady
+4539#봉인된타락한대신관카드#  //Fallen Bishop
 27209#SLD_Q_Scaraba_Card#
 27211#SLD_Baphomet_Card#
 27212#SLD_Maya_Card#
@@ -1257,5 +1276,9 @@
 
 //--Dead King Card : were missing but now added
 27025#망자의군주카드#
+
+//--Tomb of Remorse MVP cards : Sorry images replaced
+300192#Sakray_Card#
+300193#Tiara_Card#
 
 //-Custom Edits End Here-
