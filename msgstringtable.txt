@@ -1535,7 +1535,7 @@ Switch Party Leader?#
 Can't re-assign party leader#
 uneditable#
 [%s] need %d#
-training point is adjusted downward#
+Refine level is lowered#
 need to put on [%s] in order to use#
 Battle field entrance setting#
 % you are in a state that doesn't allow you to move to battle field, therefore battle field request has been canceled#
@@ -1626,7 +1626,7 @@ To [%s] #
 use [%s] skill.#
 Function disabled#
 Function enabled#
-[%s] gave [%s] '%s'.#
+[%s] opened [%s] and received '%s'.#
 Swordman#
 Mage#
 Archer#
@@ -2984,7 +2984,7 @@ Already vending a shop NPC.#
 You cannot vend a shop on this place.#
 You cannot vend a shop on the other character.#
 Failed to feed your pet. Plase close RODEX window.#
-Set item setting#
+Equip Swap#
 Equip#
 The item will be broken if refine has failed.#
 The item will be downgraded if refine has failed.#
@@ -3124,7 +3124,7 @@ Affiliated Guild#
 Points to level up each Parameter#
 Magic Attack#
 Magic Defense#
-Dodge#
+Dodge + Perfect Dodge#
 Attack Speed#
 Shortcut#
 Option#
@@ -3716,8 +3716,8 @@ During grade enhancement, Rolex cannot be used. Rolex has been forcibly terminat
 Rolex cannot be used during grade enhancement.#
 #
 #
-[%s] has successfully upgraded and obtained a [%s grade %s] item.#
-[%s] has failed to upgrade the [%s grade %s] item.#
+[%s] has successfully upgraded their item into [%s grade %s].#
+[%s] has failed to upgrade their item into [%s grade %s]. Laugh at them!#
 This equipment cannot be upgraded.#
 #
 #
