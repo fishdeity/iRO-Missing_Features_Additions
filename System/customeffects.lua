@@ -16,7 +16,6 @@ customeffects = {
     -- ## Equipment ##
     -- ###############
 
-    [501] = {EffectID = 1189}, -- Red Potion
     [1181] = {EffectID = 1189}, -- Tae Goo Lyeon
     [1377] = {EffectID = 1189}, -- Hurricane Fury
     [1418] = {EffectID = 1189}, -- Gungnir
@@ -148,6 +147,31 @@ customeffects = {
     [820000] = {EffectID = 1189}, -- Lust Shatter
     [830001] = {EffectID = 1189}, -- Lust Crusher
     [840000] = {EffectID = 1189}, -- Lust Boom
+    -- Thanatos Tower accessories
+    [490044] = {EffectID = 1189}, -- Sinful Ruby Ring
+    [490045] = {EffectID = 1189}, -- Sinful Ruby Necklace
+    [490046] = {EffectID = 1189}, -- Sinful Emerald Ring
+    [490047] = {EffectID = 1189}, -- Sinful Emerald Necklace
+    [490048] = {EffectID = 1189}, -- Sinful Topaz Ring
+    [490049] = {EffectID = 1189}, -- Sinful Topaz Necklace
+    [490050] = {EffectID = 1189}, -- Sinful Amethyst Ring
+    [490051] = {EffectID = 1189}, -- Sinful Amethyst Necklace
+    [490052] = {EffectID = 1189}, -- Sinful Sapphire Ring
+    [490053] = {EffectID = 1189}, -- Sinful Sapphire Necklace
+    [490054] = {EffectID = 1189}, -- Sinful Opal Ring
+    [490055] = {EffectID = 1189}, -- Sinful Opal Necklace
+    [490056] = {EffectID = 1189}, -- Brilliant Light Ruby Ring
+    [490057] = {EffectID = 1189}, -- Brilliant Light Ruby Necklace
+    [490058] = {EffectID = 1189}, -- Brilliant Light Amethyst Ring
+    [490059] = {EffectID = 1189}, -- Brilliant Light Amethyst Necklace
+    [490060] = {EffectID = 1189}, -- Brilliant Light Emerald Ring
+    [490061] = {EffectID = 1189}, -- Brilliant Light Emerald Necklace
+    [490062] = {EffectID = 1189}, -- Brilliant Light Zircon Ring
+    [490063] = {EffectID = 1189}, -- Brilliant Light Zircon Necklace
+    [490064] = {EffectID = 1189}, -- Brilliant Light Sapphire Ring
+    [490065] = {EffectID = 1189}, -- Brilliant Light Sapphire Necklace
+    [490066] = {EffectID = 1189}, -- Brilliant Light Aquamarine Ring
+    [490067] = {EffectID = 1189}, -- Brilliant Light Aquamarine Necklace
     -- Poenitentia weapons
     [460013] = {EffectID = 1189}, -- Poenitentia Aegis
     [530010] = {EffectID = 1189}, -- Poenitentia Asta
@@ -310,6 +334,114 @@ customeffects = {
     [22190] = {EffectID = 1189}, -- Illusion Boots
     [28244] = {EffectID = 1189}, -- Illusion Gate Keeper DD
     [28745] = {EffectID = 1189}, -- Illusion Counter Dagger
+    -- Illusion of Luanda
+    [15348] = {EffectID = 1189}, -- Illusion Goibne's Armor
+    [18174] = {EffectID = 1189}, -- Illusion Hunter Bow
+    [19366] = {EffectID = 1189}, -- Illusion Goibne's Helm
+    [20923] = {EffectID = 1189}, -- Illusion Goibne's Spaulders
+    [22192] = {EffectID = 1189}, -- Illusion Goibne's Greaves
+	-- Illusion of Labyrinth
+	[19428] = {EffectID = 1189}, -- Illusion Morpheus's Hood
+	[20948] = {EffectID = 1189}, -- Illusion Morpheus's Shawl
+	[28254] = {EffectID = 1189}, -- Illusion Butcher
+	[28762] = {EffectID = 1189}, -- Illusion Bazerald
+	[32238] = {EffectID = 1189}, -- Illusion Morpheus's Ring
+	[32239] = {EffectID = 1189}, -- Illusion Morpheus's Bracelet
+	[32301] = {EffectID = 1189}, -- Illusion Gold Lux
+    -- Illusion of Underwater
+    [400053] = {EffectID = 1189}, -- Illusion Morrigane's Helm
+    [450144] = {EffectID = 1189}, -- Illusion Saint Robe
+    [450145] = {EffectID = 1189}, -- Illusion Saphien's Armor of Ocean
+    [450146] = {EffectID = 1189}, -- Illusion Chain Mail
+    [480054] = {EffectID = 1189}, -- Illusion Morrigane's Manteau
+    [490069] = {EffectID = 1189}, -- Illusion Morrigane's Belt
+    [490070] = {EffectID = 1189}, -- Illusion Morrigane's Pendant
+    [570008] = {EffectID = 1189}, -- Illusion Electric Guitar
+    [580008] = {EffectID = 1189}, -- Illusion Electric Eel
+    [600011] = {EffectID = 1189}, -- Illusion Death Guidance
+    [610012] = {EffectID = 1189}, -- Illusion Katar of Frozen Icicle
+    [630006] = {EffectID = 1189}, -- Illusion Brionac
+    [630007] = {EffectID = 1189}, -- Illusion Zephyrus
+    -- Villa of Deception - Adulter Weapons
+    [500025] = {EffectID = 1189}, -- Adulter Fides Guardian Sword
+    [500026] = {EffectID = 1189}, -- Adulter Fides Rapier
+    [510032] = {EffectID = 1189}, -- Adulter Fides Dagger
+    [520008] = {EffectID = 1189}, -- Adulter Fides Axe
+    [530013] = {EffectID = 1189}, -- Adulter Fides Guardian Spear
+    [540019] = {EffectID = 1189}, -- Adulter Fides Magic Book
+    [540020] = {EffectID = 1189}, -- Adulter Fides Poison Book
+    [540021] = {EffectID = 1189}, -- Adulter Fides Bible
+    [540022] = {EffectID = 1189}, -- Adulter Fides Moon Book
+    [540023] = {EffectID = 1189}, -- Adulter Fides Stardust Book
+    [550024] = {EffectID = 1189}, -- Adulter Fides Wand
+    [550025] = {EffectID = 1189}, -- Adulter Fides Soul Stick
+    [550026] = {EffectID = 1189}, -- Adulter Fides Dark Wand
+    [550027] = {EffectID = 1189}, -- Adulter Fides Foxtail Wand
+    [550028] = {EffectID = 1189}, -- Adulter Fides Foxtail Model
+    [560018] = {EffectID = 1189}, -- Adulter Fides Knuckle
+    [560019] = {EffectID = 1189}, -- Adulter Fides Claw
+    [570017] = {EffectID = 1189}, -- Adulter Fides Violin
+    [570018] = {EffectID = 1189}, -- Adulter Fides Harp
+    [580017] = {EffectID = 1189}, -- Adulter Fides Chain Rope
+    [580018] = {EffectID = 1189}, -- Adulter Fides Ribbon
+    [590021] = {EffectID = 1189}, -- Adulter Fides Mace
+    [590022] = {EffectID = 1189}, -- Adulter Fides Scepter
+    [600017] = {EffectID = 1189}, -- Adulter Fides Two-handed Sword
+    [610020] = {EffectID = 1189}, -- Adulter Fides Chakram
+    [610021] = {EffectID = 1189}, -- Adulter Fides Katar
+    [630012] = {EffectID = 1189}, -- Adulter Fides Lance
+    [640019] = {EffectID = 1189}, -- Adulter Fides Two-handed Staff
+    [640020] = {EffectID = 1189}, -- Adulter Fides Rod
+    [650008] = {EffectID = 1189}, -- Adulter Fides Huuma Shuriken
+    [650009] = {EffectID = 1189}, -- Adulter Fides Cross Huuma Shuriken
+    [700030] = {EffectID = 1189}, -- Adulter Fides Crossbow
+    [700031] = {EffectID = 1189}, -- Adulter Fides Ballista
+    [700032] = {EffectID = 1189}, -- Adulter Fides Aiming Bow
+    [800003] = {EffectID = 1189}, -- Adulter Fides Revolver
+    [810002] = {EffectID = 1189}, -- Adulter Fides Rifle
+    [820002] = {EffectID = 1189}, -- Adulter Fides Shotgun
+    [830003] = {EffectID = 1189}, -- Adulter Fides Gatling Gun
+    [840002] = {EffectID = 1189}, -- Adulter Fides Launcher
+    -- Villa of Deception - Vivatus Weapons 
+    [500027] = {EffectID = 1189}, -- Vivatus Fides Guardian Sword
+    [500028] = {EffectID = 1189}, -- Vivatus Fides Rapier
+    [510033] = {EffectID = 1189}, -- Vivatus Fides Dagger
+    [520009] = {EffectID = 1189}, -- Vivatus Fides Axe
+    [530014] = {EffectID = 1189}, -- Vivatus Fides Guardian Spear
+    [540024] = {EffectID = 1189}, -- Vivatus Fides Magic Book
+    [540025] = {EffectID = 1189}, -- Vivatus Fides Poison Book
+    [540026] = {EffectID = 1189}, -- Vivatus Fides Bible
+    [540045] = {EffectID = 1189}, -- Vivatus Fides Stardust Book
+    [540046] = {EffectID = 1189}, -- Vivatus Fides Moon Book
+    [550029] = {EffectID = 1189}, -- Vivatus Fides Wand
+    [550063] = {EffectID = 1189}, -- Vivatus Fides Dark Wand
+    [550064] = {EffectID = 1189}, -- Vivatus Fides Soul Stick
+    [550065] = {EffectID = 1189}, -- Vivatus Fides Foxtail Wand
+    [550066] = {EffectID = 1189}, -- Vivatus Fides Foxtail Model
+    [560020] = {EffectID = 1189}, -- Vivatus Fides Knuckle
+    [560021] = {EffectID = 1189}, -- Vivatus Fides Claw
+    [570019] = {EffectID = 1189}, -- Vivatus Fides Violin
+    [570020] = {EffectID = 1189}, -- Vivatus Fides Harp
+    [580019] = {EffectID = 1189}, -- Vivatus Fides Chain Rope
+    [580020] = {EffectID = 1189}, -- Vivatus Fides Ribbon
+    [590023] = {EffectID = 1189}, -- Vivatus Fides Mace
+    [590024] = {EffectID = 1189}, -- Vivatus Fides Scepter
+    [600018] = {EffectID = 1189}, -- Vivatus Fides Two-handed Sword
+    [610022] = {EffectID = 1189}, -- Vivatus Fides Chakram
+    [610023] = {EffectID = 1189}, -- Vivatus Fides Katar
+    [630013] = {EffectID = 1189}, -- Vivatus Fides Lance
+    [640021] = {EffectID = 1189}, -- Vivatus Fides Two-handed Staff
+    [640022] = {EffectID = 1189}, -- Vivatus Fides Rod
+    [650021] = {EffectID = 1189}, -- Vivatus Fides Cross Huuma Shuriken
+    [650022] = {EffectID = 1189}, -- Vivatus Fides Huuma Shuriken
+    [700033] = {EffectID = 1189}, -- Vivatus Fides Cross Bow
+    [700034] = {EffectID = 1189}, -- Vivatus Fides Ballista
+    [700035] = {EffectID = 1189}, -- Vivatus Fides Aiming Bow
+    [800012] = {EffectID = 1189}, -- Vivatus Fides Revolver
+    [810008] = {EffectID = 1189}, -- Vivatus Fides Rifle
+    [820006] = {EffectID = 1189}, -- Vivatus Fides Shotgun
+    [830011] = {EffectID = 1189}, -- Vivatus Fides Gatling Gun
+    [840007] = {EffectID = 1189}, -- Vivatus Fides Launcher
 
     -- ######################
     -- ## Consumable items ##
@@ -357,10 +489,21 @@ customeffects = {
     [23256] = {EffectID = 1869}, -- Spiritual Bandage
     -- Illusion refine boxes
     [9785] = {EffectID = 1190}, -- Frozen Refine Box
+	[100416] = {EffectID = 1190}, -- Special Frozen Refine Box 
     [100391] = {EffectID = 1190}, -- Moonlight Refine Box
+	[100392] = {EffectID = 1190}, -- Special Moonlight Refine Box 
     [100414] = {EffectID = 1190}, -- Vampire Refine Box
+	[100415] = {EffectID = 1190}, -- Special Vampire Refine Box 
     [100417] = {EffectID = 1190}, -- Turtle Island Refine Box
+	[100418] = {EffectID = 1190}, -- Special Turtle Island Refine Box
     [100419] = {EffectID = 1190}, -- Teddy Bear Refine Box
+	[100420] = {EffectID = 1190}, -- Special Teddy Bear Refine Box
+	[100421] = {EffectID = 1190}, -- Luanda Refine Box
+	[100422] = {EffectID = 1190}, -- Special Luanda Refine Box
+	[100423] = {EffectID = 1190}, -- Labyrinth Refine Box
+	[100424] = {EffectID = 1190}, -- Special Labyrinth Refine Box
+    [100425] = {EffectID = 1190}, -- Underwater refine box
+    [100426] = {EffectID = 1190}, -- Special Underwater refine box
     -- High value/rare drops
     [12103] = {EffectID = 1190}, -- Bloody Branch
     [12196] = {EffectID = 1190}, -- Hearty Rice Cake
@@ -385,6 +528,11 @@ customeffects = {
     [100488] = {EffectID = 1190}, -- Condensed Tiaras Loss
     [100489] = {EffectID = 1190}, -- Tiaras Tears
     [100490] = {EffectID = 1190}, -- Condensed Tiaras Tears
+    [100650] = {EffectID = 1190}, -- Pontifex Courage
+    [100651] = {EffectID = 1190}, -- Pontifex Wisdom
+    [100652] = {EffectID = 1190}, -- Pontifex Tenacity
+    [100653] = {EffectID = 1190}, -- Pontifex Belief
+    [100655] = {EffectID = 1190}, -- Purification Blueprint Bundle
 
     -- ###############
     -- ## Etc items ##
@@ -427,7 +575,7 @@ customeffects = {
     [25811] = {EffectID = 1869}, -- Odium
     [25812] = {EffectID = 1869}, -- Purdium
     [25813] = {EffectID = 1869}, -- Whidium
-    [25867] = {EffectID = 1869}, -- Temporal Fragment
+    --[25867] = {EffectID = 1869}, -- Temporal Fragment
     [1000243] = {EffectID = 1869}, -- Fragment of Rage
     [1000244] = {EffectID = 1869}, -- Fragment of Fear
     [1000245] = {EffectID = 1869}, -- Fragments of Resentment
@@ -438,6 +586,8 @@ customeffects = {
     [1000260] = {EffectID = 1869}, -- Fragment of Rest
     [1000261] = {EffectID = 1869}, -- Fragments of Condolence
     [1000262] = {EffectID = 1869}, -- Fragment of Wishes
+    [1000405] = {EffectID = 1869}, -- Amethyst Fragment
+
     -- Rune materials
     [969] = {EffectID = 1870}, -- Gold
     [7938] = {EffectID = 1870}, -- Light Granule
@@ -548,6 +698,10 @@ customeffects = {
     [1000367] = {EffectID = 1190}, -- Mineas
     [1000257] = {EffectID = 1190}, -- Fragment of Sin
     [1000263] = {EffectID = 1190}, -- Fragment of Fate
+    [1000471] = {EffectID = 1190}, -- Villa Basement Key
+    [1000501] = {EffectID = 1190}, -- Holy Oil of Purification
+    [1000502] = {EffectID = 1190}, -- Holy Water of Purification
+    [1000503] = {EffectID = 1190}, -- Shroud of Rest
 
     -- ###################
     -- ## Missing Cards ##
@@ -1210,6 +1364,7 @@ customeffects = {
     [4698] = {EffectID = 1186}, -- Step Card
     [4699] = {EffectID = 1186}, -- Rock Step Card
     [4991] = {EffectID = 1186}, -- Kafra Blossom Card
+    [21050] = {EffectID = 1186}, -- Illusion Tae Goo Lyeon
     [27012] = {EffectID = 1186}, -- Kick Step Card
     [27013] = {EffectID = 1186}, -- Kick and Kick Card
     [27014] = {EffectID = 1186}, -- Green Cenere Card
@@ -1338,6 +1493,14 @@ customeffects = {
     [27288] = {EffectID = 1186}, -- Hardworking Pitman Card
     [27289] = {EffectID = 1186}, -- Soul Fragment Card
     [27290] = {EffectID = 1186}, -- Sinister Dwelling Obsidian Card
+    [27291] = {EffectID = 1186}, -- Ancient Tri Joint Card
+    [27292] = {EffectID = 1186}, -- Ancient Stalactic Golem Card
+    [27293] = {EffectID = 1186}, -- Ancient Megalith Card
+    [27294] = {EffectID = 1186}, -- Ancient Tao Gunka Card
+    [27295] = {EffectID = 1186}, -- Ancient Stone Shooter Card
+    [27296] = {EffectID = 1186}, -- Ancient Wootan Shooter Card
+    [27297] = {EffectID = 1186}, -- Ancient Wootan Fighter Card
+    [27298] = {EffectID = 1186}, -- Ancient Wootan Defender Card
     [27304] = {EffectID = 1186}, -- E-EA2S Card
     [27305] = {EffectID = 1186}, -- EL-A17T Card
     [27306] = {EffectID = 1186}, -- Heart Hunter Bellare Card
@@ -1355,11 +1518,29 @@ customeffects = {
     [27318] = {EffectID = 1186}, -- Miguel Card
     [27319] = {EffectID = 1186}, -- R48-85-BESTIA Card
     [27320] = {EffectID = 1186}, -- E-EA1L Card
+    [27321] = {EffectID = 1186}, -- Despair God Morocc Card
+    [27322] = {EffectID = 1186}, -- Demon God's Apostle Ahat Card
+    [27323] = {EffectID = 1186}, -- Demon God's Apostle Shnaim Card
+    [27324] = {EffectID = 1186}, -- Brinaranea Card
+    [27325] = {EffectID = 1186}, -- Muspellskoll Card
+    [27326] = {EffectID = 1186}, -- Morocc's Minion Card
+    [27327] = {EffectID = 1186}, -- Grim Reaper Ankou Card
+    [27328] = {EffectID = 1186}, -- Living Death Card
     [27329] = {EffectID = 1186}, -- Cursed King Schmidt Card
     [27330] = {EffectID = 1186}, -- Kronecker Card
     [27331] = {EffectID = 1186}, -- Kronecker G. Heine Card
     [27332] = {EffectID = 1186}, -- Skia Card
     [27333] = {EffectID = 1186}, -- Skia Nerius Card
+    [27334] = {EffectID = 1186}, -- Chaotic Baphomet Card
+    [27335] = {EffectID = 1186}, -- Chaotic Baphomet Junior Card
+    [27336] = {EffectID = 1186}, -- Chaotic Sidewinder Card
+    [27337] = {EffectID = 1186}, -- Chaotic Hunter Fly Card
+    [27338] = {EffectID = 1186}, -- Chaotic Mantis Card
+    [27339] = {EffectID = 1186}, -- Chaotic Ghostring Card
+    [27340] = {EffectID = 1186}, -- Chaotic Killer Mantis Card
+    [27341] = {EffectID = 1186}, -- Chaotic Poporing Card
+    [27342] = {EffectID = 1186}, -- Chaotic Stem Worm Card
+    [27343] = {EffectID = 1186}, -- Chaotic Acolyte Card
     [27346] = {EffectID = 1186}, -- Firm Muspell Card
     [27347] = {EffectID = 1186}, -- Firm Kaho Card
     [27348] = {EffectID = 1186}, -- Firm Lava Golem Card
@@ -1472,6 +1653,25 @@ customeffects = {
     [300123] = {EffectID = 1186}, -- Purple Pitaya Card
     [300124] = {EffectID = 1186}, -- Blue Pitaya Card
     [300125] = {EffectID = 1186}, -- Green Pitaya Card
+    [300140] = {EffectID = 1186}, -- Abysmal Sropho Card
+    [300141] = {EffectID = 1186}, -- Abysmal Obeaune Card
+    [300142] = {EffectID = 1186}, -- Abysmal Deviace Card
+    [300143] = {EffectID = 1186}, -- Abysmal Marse Card
+    [300144] = {EffectID = 1186}, -- Abysmal Merman Card
+    [300145] = {EffectID = 1186}, -- Abysmal Witch Card
+    [300146] = {EffectID = 1186}, -- Abysmal Sedora Card
+    [300147] = {EffectID = 1186}, -- Abysmal Swordfish Card
+    [300148] = {EffectID = 1186}, -- Abysmal Strouf Card
+    [300149] = {EffectID = 1186}, -- Abysmal Phen Card
+    [300150] = {EffectID = 1186}, -- Abysmal King Dramoh Card
+    [300151] = {EffectID = 1186}, -- Abysmal Kraken Card
+    [300170] = {EffectID = 1186}, -- Rotten Wood Card
+    [300171] = {EffectID = 1186}, -- Grave Worm Card
+    [300172] = {EffectID = 1186}, -- Brain Sucker Card
+    [300173] = {EffectID = 1186}, -- Moskillro Card
+    [300174] = {EffectID = 1186}, -- Melted Poring Card
+    [300175] = {EffectID = 1186}, -- Unidentified Creature Card
+    [300176] = {EffectID = 1186}, -- Unidentified Life Form Card
     [300177] = {EffectID = 1186}, -- Midnight Arhi Card
     [300178] = {EffectID = 1186}, -- Midnight Dio Anemos Card
     [300179] = {EffectID = 1186}, -- Midnight Shoplifter Card
@@ -1487,6 +1687,23 @@ customeffects = {
     [300189] = {EffectID = 1186}, -- Midnight Ju Card
     [300190] = {EffectID = 1186}, -- Midnight Fay Kanavian Card
     [300191] = {EffectID = 1186}, -- Midnight Dwigh Card
+    [300192] = {EffectID = 1186}, -- Sakray Card
+    [300193] = {EffectID = 1186}, -- Tiara Card
+    [300211] = {EffectID = 1186}, -- Ash Toad Card
+    [300212] = {EffectID = 1186}, -- Rakehand Card
+    [300213] = {EffectID = 1186}, -- Spark Card
+    [300214] = {EffectID = 1186}, -- Hot Molar Card
+    [300215] = {EffectID = 1186}, -- Volcaring Card
+    [300216] = {EffectID = 1186}, -- Lava Toad Card
+    [300217] = {EffectID = 1186}, -- Burning Fang Card
+    [300218] = {EffectID = 1186}, -- Ashhopper Card
+    [300219] = {EffectID = 1186}, -- Ashring Card
+    [300220] = {EffectID = 1186}, -- Grey Wolf Card
+    [300221] = {EffectID = 1186}, -- Tumble Ring Card
+    [300222] = {EffectID = 1186}, -- Firewind Kite Card
+    [300223] = {EffectID = 1186}, -- Phantom Wolf Card
+    [300227] = {EffectID = 1186}, -- Schulang Card
+    [300228] = {EffectID = 1186}, -- Twisted God Card
     [300240] = {EffectID = 1186}, -- Gan Ceann Card
     [300241] = {EffectID = 1186}, -- Brutal Murderer Card
     [300242] = {EffectID = 1186}, -- Ghost Cube Card
@@ -1510,15 +1727,23 @@ customeffects = {
     [300260] = {EffectID = 1186}, -- Napeo Card
     [300261] = {EffectID = 1186}, -- Galensis Card
     [300262] = {EffectID = 1186}, -- The One Card
-    [300281] = {EffectID = 1186}, -- R001-Bestia Card
-    [300192] = {EffectID = 1186}, -- Sakray Card
-    [300193] = {EffectID = 1186}, -- Tiara Card
-    [300170] = {EffectID = 1186}, -- Rotten Wood Card
-    [300171] = {EffectID = 1186}, -- Grave Worm Card
-    [300172] = {EffectID = 1186}, -- Brain Sucker Card
-    [300173] = {EffectID = 1186}, -- Moskillro Card
-    [300174] = {EffectID = 1186}, -- Melted Poring Card
-    [300175] = {EffectID = 1186}, -- Unidentified Creature Card
-    [300176] = {EffectID = 1186}, -- Unidentified Life Form Card
+    [300263] = {EffectID = 1186}, -- Rekenber Guard Card
+    [300264] = {EffectID = 1186}, -- Rekenber High Guard Card
+    [300265] = {EffectID = 1186}, -- Regenschirm Scientist Card
+    [300266] = {EffectID = 1186}, -- Unknown Swordsman Card
+    [300267] = {EffectID = 1186}, -- Crow Baron Card
+    [300268] = {EffectID = 1186}, -- Crow Duke Card
+    [300269] = {EffectID = 1186}, -- Eldest Card
+    [300270] = {EffectID = 1186}, -- Empathizer Card
+    [300271] = {EffectID = 1186}, -- Happiness Giver Card
+    [300272] = {EffectID = 1186}, -- Pray Giver Card
+    [300273] = {EffectID = 1186}, -- Smile Giver Card
     [300274] = {EffectID = 1186}, -- Anger of Thanatos Card
+    [300275] = {EffectID = 1186}, -- Horror of Thanatos Card
+    [300276] = {EffectID = 1186}, -- Regret of Thanatos Card
+    [300277] = {EffectID = 1186}, -- Resentment of Thanatos Card
+    [300278] = {EffectID = 1186}, -- Void Mimic Card
+    [300279] = {EffectID = 1186}, -- Book of Death Card
+    [300280] = {EffectID = 1186}, -- Broken Memory of Thanatos Card
+    [300281] = {EffectID = 1186}, -- R001-Bestia Card
 }
