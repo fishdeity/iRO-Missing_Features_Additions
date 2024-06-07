@@ -36,9 +36,11 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   + **unidentified_shows_item.zip**: Shows what items are without needing magnifier. Can customize item glows and item sprites.
     + Requires re-run a file every 1-2 weeks or when new items come out to keep working.
   + The following work only if unidentified_shows_item.zip is done and working first:
-    + **Adventure_Card_A_sprite-big_x30.gpf**: Giant sprite in case someone wants it for big, different MVP cards.
     + **customeffects.lua**: File that can customize item light effects.
-    + **customsprites-some_mvp_cards.lua**: File that can customize item sprites, has some mvp cards changed to Adventure Card A sprite.
+    + **customeffects-example-minimal.lua**: customeffects but with less items.
+    + **customsprites.lua**: File that can customize item sprites.
+    + **customsprites-example-mvp_cards.lua**: customsprites but has some mvp cards changed to Adventure Card A sprite. Highly suggest merging in the gpf below when using this.
+    + **Adventure_Card_A_sprite-big_x12**: Giant sprite in case someone wants it for big, different MVP cards.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
 + **bundle_of_edits_for_newb/**: Holds bundle of ALL gpf type edits in here, mainly for lazy/tech newbie players.
     + eden_textures_premium.gpf is not included in this for time being.
@@ -79,8 +81,11 @@ Note instructions work only for files ending with .gpf or .grf
     
 ![edits-09-merge](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/a8a8f6a4-eea0-43c5-9b32-d5ae2e1607b8)
 
-10. Repeat Step 8, 9 for any additional .gpfs you wish to add on.
-11. Open the game and test it out! If there any issues, you can swap back to your backup copy data.grf
+10. Repeat Step 8, 9 for any additional .gpfs you wish to add on (no need to close window). 
+11. Open the game and test it out!
+    - If there any issues, you can swap back to your backup copy data.grf
+    - If you wish to get notifications on when edits are updated, join my discord, go to #roles, and react to the 🔔
+      - Discord invite:   [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
 
 ### Adding for GPF Types (Alternate Method) ###
 *Note that this process has many possible ways to do, this is just 1 example.
@@ -97,18 +102,26 @@ Note instructions work only for files ending with .gpf or .grf
 
 ### Adding for Non-GPF Types ###
 - #### **System/unidentified_shows_item.zip** ####
-  1. Download my [zip file](https://github.com/fishdeity/iRO-Missing_Features_Additions/blob/master/System/unidentified_shows_item.zip), extract, then move the contents of all 5+ files into your iRO's **System** folder.
-  2. Run **iteminfo.bat**, a command prompt should open, then press any button.
-  3. Feel free to delete the zip file now and open game to try.
+  1. Download my [zip file](https://github.com/fishdeity/iRO-Missing_Features_Additions/blob/master/System/unidentified_shows_item.zip) and extract. 
+    ![image](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/70d306a2-4c93-4001-a20b-9a4ea1076cbe)
+  2. Then move the contents of all 5+ files into your iRO's **System** folder.
+    ![image](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/7832033c-13f0-4747-8aeb-e68018855e0f)
+  3. Run **iteminfo.bat**, a command prompt should open, then press any button.
+    ![image](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/916676bf-34dd-4da7-bf4c-313035add8bf)
+  5. Open game to try, zip file not needed anymore. 
       - Game updates will overwrite **iteminfo.lub**, just re-run **iteminfo.bat** each time to reupdate.
         - Make a shortcut of iteminfo.bat and place on desktop for easier access.
+          ![image](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/364a1cf7-d9f1-4d9a-8076-8c24d9ce6580)
       - If you wish to go back to original, delete **iteminfo.lub**, then rename the **iteminfo2.lub** to iteminfo.lub.
       - customeffects.lua will be generated, it contains custom light effect for items
         - You can add/remove anything you like in here, open with Notepad.
+        - If you wish to use the customeffects-example-minimal.lua, rename it to customeffects.lua to replace the other one.
       - customsprites.lua will be generated, similar but with sprites instead.
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 June 6:
+  - **unidentified_shows_item.zip**: Updated customeffects.lua, customsprites.lua, and examples to ep 18 content. Named it as version 3.01, details in the System folder of GitHub.
 - 2024 May 22:
   - Episode 18 Direction of Prayer update
   - **card_art_missing_added.gpf**: Tomb of Remorse mvp Sakray and Tiara card art added. Other details: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/73e7cea437fe872649c7711c1a6c519537751ad5)
@@ -182,12 +195,14 @@ If any issues, Discord message me at 2Lazy2MakeAName.
 - https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
 - zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
   - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
+  - and his repository: https://github.com/wolfchev?tab=repositories
 - rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
 - [llchrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
 - Cate for info on fixing lvl 200 aura
-- Angux for the bigger Einbech 3 ores
+- Angux for the bigger Einbech 3 ores and helping with the customsprites.lua code
 - Blink for more mini maps and the file that tells the game where to look for each map's mini map
 - k.a for his eden view premium and bigger bio5 frags
+- Vividort and Yongky for contribution to more edits
 
 # Sample Pictures #
 indoors_view_no_lock.gpf (for normal camera view): <br>
