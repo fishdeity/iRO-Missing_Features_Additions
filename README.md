@@ -120,6 +120,11 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 June 19:
+  - Illusion of Twins update
+  - **card_art_missing_added.gpf**: Copy pasted edits over to updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/73d1cddf037da78a4cfe478298e52ae44e1766e2)
+  - **card_enchant_prefixes.gpf**: Copy pasted edits over to updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0eb7fb668cfa150b72db6471ded9d773db28aebf)
+  - **zoom_farther_out.gpf**: Added illu twins map: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/4c05ed42c0b253aae7f0bebd1aca3766e7105b01)
 - 2024 June 6:
   - **unidentified_shows_item.zip**: Updated customeffects.lua, customsprites.lua, and examples to ep 18 content. Named it as version 3.01, details in the System folder of GitHub.
 - 2024 May 22:
