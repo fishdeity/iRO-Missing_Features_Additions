@@ -1198,6 +1198,19 @@
 300228#EP18_Demi_Freyja_Card#
 //===========2024 2Q UPDATE end
 
+//2024.06.18 일루전 오브 트윈스 자체QA
+//일루전트윈스
+300230#ILL_Andre_Card#
+300231#ILL_Andre_soldier_Card#
+300232#ILL_Andre_larva_Card#
+300233#ILL_Deniro_Card#
+300234#ILL_Piere_Card#
+300235#ILL_Ant_egg_Card#
+300236#ILL_Giearth_Card#
+300237#ILL_Farmiliar_Card#
+300238#ILL_Vitata_Card#
+300239#ILL_Maya_Card#
+
 //-Custom Edits-
 
 //--Jitterbug : were missing but now added
