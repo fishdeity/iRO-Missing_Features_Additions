@@ -120,6 +120,10 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 July 9:
+  - Shiba event update.
+  - **card_art_missing_added.gpf**: Copy pasted edits over to updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/aa820f5b0d0bd07a625d6e8509fccf1a6dcda894)
+  - **card_enchant_prefixes.gpf**: Copy pasted edits over to updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/6cf92583a179b203e90bfc57ff074f08dc6b6eb4)
 - 2024 June 19:
   - Illusion of Twins update
   - **card_art_missing_added.gpf**: Copy pasted edits over to updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/73d1cddf037da78a4cfe478298e52ae44e1766e2)
