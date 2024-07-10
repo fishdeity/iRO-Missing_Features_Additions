@@ -1211,6 +1211,13 @@
 300238#ILL_Vitata_Card#
 300239#ILL_Maya_Card#
 
+//2024.07.09 시바세이즈 콜라보 이벤트
+// 2024 시바세이즈 콜라보
+300547#CLB_SS_DF_Card#
+300550#CLB_SS_EA_Card#
+300551#CLB_SS_LL_Card#
+300552#CLB_SS_LT_Card#
+
 //-Custom Edits-
 
 //--Jitterbug : were missing but now added
