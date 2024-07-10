@@ -708,7 +708,7 @@
 4608#Knight's#
 4609#Knight's#
 
-//2017년 3월 Brasilis
+//2017??3??Brasilis
 27120#Recovery#
 27121#Serrasalmus#
 27122#Tidal Wave#
@@ -719,7 +719,7 @@
 
 
 
-//2017년 9월 Moscovia Card
+//2017??9??Moscovia Card
 27157#of Aqua Wood#
 27158#of Windness#
 27159#Demon Hunter#
@@ -813,7 +813,7 @@
 27362#Orb of Queen Spider#
 27363#Doomed#
 
-// 22_09 2019 왕실 사냥 대회
+// 22_09 2019 ?�실 ?�냥 ?�??
 27389#Wolfe's#
 27390#of Wolfe Lugenburg#
 27391#Poe's#
@@ -922,7 +922,7 @@
 300258#Deep Darkness#
 
 //========2023 3Q UPDATE==================
-//고성 도전모드
+//고성 ?�전모드
 27381#of Fallen Angel#
 27382#of Creep#
 27383#of Relax#
@@ -932,7 +932,7 @@
 27387#Undead Slayer's#
 27388#Strong Recovery#
 
-//게펜야간투기장 카드
+//게펜?�간?�기??카드
 300177#Midnight Arhi#
 300178#Midnight Anemos#
 300180#Midnight Gangster#
@@ -960,11 +960,11 @@
 //2023 3Q Additional Update Illusion of TeddyBear end
 
 //2023 3Q Additional Update Fall of Glast Heim
-//글래스트헤임 에다 카드
+//글?�스?�헤???�다 카드
 27329#of Schmidt#
 
 //2024 1Q Additional Update Illusion of Luanda
-//일루전 오브 루안다
+//?�루???�브 루안??
 27291#Full Charging#
 27292#of Stalactic#
 27293#Circular#
@@ -975,11 +975,11 @@
 27298#of Big Shield#
 
 //========2024 1Q UPDATE==================
-//회한의 무덤 Tomb of Remorese
+//?�한??무덤 Tomb of Remorese
 300192#Pisa#
 300193#Bobetta#
 
-//비공정 추락 신규카드 Airship Crash
+//비공??추락 ?�규카드 Airship Crash
 300170#Rotten#
 300171#Digger#
 300172#Melting#
@@ -990,7 +990,7 @@
 
 //=======================2024 1Q UPDATE end
 
-//2024.02.06 신규카드 42종, 모로크 EP14.3 신규카드
+//2024.02.06 ?�규카드 42�? 모로??EP14.3 ?�규카드
 27321#Demon God's#
 27322#Dominator's#
 27323#Coordinator's#
@@ -1018,9 +1018,9 @@
 300279#Dead-pansion#
 300280#Corrupted Magic Swordsman's#
 300281#of Water Bug#
-//2024.02.06 신규카드 42종, 모로크 EP14.3 신규카드 end
+//2024.02.06 ?�규카드 42�? 모로??EP14.3 ?�규카드 end
 
-//2024.03.05 일루전 오브 라비린스 Illusion of Labyrinth
+//2024.03.05 ?�루???�브 ?�비린스 Illusion of Labyrinth
 27334#of Chaotic#
 27335#of Blackguard#
 27336#of Viper#
@@ -1031,7 +1031,7 @@
 27341#of Water Shell#
 27342#Metal Ground#
 27343#Holy Spell#
-//2024.03.05 일루전 오브 라비린스 Illusion of Labyrinth end
+//2024.03.05 ?�루???�브 ?�비린스 Illusion of Labyrinth end
 
 //==========2024 2Q UPDATE==============
 //EP18
@@ -1053,7 +1053,7 @@
 
 //==========2024 2Q UPDATE end
 
-//2024.04.23 일루전 오브 언더워터
+//2024.04.23 ?�루???�브 ?�더?�터
 300140#Enhance Thunder#
 300141#Mermaid's#
 300142#Undersea#
@@ -1066,9 +1066,9 @@
 300149#of Fish Killer#
 300150#of Sword Expert#
 300151#Marine Nightmare#
-//2024.04.23 일루전 오브 언더워터 end
+//2024.04.23 ?�루???�브 ?�더?�터 end
 
-//2024.06.18 일루전 오브 트윈스 자체QA
+//2024.06.18 ?�루???�브 ?�윈???�체QA
 300230#Yellow Spawn#
 300231#Royal Spawn#
 300232#Spawn#
@@ -1079,7 +1079,14 @@
 300237#Pierce#
 300238#Double Heal#
 300239#Distortion#
-//2024.06.18 일루전 오브 트윈스 자체QA end
+//2024.06.18 ?�루???�브 ?�윈???�체QA end
+
+//2024.07.09 ?�바?�이�?콜라�??�벤??
+// 2024 ?�바?�이�?콜라�?
+300547#Hungry#
+300550#Lazy#
+300551#Happy#
+300552#Lucky#
 
 //-Custom Edits-
 
