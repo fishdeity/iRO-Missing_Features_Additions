@@ -120,6 +120,8 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 July 25:
+  - **card_enchant_prefixes.gpf**: Hero Boots-LT, Thana Helm, Hero Badge, Talent Enhanced Shadows enchants added: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/7ad5d3887eae953ff98f42f70c82c4e7aa9de9f5)
 - 2024 July 9:
   - Shiba event update.
   - **card_art_missing_added.gpf**: Copy pasted edits over to updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/aa820f5b0d0bd07a625d6e8509fccf1a6dcda894)
