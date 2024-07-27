@@ -12,6 +12,8 @@ StateIconImgList = {
 		[EFST_IDs.EFST_GOLDENMACECLAN] = "GOLDENMACECLAN.TGA",
 		[EFST_IDs.EFST_CROSSBOWCLAN] = "CROSSBOWCLAN.TGA",
 		[EFST_IDs.EFST_JUMPINGCLAN] = "eldicastes.tga",
+		[EFST_IDs.EFST_GDSKILL_POSTDELAY] = "HALOHALO.tga",
+		[EFST_IDs.EFST_SIREN] = "aste-stateicon-siren.TGA",
 		[EFST_IDs.EFST_ESSENCE_OF_TIME] = "eldicastes.tga"
 	},
 	PRIORITY_RED = {

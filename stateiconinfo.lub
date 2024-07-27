@@ -5712,3 +5712,21 @@ StateIconList[EFST_IDs.EFST_PERIOD_PLUSJOBEXP] = {
 		{ "Get more Job EXP when hunting monsters" }
 	}
 }
+StateIconList[EFST_IDs.EFST_GDSKILL_POSTDELAY] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "After Guild Skill Delay", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Can not use Urgent Call" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SIREN] = {
+    haveTimeLimit = 1,
+    posTimeLimitStr = 2,
+    descript = {
+        { "Siren's Voice", COLOR_TITLE_DEBUFF },
+        { "%s", COLOR_TIME },
+        { "Makes enemies enticed temporarily or until they take damage." }
+    }
+}
