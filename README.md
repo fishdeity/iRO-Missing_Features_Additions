@@ -10,6 +10,7 @@
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
 
 ### GPF Types ###
+- **bgm_missing_added.gpf**: Adds and replaces several maps' BGM to proper sound, like Eden 2F's BGM is changed to Morroc music instead of login.
 - **big_card.gpf**: Makes card sprites bigger, thus easier to see.
 - **big_other_items.gpf**: Makes other item sprites bigger. Click commit message (words right of the file name above) to see full list of items.
 - **card_art_missing_added.gpf**: Cards missing images have been fixed and added (Rockridge Cramp, Archi, etc).
@@ -120,6 +121,11 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 Sept 24:
+  - Varmundt Biosphere update
+  - **bgm_missing_added.gpf**: Added using kRO file and edited by Vividort. Now login music will not be the BGM for several maps: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/05ce833baef5d274c4e3566257db506cd1985912)
+  - **card_enchant_prefixes.gpf**: Added Varmundt Biosphere equip enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/cbadb7d4492b4b7843a4eb0ee671f6f5a4d1a8fc)
+  - **zoom_farther_out.gpf**: Added zoom to new Varmundt Biosphere maps: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ab59ecf3b1b98f396dca11eab37ccc4a63b5724f)
 - 2024 August 20:
   - **card_enchant_prefixes.gpf**: Sprout of World Tree enchants added: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/7764ea56166258558e23c5ce9fd2fcea78e1e771)
 - 2024 July 25:
