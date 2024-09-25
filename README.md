@@ -43,8 +43,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     + **customsprites-example-mvp_cards.lua**: customsprites but has some mvp cards changed to Adventure Card A sprite. Highly suggest merging in the gpf below when using this.
     + **Adventure_Card_A_sprite-big_x12**: Giant sprite in case someone wants it for big, different MVP cards.
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
-+ **bundle_of_edits_for_newb/**: Holds bundle of ALL gpf type edits in here, mainly for lazy/tech newbie players.
-    + eden_textures_premium.gpf is not included in this for time being.
++ **bundle_of_edits_for_newb/**: Edits into one gpf.
+    + **bundle_all_edits**: Holds bundle of ALL gpf type edits in here.
+    + **patch_some_edits**: Holds edits of recently updated files on the specified day. 
 + **tools/** : Folder that contains programs for the installation alternate method.
   
 # Installation Steps #
@@ -126,6 +127,8 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
   - **bgm_missing_added.gpf**: Added using kRO file and edited by Vividort. Now login music will not be the BGM for several maps: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/05ce833baef5d274c4e3566257db506cd1985912)
   - **card_enchant_prefixes.gpf**: Added Varmundt Biosphere equip enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/cbadb7d4492b4b7843a4eb0ee671f6f5a4d1a8fc)
   - **zoom_farther_out.gpf**: Added zoom to new Varmundt Biosphere maps: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ab59ecf3b1b98f396dca11eab37ccc4a63b5724f)
+  - bundle_of_edits_for_newb:
+    - **patch_some_edits**: New file added only for edits that have been updated.
 - 2024 August 20:
   - **card_enchant_prefixes.gpf**: Sprout of World Tree enchants added: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/7764ea56166258558e23c5ce9fd2fcea78e1e771)
 - 2024 July 25:
