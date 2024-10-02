@@ -102,6 +102,10 @@ Note instructions work only for files ending with .gpf or .grf
     - You can now delete those downloaded files earlier.
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
+### Adding for GPF Types (Pingaify Patcher Method) ###
+*Note this method actually adds all the gpf edits and light beam edits from customeffects.lua and customsprites.lua
+1. See the full instructions here: https://irowiki.org/wiki/Clients_and_Patches#iRO_Wiki_QoL_Patcher
+
 ### Adding for Non-GPF Types ###
 - #### **System/unidentified_shows_item.zip** ####
   1. Download my [zip file](https://github.com/fishdeity/iRO-Missing_Features_Additions/blob/master/System/unidentified_shows_item.zip) and extract. 
@@ -122,6 +126,9 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 Oct 1:
+  - **System/customeffects.lua**: Added light effects for Biosphere drops: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/69e83e1108ae4ff8b01f5f3f94d6f79249abbbaf)
+  - Pingaify has created a patcher for my and his edits now. Download and instructions here: https://irowiki.org/wiki/Clients_and_Patches#iRO_Wiki_QoL_Patcher
 - 2024 Sept 24:
   - Varmundt Biosphere update
   - **bgm_missing_added.gpf**: Added using kRO file and edited by Vividort. Now login music will not be the BGM for several maps: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/05ce833baef5d274c4e3566257db506cd1985912)
