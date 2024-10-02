@@ -546,6 +546,8 @@ customeffects = {
     [6607] = {EffectID = 1869}, -- Temporal Crystal
     [6608] = {EffectID = 1869}, -- Coagulated Spell
     [6672] = {EffectID = 1869}, -- Gray Shard
+    [6689] = {EffectID = 1190}, -- Burning Bug Skin
+    [6690] = {EffectID = 1190}, -- Yummy Stem
     [6719] = {EffectID = 1869}, -- Tooth of Jitterbug
     [6752] = {EffectID = 1869}, -- Charleston Component
     [6803] = {EffectID = 1869}, -- Shard of Gigantes
@@ -702,6 +704,25 @@ customeffects = {
     [1000501] = {EffectID = 1190}, -- Holy Oil of Purification
     [1000502] = {EffectID = 1190}, -- Holy Water of Purification
     [1000503] = {EffectID = 1190}, -- Shroud of Rest
+
+    -- ###################
+    -- ##   Biosphere   ##
+    -- ###################
+
+    [1000643] = {EffectID = 1190}, -- Death Rune
+    [1000642] = {EffectID = 1190}, -- Ice Rune
+    [1000641] = {EffectID = 1190}, -- Fire Rune
+    [1000640] = {EffectID = 1190}, -- Grass Rune
+    [1000639] = {EffectID = 1869}, -- Death Rune Fragment
+    [1000638] = {EffectID = 1869}, -- Ice Rune Fragment
+    [1000637] = {EffectID = 1869}, -- Fire Rune Fragment
+    [1000636] = {EffectID = 1869}, -- Grass Rune Fragment
+    [1000426] = {EffectID = 1190}, -- Accessory Enhancement Ore (Low Grade)
+    [1000423] = {EffectID = 1190}, -- Armor Enhancement Ore (Low Grade)
+    [1000419] = {EffectID = 1190}, -- Weapon Enhancement Ore (Low Grade)
+    [1000438] = {EffectID = 1871}, -- Accessory Enhancement Stone(Low Grade)
+    [1000434] = {EffectID = 1871}, -- Armor Enhancement Stone (Low Grade)
+    [1000430] = {EffectID = 1871}, -- Weapon Enhancement Stone (Low Grade)
 
     -- ###################
     -- ## Missing Cards ##
