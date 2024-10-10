@@ -126,6 +126,8 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 Oct 9:
+  - **big_other_items.gpf**: Added Varmundt Biosphere drops at 4x size. Thanks to Sanggoro
 - 2024 Oct 1:
   - **System/customeffects.lua**: Added light effects for Biosphere drops: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/69e83e1108ae4ff8b01f5f3f94d6f79249abbbaf)
   - Pingaify has created a patcher for my and his edits now. Download and instructions here: https://irowiki.org/wiki/Clients_and_Patches#iRO_Wiki_QoL_Patcher
