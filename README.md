@@ -126,6 +126,14 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 Nov 7:
+  - Clock Tower Basement and Expanded 4th jobs update
+  - **big_other_items.gpf**: Clock Gear and Clock Lead added at 6x size. Credits to Kutz
+  - **card_art_missing_added.gpf**: Sealed Pharaoh Card added along with Clock Tower Basement cards.
+  - **card_enchant_prefixes.gpf**: Clock Tower Basement cards update. Also added their weapon enchant prefixes.
+  - **maps_added_and_fixed.gpf**: Added Expanded 4th job quests' missing mini maps, new tutorial mini maps, WoE caste entrance maps. Credits to Blink.
+  - **resource_file_fixes.gpf**: Added back old missing files like Amicitia missing models, Loki's missing illustrion. Removed hairstyles 33-42 since included in game now.
+  - **zoom_farther_out.gpf**: Added zoom for Clock Tower Basement, Expanded 4th jobs quests, new tutorial maps.
 - 2024 Oct 9:
   - **big_other_items.gpf**: Added Varmundt Biosphere drops at 4x size. Thanks to Sanggoro
 - 2024 Oct 1:
