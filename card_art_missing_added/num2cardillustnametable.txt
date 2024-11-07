@@ -1301,4 +1301,7 @@
 300192#Sakray_Card#
 300193#Tiara_Card#
 
+//--Sealed Pharaoh Card
+4489#봉인된파라오카드#
+
 //-Custom Edits End Here-
