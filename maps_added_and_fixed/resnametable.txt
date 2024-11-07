@@ -2349,7 +2349,7 @@ rwc_arena12.rsw#rwc_arena04.rsw#
 1@tre.gnd#treasure01.gnd#
 1@tre.gat#treasure01.gat#
 1@tre.rsw#treasure01.rsw#
-유저인터페이스\map\1@tre.bmp#유저인터페이스\map\1@tre.bmp#
+유저인터페이스\map\1@tre.bmp#유저인터페이스\map\treasure01.bmp#
 
 //201805 17.1 추가맵
 1@cor.gnd#1@cor.gnd#
@@ -2633,6 +2633,43 @@ te_prt_gld.rsw#te_prt_gld.rsw#
 유저인터페이스\map\1@tcamp.bmp#유저인터페이스\map\1@tcamp.bmp#
 
 //==========2024 2Q UPDATE end
+
+//=========2024 3Q UPDATE=========================
+// 나이트워치
+1@exnw.gnd#1@exnw.gnd#
+1@exnw.gat#1@exnw.gat#
+1@exnw.rsw#1@exnw.rsw#
+유저인터페이스\map\1@exnw.bmp#유저인터페이스\map\1@exnw.bmp#
+// 신키로_시라누이
+1@exsr.gnd#1@exsr.gnd#
+1@exsr.gat#1@exsr.gat#
+1@exsr.rsw#1@exsr.rsw#
+유저인터페이스\map\1@exsr.bmp#유저인터페이스\map\1@exsr.bmp#
+// 영도사
+1@exds.gnd#1@exds.gnd#
+1@exds.gat#1@exds.gat#
+1@exds.rsw#1@exds.rsw#
+유저인터페이스\map\1@exds.bmp#유저인터페이스\map\1@exds.bmp#
+2@exds.gnd#2@exds.gnd#
+2@exds.gat#2@exds.gat#
+2@exds.rsw#2@exds.rsw#
+유저인터페이스\map\2@exds.bmp#유저인터페이스\map\2@exds.bmp#
+// 천제
+1@exse.gnd#1@exse.gnd#
+1@exse.gat#1@exse.gat#
+1@exse.rsw#1@exse.rsw#
+유저인터페이스\map\1@exse.bmp#유저인터페이스\map\1@exse.bmp#
+// 하이퍼노비스
+1@exhn.gnd#1@exhn.gnd#
+1@exhn.gat#1@exhn.gat#
+1@exhn.rsw#1@exhn.rsw#
+유저인터페이스\map\1@exhn.bmp#유저인터페이스\map\1@exhn.bmp#
+// 혼령사
+1@exsh.gnd#1@exsh.gnd#
+1@exsh.gat#1@exsh.gat#
+1@exsh.rsw#1@exsh.rsw#
+유저인터페이스\map\1@exsh.bmp#유저인터페이스\map\1@exsh.bmp#
+//==========2024 3Q UPDATE end
 
 //Custom Edits
 
