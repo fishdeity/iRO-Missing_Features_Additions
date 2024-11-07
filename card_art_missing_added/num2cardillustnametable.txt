@@ -586,7 +586,7 @@
 4584#머너넝걸카드#
 4585#멍쿠쿠럼카드#
 4586#틱버렁카드#
-4587#티억넠카드#
+4587#티억넠카�?
 4588#웤웤카드#
 4589#제제링카드#
 4590#벙웅곳카드#
@@ -1300,8 +1300,5 @@
 //--Tomb of Remorse MVP cards : Sorry images replaced
 300192#Sakray_Card#
 300193#Tiara_Card#
-
-//--Sealed Pharaoh Card
-4489#봉인된파라오카드#
 
 //-Custom Edits End Here-
