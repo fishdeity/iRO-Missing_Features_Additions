@@ -1081,6 +1081,16 @@
 300239#Distortion#
 //2024.06.18 ?ºÎ£®???§Î∏å ?∏Ïúà???êÏ≤¥QA end
 
+//=========2024 3Q UPDATE==============
+// ?úÍ≥Ñ???¥ÎπÑ??
+300292#Devil Joker#
+300293#of Poison#
+300294#Poison Dead#
+300295#Animal Killer#
+300296#Mad Bug#
+300297#Senior Hunter's#
+//=========2024 3Q UPDATWE end
+
 //2024.07.09 ?úÎ∞î?∏Ïù¥Ï¶?ÏΩúÎùºÎ≥??¥Î≤§??
 // 2024 ?úÎ∞î?∏Ïù¥Ï¶?ÏΩúÎùºÎ≥?
 300547#Hungry#
@@ -2393,5 +2403,60 @@
 312802#EV(IG)#
 312803#GV(AM)#
 312804#EV(AM)#
+
+//--Clock Tower Basement Weapon enchants
+311016#Cw(Atk)#
+311017#Cw(Matk)#
+311018#Cw(DAA)#
+311019#Cw(VCT)#
+311020#Cw(GCD)#
+311021#Cw(POW)#
+311022#Cw(SPL)#
+311023#Cw(STA)#
+311024#Cw(WIS)#
+311025#Cw(CRT)#
+311026#Cw(CON)#
+311027#Cw(P.Atk)#
+311028#Cw(S.Matk)#
+311029#StoSla-TD#
+311030#HacNSla-TD#
+311031#AxeSto-TD#
+311032#AxeTor-TD#
+311033#AciZon-TD#
+311034#CarTor-TD#
+311035#ImpCra-TD#
+311036#SavImp-TD#
+311037#FroCri-TD#
+311038#CryImp-TD#
+311039#AbySqu-TD#
+311040#FroTheAby-TD#
+311041#ConLig-TD#
+311042#PsyWav-TD#
+311043#GlaSto-TD#
+311044#ArrSto-TD#
+311045#SecOrd-TD#
+311046#ThiOrd-TD#
+311047#ShiSho-TD#
+311048#RapSmi-TD#
+311049#Flamen-TD#
+311050#Arbitr-TD#
+311051#NooBla-TD#
+311052#RisSun-TD#
+311053#TalFouBea-TD#
+311054#TalSouSte-TD#
+311055#OnlOneBul-TD#
+311056#SpiSho-TD#
+311057#DouBowBas-TD#
+311058#MetSto-TD#
+311059#ShaDan-TD#
+311060#DarCan-TD#
+311061#RosSho-TD#
+311062#SevRai-TD#
+311063#HowStr-TD#
+311064#Hyu-TD#
+311379#TheVigNight-TD#
+311380#MagForOne-TD#
+311381#WilFir-TD#
+311382#HuuShuGra-TD#
 
 //-Custom Edits End Here-
