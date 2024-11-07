@@ -586,7 +586,7 @@
 4584#머너넝걸카드#
 4585#멍쿠쿠럼카드#
 4586#틱버렁카드#
-4587#티억넠카�?
+4587#티억넠카드#
 4588#웤웤카드#
 4589#제제링카드#
 4590#벙웅곳카드#
@@ -1211,6 +1211,17 @@
 300238#ILL_Vitata_Card#
 300239#ILL_Maya_Card#
 
+//===========2024 3Q UPDATE===============
+//시계탑어비스
+300292#Extra_Joker_Card#
+300293#Erzsebet_Card#
+300294#Jeniffer_Card#
+300295#General_Orc_Card#
+300296#Sieglouse_Card#
+300297#Goblin_King_Card#
+
+//===========2024 3Q UPDATE end
+
 //2024.07.09 시바세이즈 콜라보 이벤트
 // 2024 시바세이즈 콜라보
 300547#CLB_SS_DF_Card#
@@ -1300,5 +1311,8 @@
 //--Tomb of Remorse MVP cards : Sorry images replaced
 300192#Sakray_Card#
 300193#Tiara_Card#
+
+//--Sealed Pharaoh Card
+4489#봉인된파라오카드#
 
 //-Custom Edits End Here-
