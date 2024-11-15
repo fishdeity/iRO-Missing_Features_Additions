@@ -558,9 +558,9 @@ customeffects = {
     [9517] = {EffectID = 1869}, -- Unidentified Ore
     [25235] = {EffectID = 1869}, -- Crafted Stone
     [25627] = {EffectID = 1869}, -- Gold Card
-    [25728] = {EffectID = 1869}, -- Shadowdecon Ore
+    [25728] = {EffectID = 1870}, -- Shadowdecon Ore
     [25729] = {EffectID = 1869}, -- Shadowdecon
-    [25730] = {EffectID = 1869}, -- Zelunium Ore
+    [25730] = {EffectID = 1870}, -- Zelunium Ore
     [25731] = {EffectID = 1869}, -- Zelunium
     [25759] = {EffectID = 1869}, -- Green Dragon Orb
     [25760] = {EffectID = 1869}, -- Blue Dragon Orb
@@ -709,20 +709,54 @@ customeffects = {
     -- ##   Biosphere   ##
     -- ###################
 
-    [1000643] = {EffectID = 1190}, -- Death Rune
-    [1000642] = {EffectID = 1190}, -- Ice Rune
-    [1000641] = {EffectID = 1190}, -- Fire Rune
-    [1000640] = {EffectID = 1190}, -- Grass Rune
-    [1000639] = {EffectID = 1869}, -- Death Rune Fragment
-    [1000638] = {EffectID = 1869}, -- Ice Rune Fragment
-    [1000637] = {EffectID = 1869}, -- Fire Rune Fragment
-    [1000636] = {EffectID = 1869}, -- Grass Rune Fragment
-    [1000426] = {EffectID = 1190}, -- Accessory Enhancement Ore (Low Grade)
-    [1000423] = {EffectID = 1190}, -- Armor Enhancement Ore (Low Grade)
-    [1000419] = {EffectID = 1190}, -- Weapon Enhancement Ore (Low Grade)
-    [1000438] = {EffectID = 1871}, -- Accessory Enhancement Stone(Low Grade)
-    [1000434] = {EffectID = 1871}, -- Armor Enhancement Stone (Low Grade)
-    [1000430] = {EffectID = 1871}, -- Weapon Enhancement Stone (Low Grade)
+    [1000643] = {EffectID = 1869}, -- Death Rune
+    [1000642] = {EffectID = 1869}, -- Ice Rune
+    [1000641] = {EffectID = 1869}, -- Fire Rune
+    [1000640] = {EffectID = 1869}, -- Grass Rune
+    [1000639] = {EffectID = 1870}, -- Death Rune Fragment
+    [1000638] = {EffectID = 1870}, -- Ice Rune Fragment
+    [1000637] = {EffectID = 1870}, -- Fire Rune Fragment
+    [1000636] = {EffectID = 1870}, -- Grass Rune Fragment
+    [1000426] = {EffectID = 1870}, -- Accessory Enhancement Ore (Low Grade)
+    [1000423] = {EffectID = 1870}, -- Armor Enhancement Ore (Low Grade)
+    [1000419] = {EffectID = 1870}, -- Weapon Enhancement Ore (Low Grade)
+    [1000438] = {EffectID = 1869}, -- Accessory Enhancement Stone(Low Grade)
+    [1000434] = {EffectID = 1869}, -- Armor Enhancement Stone (Low Grade)
+    [1000430] = {EffectID = 1869}, -- Weapon Enhancement Stone (Low Grade)
+
+    -- ######################################
+    -- ##   Clock Tower Unknown Basement   ##
+    -- ######################################
+
+    [1000681] = {EffectID = 1869}, -- Clock Gear
+    [1000680] = {EffectID = 1869}, -- Clock Lead
+    -- ## Weapons ##
+    [21063] = {EffectID = 1189}, -- Solid Claymore
+    [510050] = {EffectID = 1189}, -- Solid Dagger
+    [500044] = {EffectID = 1189}, -- Solid Edge
+    [540041] = {EffectID = 1189}, -- Solid Manual
+    [550055] = {EffectID = 1189}, -- Solid Rod
+    [530023] = {EffectID = 1189}, -- Solid Spear
+    [640031] = {EffectID = 1189}, -- Solid Staff
+    [550054] = {EffectID = 1189}, -- Solid Wand
+    [620016] = {EffectID = 1189}, -- Wicked Axe
+    [500045] = {EffectID = 1189}, -- Wicked Blade
+    [540042] = {EffectID = 1189}, -- Wicked Book
+    [590036] = {EffectID = 1189}, -- Wicked Cross
+    [510051] = {EffectID = 1189}, -- Wicked Dagger
+    [510052] = {EffectID = 1189}, -- Wicked Edge
+    [610035] = {EffectID = 1189}, -- Wicked Katar
+    [550056] = {EffectID = 1189}, -- Wicked Plant
+    [840004] = {EffectID = 1189}, -- Precision Bomber
+    [700050] = {EffectID = 1189}, -- Precision Bow
+    [560030] = {EffectID = 1189}, -- Precision Fist
+    [570028] = {EffectID = 1189}, -- Precision Lute
+    [810005] = {EffectID = 1189}, -- Precision Piercer
+    [800009] = {EffectID = 1189}, -- Precision Pistol
+    [820004] = {EffectID = 1189}, -- Precision Shatter
+    [650019] = {EffectID = 1189}, -- Precision Slasher
+    [830008] = {EffectID = 1189}, -- Precision Splatter
+    [580028] = {EffectID = 1189}, -- Precision Whip
 
     -- ###################
     -- ## Missing Cards ##
@@ -1767,6 +1801,13 @@ customeffects = {
     [300279] = {EffectID = 1186}, -- Book of Death Card
     [300280] = {EffectID = 1186}, -- Broken Memory of Thanatos Card
     [300281] = {EffectID = 1186}, -- R001-Bestia Card
+    [300296] = {EffectID = 1186}, -- Sieglouse Card
+    [300293] = {EffectID = 1186}, -- Erzsebet Card
+    [300292] = {EffectID = 1186}, -- Extra Joker Card
+    [300294] = {EffectID = 1186}, -- Jennifer Card
+    [300295] = {EffectID = 1186}, -- General Orc Card
+    [300297] = {EffectID = 1186}, -- Goblin King Card
+
 
     -- ####################
     -- ## Effect Removed ##
