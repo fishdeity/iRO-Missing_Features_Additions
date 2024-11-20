@@ -27,6 +27,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - **resource_file_fixes.gpf**: Files that are missing and fail to load and appear as red text in chat box have been added.
   - Missing Doram Garment Sprites like Amistr Bag
   - Missing map name pop up for some people, and more.
+- **skill_fixes.gpf**: Fixes some skill descriptions.
 - **zoom_farther_out.gpf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
   - indoors_view_no_lock.gpf is automatically added into this file.
@@ -126,6 +127,12 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 Nov 19:
+  - **card_art_missing_added.gpf**: Added missing Clock Tower Basement card art links, oops: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ebd5586c1d9a02b42becece6632d5043e6f9a371)
+  - **card_enchant_prefixes.gpf**: Added new Enchant Stone Box 31 enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0cef5c1d1f8046e8bdeb7ff7f06673a0f6289bd5)
+  - **resource_file_fixes.gpf**: Added Costume Musical Decoration sprite that was crashing people.
+  - **skill_fixes.gpf**: Fixed one skill description. Credits to ShinRai: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/2a5c8c69a05679399316f2f350dd16054eda6f7a)
+  - **System/customeffects.lua**: Clock Tower Gear, Lead, weapons have light now. Credits to Pingaify: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/bbc67b3bf2e8a6d7c1989be44cbda65d41dd2c94)
 - 2024 Nov 7:
   - Clock Tower Basement and Expanded 4th jobs update
   - **big_other_items.gpf**: Clock Gear and Clock Lead added at 6x size. Credits to Kutz
