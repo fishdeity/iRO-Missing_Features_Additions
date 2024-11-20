@@ -17947,7 +17947,7 @@ SKILL_DESCRIPT = {
 		"Details : ^777777Consumes 3 Soul Talismans.",
 		"Throws an amulet at a target, inflicting neutral magical damage to the target and enemies within the surrounding range.",
 		"Basically, it attacks once, with [Blessing of the East] it attacks twice, with [Blessing of the West] it attacks three times, with [Blessing of the South] it attacks four times, and with [Blessing of the North] it attacks five times.",
-		"If under the effect of [Blessing of the Five Elements], attacks 7 times.",
+		"If under the effect of [Blessing of the Four Elements], attacks 7 times.",
 		"Deals additional damage depends on level of Talisman Mastery user learned, user's base level and SPL.",
 		"Damage property can be changed according to Mild Wind.^000000",
 		"^ffffff_^000000",
