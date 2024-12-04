@@ -127,6 +127,11 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2024 Dec 3:
+  - **bgm_missing_added.gpf**: Added Christmas songs, credits to Vividort.
+  - **chat_filter_removed.gpf**: Added two phrases to ignore RMT gold seller bot's spam: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ac51d217dffb064bb0d3982cb362cf6d2f194518)
+  - **resource_file_fixes.gpf**: Added missing Costume Skia Doll act files for Kagerou and Oboro.
+  - **skill_fixes.gpf**: Fixed skill wording from Each charm to spirit. Credits to ShinRai 
 - 2024 Nov 19:
   - **card_art_missing_added.gpf**: Added missing Clock Tower Basement card art links, oops: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ebd5586c1d9a02b42becece6632d5043e6f9a371)
   - **card_enchant_prefixes.gpf**: Added new Enchant Stone Box 31 enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0cef5c1d1f8046e8bdeb7ff7f06673a0f6289bd5)
