@@ -1,0 +1,567 @@
+{
+	"directives": {
+		"default": "0",
+		"triggerGuardians": "1",
+		"triggerDungeons": {
+			"all": "2"
+		},
+		"triggerCU": "1",
+		"triggerBG": "1",
+		"triggerOW": "0"
+	},
+	"modes": {
+		"0": {
+			"throttleSomePackets": true,
+			"blockCustomAppearanceChanges": false,
+			"blockUselessPackets": true,
+			"blockAnnoyingScreenMessages": false,
+			"blockRngBoxesVisuals": false,
+			"blockNoctsEffect": false,
+			"blockActionScripts": false,
+			"blockNpcsDeathAnimations": false,
+			"blockAchievementsInCombat": false,
+			"blockInventoryInCombat": false,
+			"blockShakeEffects": false,
+			"blockGatherNodes": false,
+			"blockTabletsWithText": false,
+			"blockPetBaloons": false,
+			"blockHits": {
+				"area": false,
+				"me": false
+			},
+			"blockBuffs": {
+				"area": false,
+				"shapeChange": false,
+				"effects": false
+			},
+			"blockNumbersPopups": {
+				"hp": false,
+				"mp": false,
+				"damage": false
+			},
+			"blockAdditionalSkillEffects": {
+				"own": false,
+				"players": false,
+				"keepParty": false
+			},
+			"blockProjectiles": {
+				"players": false,
+				"keepClass": [],
+				"keepRawId": [],
+				"keepParty": false
+			},
+			"blockDropItems": {
+				"all": false,
+				"templateId": []
+			},
+			"blockServants": {
+				"area": false
+			},
+			"blockSummons": {
+				"me": false,
+				"area": false
+			},
+			"blockSkills": {
+				"all": false,
+				"keepClass": [],
+				"class": [],
+				"keepRawId": [],
+				"rawId": [],
+				"extended": {
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": {
+				"all": false,
+				"keepParty": true,
+				"class": [],
+				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": false,
+				"allTitles": false,
+				"icons": false,
+				"allLook": false,
+				"p2wLook": false
+			}
+		},
+		"1": {
+			"throttleSomePackets": true,
+			"blockCustomAppearanceChanges": false,
+			"blockUselessPackets": true,
+			"blockAnnoyingScreenMessages": false,
+			"blockRngBoxesVisuals": false,
+			"blockNoctsEffect": false,
+			"blockActionScripts": true,
+			"blockNpcsDeathAnimations": false,
+			"blockAchievementsInCombat": false,
+			"blockInventoryInCombat": false,
+			"blockShakeEffects": true,
+			"blockGatherNodes": false,
+			"blockTabletsWithText": false,
+			"blockPetBaloons": false,
+			"blockHits": {
+				"area": true,
+				"me": false
+			},
+			"blockBuffs": {
+				"area": false,
+				"shapeChange": true,
+				"effects": true
+			},
+			"blockNumbersPopups": {
+				"hp": false,
+				"mp": false,
+				"damage": false
+			},
+			"blockAdditionalSkillEffects": {
+				"own": false,
+				"players": true,
+				"keepParty": false
+			},
+			"blockProjectiles": {
+				"players": true,
+				"keepClass": [],
+				"keepRawId": [],
+				"keepParty": false
+			},
+			"blockDropItems": {
+				"all": false,
+				"templateId": []
+			},
+			"blockServants": {
+				"area": true
+			},
+			"blockSummons": {
+				"me": false,
+				"area": true
+			},
+			"blockSkills": {
+				"all": false,
+				"keepClass": [],
+				"class": [],
+				"keepRawId": [],
+				"rawId": [],
+				"extended": {
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": {
+				"all": false,
+				"keepParty": true,
+				"class": [],
+				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": false,
+				"allTitles": false,
+				"icons": false,
+				"allLook": false,
+				"p2wLook": false
+			}
+		},
+		"2": {
+			"throttleSomePackets": true,
+			"blockCustomAppearanceChanges": false,
+			"blockUselessPackets": true,
+			"blockAnnoyingScreenMessages": false,
+			"blockRngBoxesVisuals": false,
+			"blockNoctsEffect": false,
+			"blockActionScripts": true,
+			"blockNpcsDeathAnimations": false,
+			"blockAchievementsInCombat": false,
+			"blockInventoryInCombat": false,
+			"blockShakeEffects": true,
+			"blockGatherNodes": false,
+			"blockTabletsWithText": false,
+			"blockPetBaloons": false,
+			"blockHits": {
+				"area": true,
+				"me": false
+			},
+			"blockBuffs": {
+				"area": false,
+				"shapeChange": true,
+				"effects": true
+			},
+			"blockNumbersPopups": {
+				"hp": false,
+				"mp": false,
+				"damage": false
+			},
+			"blockAdditionalSkillEffects": {
+				"own": false,
+				"players": true,
+				"keepParty": false
+			},
+			"blockProjectiles": {
+				"players": true,
+				"keepClass": [],
+				"keepRawId": [],
+				"keepParty": false
+			},
+			"blockDropItems": {
+				"all": false,
+				"templateId": []
+			},
+			"blockServants": {
+				"area": true
+			},
+			"blockSummons": {
+				"me": false,
+				"area": true
+			},
+			"blockSkills": {
+				"all": true,
+				"keepClass": [],
+				"class": [],
+				"keepRawId": [],
+				"rawId": [],
+				"extended": {
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": {
+				"all": false,
+				"keepParty": true,
+				"class": [],
+				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": false,
+				"allTitles": false,
+				"icons": false,
+				"allLook": true,
+				"p2wLook": false
+			}
+		},
+		"3": {
+			"throttleSomePackets": true,
+			"blockCustomAppearanceChanges": false,
+			"blockUselessPackets": true,
+			"blockAnnoyingScreenMessages": false,
+			"blockRngBoxesVisuals": false,
+			"blockNoctsEffect": false,
+			"blockActionScripts": true,
+			"blockNpcsDeathAnimations": false,
+			"blockAchievementsInCombat": false,
+			"blockInventoryInCombat": false,
+			"blockShakeEffects": true,
+			"blockGatherNodes": false,
+			"blockTabletsWithText": false,
+			"blockPetBaloons": false,
+			"blockHits": {
+				"area": true,
+				"me": false
+			},
+			"blockBuffs": {
+				"area": false,
+				"shapeChange": true,
+				"effects": true
+			},
+			"blockNumbersPopups": {
+				"hp": false,
+				"mp": false,
+				"damage": false
+			},
+			"blockAdditionalSkillEffects": {
+				"own": false,
+				"players": true,
+				"keepParty": false
+			},
+			"blockProjectiles": {
+				"players": true,
+				"keepClass": [],
+				"keepRawId": [],
+				"keepParty": false
+			},
+			"blockDropItems": {
+				"all": false,
+				"templateId": []
+			},
+			"blockServants": {
+				"area": true
+			},
+			"blockSummons": {
+				"me": false,
+				"area": true
+			},
+			"blockSkills": {
+				"all": true,
+				"keepClass": [],
+				"class": [],
+				"keepRawId": [],
+				"rawId": [],
+				"extended": {
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": {
+				"all": true,
+				"keepParty": true,
+				"class": [],
+				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": true,
+				"allTitles": false,
+				"icons": false,
+				"allLook": true,
+				"p2wLook": false
+			}
+		},
+		"clearscreen": {
+			"throttleSomePackets": true,
+			"blockCustomAppearanceChanges": false,
+			"blockUselessPackets": true,
+			"blockAnnoyingScreenMessages": true,
+			"blockRngBoxesVisuals": false,
+			"blockNoctsEffect": false,
+			"blockActionScripts": true,
+			"blockNpcsDeathAnimations": true,
+			"blockAchievementsInCombat": false,
+			"blockInventoryInCombat": false,
+			"blockShakeEffects": true,
+			"blockGatherNodes": false,
+			"blockTabletsWithText": false,
+			"blockPetBaloons": true,
+			"blockHits": {
+				"area": true,
+				"me": false
+			},
+			"blockBuffs": {
+				"area": false,
+				"shapeChange": true,
+				"effects": true
+			},
+			"blockNumbersPopups": {
+				"hp": false,
+				"mp": true,
+				"damage": false
+			},
+			"blockAdditionalSkillEffects": {
+				"own": false,
+				"players": true,
+				"keepParty": false
+			},
+			"blockProjectiles": {
+				"players": false,
+				"keepClass": [],
+				"keepRawId": [],
+				"keepParty": false
+			},
+			"blockDropItems": {
+				"all": false,
+				"templateId": []
+			},
+			"blockServants": {
+				"area": true
+			},
+			"blockSummons": {
+				"me": false,
+				"area": true
+			},
+			"blockSkills": {
+				"all": false,
+				"keepClass": [],
+				"class": [],
+				"keepRawId": [],
+				"rawId": [],
+				"extended": {
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": {
+				"all": false,
+				"keepParty": true,
+				"class": [],
+				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": false,
+				"allTitles": true,
+				"icons": false,
+				"allLook": false,
+				"p2wLook": false
+			}
+		},
+		"badpc": {
+			"throttleSomePackets": true,
+			"blockCustomAppearanceChanges": true,
+			"blockUselessPackets": true,
+			"blockAnnoyingScreenMessages": true,
+			"blockRngBoxesVisuals": true,
+			"blockNoctsEffect": true,
+			"blockActionScripts": true,
+			"blockNpcsDeathAnimations": true,
+			"blockAchievementsInCombat": true,
+			"blockInventoryInCombat": true,
+			"blockShakeEffects": true,
+			"blockGatherNodes": false,
+			"blockTabletsWithText": true,
+			"blockPetBaloons": true,
+			"blockHits": {
+				"area": true,
+				"me": false
+			},
+			"blockBuffs": {
+				"area": false,
+				"shapeChange": true,
+				"effects": true
+			},
+			"blockNumbersPopups": {
+				"hp": false,
+				"mp": true,
+				"damage": false
+			},
+			"blockAdditionalSkillEffects": {
+				"own": true,
+				"players": true,
+				"keepParty": false
+			},
+			"blockProjectiles": {
+				"players": true,
+				"keepClass": [],
+				"keepRawId": [],
+				"keepParty": false
+			},
+			"blockDropItems": {
+				"all": false,
+				"templateId": []
+			},
+			"blockServants": {
+				"area": true
+			},
+			"blockSummons": {
+				"me": false,
+				"area": true
+			},
+			"blockSkills": {
+				"all": true,
+				"keepClass": [],
+				"class": [],
+				"keepRawId": [],
+				"rawId": [],
+				"extended": {
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": {
+				"all": false,
+				"keepParty": true,
+				"class": [],
+				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": true,
+				"allTitles": true,
+				"icons": true,
+				"allLook": false,
+				"p2wLook": false
+			}
+		},
+		"potatopc": {
+			"throttleSomePackets": true,
+			"blockCustomAppearanceChanges": true,
+			"blockUselessPackets": true,
+			"blockAnnoyingScreenMessages": true,
+			"blockRngBoxesVisuals": true,
+			"blockNoctsEffect": true,
+			"blockActionScripts": true,
+			"blockNpcsDeathAnimations": true,
+			"blockAchievementsInCombat": true,
+			"blockInventoryInCombat": true,
+			"blockShakeEffects": true,
+			"blockGatherNodes": true,
+			"blockTabletsWithText": true,
+			"blockPetBaloons": true,
+			"blockHits": {
+				"area": true,
+				"me": false
+			},
+			"blockBuffs": {
+				"area": true,
+				"shapeChange": true,
+				"effects": true
+			},
+			"blockNumbersPopups": {
+				"hp": true,
+				"mp": true,
+				"damage": true
+			},
+			"blockAdditionalSkillEffects": {
+				"own": true,
+				"players": true,
+				"keepParty": false
+			},
+			"blockProjectiles": {
+				"players": true,
+				"keepClass": [],
+				"keepRawId": [],
+				"keepParty": false
+			},
+			"blockDropItems": {
+				"all": false,
+				"templateId": []
+			},
+			"blockServants": {
+				"area": true
+			},
+			"blockSummons": {
+				"me": true,
+				"area": true
+			},
+			"blockSkills": {
+				"all": true,
+				"keepClass": [],
+				"class": [],
+				"keepRawId": [],
+				"rawId": [],
+				"extended": {
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": {
+				"all": true,
+				"keepParty": true,
+				"class": [],
+				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": true,
+				"allTitles": true,
+				"icons": true,
+				"allLook": true,
+				"p2wLook": false
+			}
+		}
+	}
+}
