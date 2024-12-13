@@ -3,7 +3,7 @@
 		"default": "0",
 		"triggerGuardians": "1",
 		"triggerDungeons": {
-			"all": "2"
+			"all": "1"
 		},
 		"triggerCU": "1",
 		"triggerBG": "1",
