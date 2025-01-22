@@ -10914,19 +10914,8 @@ SKILL_DESCRIPT = {
 		"Skill Form : ^777777Active / Summon  ^000000",
 		"Description : ^777777Summon Spirit of Fire, AGNI. Consume [3 Red Blood or 6 Red Blood or 1 Flame_Heart ] as catalyst items depending on the skill level. ^000000",
 		"[Lv 1] : ^777777Skill Duration 600 sec. / Consume 5 SP per 10 seconds.^000000",
-		"Boosts attack (Equip) by 60",
-		"Boosts the damage output of Fire Bolt and Fire Wall",
-		"Grants a chance of retaliating damage taken, which will inflict Fire property damage to all enemies in a 3x3 area around the summoner and push them 4 cells backwards",
 		"[Lv 2] : ^777777Skill Duration 900 sec. / Consume 8 SP per 10 seconds.^000000",
-		"Boosts attack (Equip) by 120",
-		"Boosts the damage output of Fire Walk by (JobLv / 2)% and boost the effectiveness of Warmer by (WarmerLv x 1~3)%",
-		"Endows Psychic Wave with the Fire property and increases its SP Cost by 50%",
-		"Boosts resistance to Fire property damage and reduces resistance to Water property damage by 100%",
-		"[Lv 3] : ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds.^000000",
-		"Boosts attack (Equip) by 180",
-		"Enables to autocast Fire Bolt Lv. Floor(JobLv / 10) at (JobLv / 2)% chance when physically attacking",
-		"Grants a 50% chance of not consuming a Red Blood or Yellow Gemstone when using Endow Blaze or Volcano",
-		"Creates a 3x3 Fire property barrier around the summoner that absorbs one hit each cell"
+		"[Lv 3] : ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds.^000000"
 	},
 	[SKID.SO_SUMMON_AQUA] = {
 		"Call Aqua",
@@ -10935,20 +10924,8 @@ SKILL_DESCRIPT = {
 		"Skill Form : ^777777Active / Summon  ^000000",
 		"Description : ^777777Summon spirit of water, AQUA. Consume [3 Crystal Blue or 6 Crystal Blue or 1 Mistic Frozen ] as catalyst items depending on the skill level. ^000000",
 		"[Lv 1] : ^777777Skill Duration 600 sec. / Consume 5 SP per 10 seconds.^000000",
-		"Boosts MATK (Equip) by 40",
-		"Boosts the damage output of Cold Bolt and Frost Diver",
-		"Enables the summoner to regain 1,000 HP every ten seconds and protects the summoner by taking all of the damage inflicted on them",
 		"[Lv 2] : ^777777Skill Duration 900 sec. / Consume 8 SP per 10 seconds.^000000",
-		"Boosts MATK (Equip) by 80",
-		"Boosts the damage output of Diamond Dust by (JobLv x 5)% and its chance of effect (Crystallization) by (JobLv / 5)%",
-		"Endows Psychic Wave with the Water property and increases its SP Cost by 50%",
-		"Boosts resistance to Water property damage and reduces resistance to Wind property damage by 100%",
-		"[Lv 3] : ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds. ^000000",
-		"Boosts MATK (Equip) by 120",
-		"Enables to autocast Cold Bolt Lv. Floor(JobLv / 10) at (JobLv / 2)% chance when physically attacking",
-		"Grants a 50% chance of not consuming a Crystal Blue or Yellow Gemstone when using Endow Tsunami or Deluge",
-		"Creates a 3x3 Water property barrier around the summoner that reduces incoming damage by 20%",
-		"Drops attack and Flee rate by 30 each inside the barrier"
+		"[Lv 3] : ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds. ^000000"
 	},
 	[SKID.SO_SUMMON_VENTUS] = {
 		"Call Ventus",
@@ -10957,18 +10934,8 @@ SKILL_DESCRIPT = {
 		"Skill Form : ^777777Active / Summon  ^000000",
 		"Description : ^777777Summon spirit of wind, Ventus. Consume [3 Wind Of Verdure or 6 Wind Of Verdure or 1 Rough Wind ] as catalyst items depending on the skill level. ^000000",
 		"[Lv 1] : ^777777Skill Duration 600 sec. / Consume 5 SP per 10 seconds. ^000000",
-		"Boosts Attack Speed by 5 and reduces fixed casting time by 1 second",
 		"[Lv 2] : ^777777Skill Duration 900 sec. / Consume 8 SP per 10 seconds.^000000",
-		"Boosts Attack Speed by 5 and reduces fixed casting time by 1 second",
-		"Boosts the damage output of Electric Walk by (JobLv / 2)% and Varetyr Spear by (JobLv x 5)%",
-		"Endows Psychic Wave with the Wind property and increases its SP Cost by 50%",
-		"Boosts resistance to Wind property damage and reduces resistance to Earth property damage by 100%",
-		"[Lv 3] : ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds. ^000000",
-		"Boosts Attack Speed by 5 and reduces fixed casting time by 1 second",
-		"Enables to autocast Lightning Bolt Lv. Floor(JobLv / 10) at (JobLv / 2)% chance when physically attacking",
-		"Grants a 50% chance of not consuming a Wind of Verdure or Yellow Gemstone when using Endow Tornado or Whirlwind",
-		"Creates a 3x3 Wind property barrier around the summoner that nullifies long range damage and may nullify incoming damage",
-		"Increases Flee Rate by 25 inside the barrier"
+		"[Lv 3] : ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds. ^000000"
 	},
 	[SKID.SO_SUMMON_TERA] = {
 		"Call Tera",
@@ -10977,19 +10944,8 @@ SKILL_DESCRIPT = {
 		"Skill Form : ^777777Active / Summon  ^000000",
 		"Description : ^777777Summon spirit of earth, Consume [3 Green Live or 6 Green Live or 1 Great Nature ] as catalyst items depending on the skill level. ^000000",
 		"[Lv 1] : ^777777Skill Duration 600 sec. / Consume 5 SP per 10 seconds. ^000000",
-		"Boosts maximum HP by 5%",
-		"Boosts the damage output of Earth Spike and Heaven's Drive and the chance of effect of Stone Curse",
 		"[Lv 2] : ^777777Skill Duration 900 sec. / Consume 8 SP per 10 seconds.^000000",
-		"Boosts maximum HP by 10%",
-		"Boosts the damage output of Killing Cloud by JobLv%, Earth Grave and Poison Burst by (JobLv x 5)%",
-		"Endows Psychic Wave with the Earth property and increases its SP Cost by 50%",
-		"Boosts resistance to Earth property damage and reduces resistance to Fire property damage by 100%",
-		"[Lv 3] : ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds. ^000000",
-		"Boosts maximum HP by 15%",
-		"Enables to autocast Earth Spike Lv. Floor(JobLv / 10) at (JobLv / 2)% chance when physically attacking",
-		"Grants a 50% chance of not consuming a Green Live when using Endow Quake",
-		"Creates a 3x3 Earth property barrier around the summoner that grants immunity to Bleeding and Stone statuses",
-		"Boosts maximum HP by 20%, defense and slows down movement speed inside the barrier."
+		"[Lv 3] : ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds. ^000000"
 	},
 	[SKID.SO_EL_CONTROL] = {
 		"Spirit Control ",
