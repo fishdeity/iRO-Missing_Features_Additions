@@ -2671,6 +2671,28 @@ te_prt_gld.rsw#te_prt_gld.rsw#
 유저인터페이스\map\1@exsh.bmp#유저인터페이스\map\1@exsh.bmp#
 //==========2024 3Q UPDATE end
 
+//==========2024 4Q UPDATE==========================
+//성좌의 탑 
+1@ch_t.gnd#1@ch_t.gnd#
+1@ch_t.gat#1@ch_t.gat#
+1@ch_t.rsw#1@ch_t.rsw#
+유저인터페이스\map\1@ch_t.bmp#유저인터페이스\map\1@ch_t.bmp#
+2@ch_t.gnd#2@ch_t.gnd#
+2@ch_t.gat#2@ch_t.gat#
+2@ch_t.rsw#2@ch_t.rsw#
+유저인터페이스\map\2@ch_t.bmp#유저인터페이스\map\2@ch_t.bmp#
+3@ch_t.gnd#3@ch_t.gnd#
+3@ch_t.gat#3@ch_t.gat#
+3@ch_t.rsw#3@ch_t.rsw#
+유저인터페이스\map\3@ch_t.bmp#유저인터페이스\map\3@ch_t.bmp#
+
+//가라앉은 탑
+1@ch_u.gnd#1@ch_u.gnd#
+1@ch_u.gat#1@ch_u.gat#
+1@ch_u.rsw#1@ch_u.rsw#
+유저인터페이스\map\1@ch_u.bmp#유저인터페이스\map\1@ch_u.bmp#
+//===========2024 4Q UPDATE end
+
 //Custom Edits
 
 //this file tells each ingame map where to look for the mini map file
