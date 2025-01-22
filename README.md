@@ -132,6 +132,7 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
   - System/**customeffects.lua**: Purple light added for Meteoric Dust & Fragment: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/96ea930653723040f9cd4483b0252e8a4c5d8fe8)
   - **big_other_items.gpf**: Made Ether Dust from 2->5x size. Shrunk Clock Lead & Gear from 6 ->2x size.
   - **bgm_missing_added.gpf**: Added Christmas songs, credits to Vividort: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/2fb96d6fd429dcc583f0451bf147338a13c3d75f)
+  - **card_enchant_prefixes.gpf**: Added Constellation Tower enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ee42f9b140ba614102406cf2aefd61263383fbb4)
   - **maps_added_and_fixed.gpf**: Added Constellation & Sunken Tower maps. Also added Geffen WoE castles' number map.
   - **skill_fixes.gpf**: Fixed skill wording from Each charm to spirit. Credits to ShinRai: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/8d80932e6abe0cf89a16a4982ee79c278c8cd2b9)
   - **zoom_farther_out.gpf**: Added zoom for Constellation & Sunken Tower: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/cbe1a12dee151d0febf17ccaf794d5ed4dc1c69a)
