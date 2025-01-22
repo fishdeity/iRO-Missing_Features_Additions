@@ -127,6 +127,64 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Jan 21:
+  - Constellation & Sunken Tower update
+  - System/**customeffects.lua**: Purple light added for Meteoric Dust & Fragment: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/96ea930653723040f9cd4483b0252e8a4c5d8fe8)
+  - **big_other_items.gpf**: Made Ether Dust from 2->5x size. Shrunk Clock Lead & Gear from 6 ->2x size.
+  - **bgm_missing_added.gpf**: Added Christmas songs, credits to Vividort: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/2fb96d6fd429dcc583f0451bf147338a13c3d75f)
+  - **card_enchant_prefixes.gpf**: Added Constellation Tower enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ee42f9b140ba614102406cf2aefd61263383fbb4)
+  - **maps_added_and_fixed.gpf**: Added Constellation & Sunken Tower maps. Also added Geffen WoE castles' number map.
+  - **skill_fixes.gpf**: Fixed skill wording from Each charm to spirit. Credits to ShinRai: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/8d80932e6abe0cf89a16a4982ee79c278c8cd2b9)
+  - **zoom_farther_out.gpf**: Added zoom for Constellation & Sunken Tower: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/cbe1a12dee151d0febf17ccaf794d5ed4dc1c69a)
+
+For previous changes, scroll all the way down.
+
+# Etc #
+If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
+
+# Contact #
+If any issues, Discord message me at 2Lazy2MakeAName.
+
+# Special Thanks #
+- [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
+- https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
+- zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
+  - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
+  - and his repository: https://github.com/wolfchev?tab=repositories
+- rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
+- [llchrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
+- Cate for info on fixing lvl 200 aura
+- Angux for the bigger Einbech 3 ores and helping with the customsprites.lua code
+- Blink for more mini maps and the file that tells the game where to look for each map's mini map
+- k.a for his eden view premium and bigger bio5 frags
+- Vividort and Yongky for contribution to more edits
+- ShinRai for skillsinfo edit
+- Kutz and Sanggoro for helping to enlargen sprites.
+- Pingaify for helping keep many files up to date and creating the wiki patcher.
+
+# Sample Pictures #
+indoors_view_no_lock.gpf (for normal camera view): <br>
+eden_textures_premium.gpf (for different color):
+
+![Eden view](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/290f74b5-73d6-451f-9330-c0c191daf12c)
+
+card_enchant_prefixes.gpf:
+
+![Enchants in Name 2](https://user-images.githubusercontent.com/56460323/146634561-c6cf520a-8351-4543-a911-7cf4d1927c19.jpg)
+
+zoom_farther_out.gpf:
+
+![super zoom](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b3535887-7b51-4c34-bffb-5fcb3e02f835)
+
+maps_added_and_fixed.gpf:
+
+![et map](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/247bda36-98c0-433f-83b4-382f432fa380)
+
+card_art_missing_added.gpf:
+
+![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
+
+# Changelog (Previous) #
 - 2024 Nov 19:
   - **card_art_missing_added.gpf**: Added missing Clock Tower Basement card art links, oops: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ebd5586c1d9a02b42becece6632d5043e6f9a371)
   - **card_enchant_prefixes.gpf**: Added new Enchant Stone Box 31 enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0cef5c1d1f8046e8bdeb7ff7f06673a0f6289bd5)
@@ -227,52 +285,6 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
   - **card_enchant_prefixes.gpf**: Updated with EDDA Biolabs and OGHCM enchants: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/261b72491f8edac80dfb0a923554142d55e40593)
   - **maps_added_and_fixed.gpf**: Added missing mini maps for EDDA Biolabs and Geffen Night Arena. Also fixed Thanatos Tower highest floor wording from Agony to Misery.
   - **zoom_farther_out.gpf**: Added Geffen Night Arena mini map for farther zoom. Other maps like Edda Biolabs and OGHCM maps were already added before: [link](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0e477e2e1d74e6647e7539a4cead38f6695add5d)
-
-For previous changes, scroll all the way down.
-
-# Etc #
-If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
-
-# Contact #
-If any issues, Discord message me at 2Lazy2MakeAName.
-
-# Special Thanks #
-- [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
-- https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
-- zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
-  - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
-  - and his repository: https://github.com/wolfchev?tab=repositories
-- rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
-- [llchrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
-- Cate for info on fixing lvl 200 aura
-- Angux for the bigger Einbech 3 ores and helping with the customsprites.lua code
-- Blink for more mini maps and the file that tells the game where to look for each map's mini map
-- k.a for his eden view premium and bigger bio5 frags
-- Vividort and Yongky for contribution to more edits
-
-# Sample Pictures #
-indoors_view_no_lock.gpf (for normal camera view): <br>
-eden_textures_premium.gpf (for different color):
-
-![Eden view](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/290f74b5-73d6-451f-9330-c0c191daf12c)
-
-card_enchant_prefixes.gpf:
-
-![Enchants in Name 2](https://user-images.githubusercontent.com/56460323/146634561-c6cf520a-8351-4543-a911-7cf4d1927c19.jpg)
-
-zoom_farther_out.gpf:
-
-![super zoom](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b3535887-7b51-4c34-bffb-5fcb3e02f835)
-
-maps_added_and_fixed.gpf:
-
-![et map](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/247bda36-98c0-433f-83b4-382f432fa380)
-
-card_art_missing_added.gpf:
-
-![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
-
-# Changelog (Previous) #
 - 2023 November 14:
   - **card_enchant_prefixes.gpf**: Added Enchant Stone Box 26.
 - 2023 October 31:
