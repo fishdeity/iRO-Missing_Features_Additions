@@ -704,6 +704,8 @@ customeffects = {
     [1000501] = {EffectID = 1190}, -- Holy Oil of Purification
     [1000502] = {EffectID = 1190}, -- Holy Water of Purification
     [1000503] = {EffectID = 1190}, -- Shroud of Rest
+    [1000372] = {EffectID = 1190}, -- Meteorite Dust
+    [1000373] = {EffectID = 1190}, -- Meteorite Fragment
 
     -- ###################
     -- ##   Biosphere   ##
