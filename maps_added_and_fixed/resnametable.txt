@@ -2693,6 +2693,13 @@ te_prt_gld.rsw#te_prt_gld.rsw#
 유저인터페이스\map\1@ch_u.bmp#유저인터페이스\map\1@ch_u.bmp#
 //===========2024 4Q UPDATE end
 
+//2025.03.04 서브 업데이트 무한의 공간
+//퍼즐앤 드래곤 콜라보레이션 메모리얼 던전 2 무한회랑
+1@infi.gnd#1@infi.gnd#
+1@infi.gat#1@infi.gat#
+1@infi.rsw#1@infi.rsw#
+유저인터페이스\map\1@infi.bmp#유저인터페이스\map\1@infi.bmp#
+
 //Custom Edits
 
 //this file tells each ingame map where to look for the mini map file
