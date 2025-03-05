@@ -1098,6 +1098,19 @@
 300551#Happy#
 300552#Lucky#
 
+//2025.03.04 ?�브 ?�데?�트 무한??공간
+// 2015 06 무한?�던??
+4642#Side Step#
+4643#Strike#
+4644#Magic Shield#
+4645#Physical#
+4646#Chimera#
+4647#Immortal#
+4648#Provocation#
+4649#Fatal Blow#
+4650#Magic Stun#
+4651#Monarch#
+
 //-Custom Edits-
 
 //--Jitterbug cards missing 
