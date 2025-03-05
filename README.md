@@ -127,6 +127,14 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 March 4:
+  - Infinite Space patch
+  - **bgm_missing_added.gpf**: No change, re-merge to replace WarpPortal's version
+  - **card_art_missing_added.gpf**: Copy pasted my edits onto updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/6290e8b6e2526de137c928603ead36144310f370)
+  - **card_enchant_prefixes.gpf**: Copy pasted my edits onto updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/98d414a69bf3809cdb4b9554271bb2a69389a679)
+  - **chat_filter_removed.gpf**: Added 2 phrases to make gold seller STFU: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ac51d217dffb064bb0d3982cb362cf6d2f194518)
+  - **maps_added_and_fixed.gpf**: Added Infinite Space mini map. Copy pasted my edits to resnametable.txt: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/e481802d2393cb7b53e97f3e06306fe239d8a49e)
+  - **zoom_farther_out.gpf**: No major change, re-merge to replace WarpPortal's version
 - 2025 Jan 21:
   - Constellation & Sunken Tower update
   - System/**customeffects.lua**: Purple light added for Meteoric Dust & Fragment: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/96ea930653723040f9cd4483b0252e8a4c5d8fe8)
