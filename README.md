@@ -127,6 +127,8 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 April 3:
+  - **zoom_farther_out.gpf**: Added Biosphere update 2 maps: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/fdaf1ee003c1f06ed2404ceb4e40ca86ec6e8938)
 - 2025 March 4:
   - Infinite Space patch
   - **bgm_missing_added.gpf**: No change, re-merge to replace WarpPortal's version
