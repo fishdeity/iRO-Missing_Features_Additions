@@ -1244,3 +1244,91 @@
 
 //2025.04.15 쿵푸 팬더 콜라보
 300618#CLB_CP_PD_Card#
+
+//-Custom Edits-
+
+//--Jitterbug : were missing but now added
+27106#각성한페르카드#
+27107#연주하는페르카드#
+27108#노래하는페르카드#
+27109#지터벅카드#
+
+//--Geffen Magic Tournament : Sorry images replaced
+27249#Archi_Card#
+27250#Dio_Anemos_Card#
+27251#Geffen_Gang_Card#
+27252#Geffen_Thug_Card#
+27253#Geffen_Thief_Card#
+27254#Pa_Monk_Card#
+27255#Ordre_Card#
+27256#Blut_Hase_Card#
+27257#Kuro_Akuma_Card#
+27258#Hyper_Death_Card#
+27259#Rechenier_Card#
+27260#Odorico_Card#
+27261#Jew_Card#
+27262#Dy_Card#
+27263#Fei_Kanabian_Card#
+
+//--Sealed MVPs : Sorry images replaced
+4480#봉인된키엘_D_01카드#      //Kiel
+4481#봉인된크툴라낙스카드#     //Ktullanux
+4482#봉인된보스이그니젬카드#   //Boss Egnigem
+4483#봉인된드라큐라카드#       //Dracula
+4484#봉인된미스트레스카드#     //Mistress
+4485#봉인된글룸카드#          //Gloom
+4487#봉인된이프리트카드#      //Ifrit
+4490#봉인된월야화카드#        //Moonlight Flower
+4491#봉인된스나이퍼카드#      //Sniper Cecil 
+4494#봉인된터틀제네럴카드#    //Turtle General
+4499#봉인된원령무사카드#      //Samurai Specter
+4500#봉인된오크로드카드#      //Orc Lord
+4501#봉인된하이프리스트카드#   //High Priest Margaretha
+4502#봉인된화이트스미스카드#   //Whitesmith Howard
+4503#봉인된베스퍼카드#        //Vesper
+4504#봉인된에드가카드#        //Eddga
+4538#봉인된백소진카드#        //White Lady
+4539#봉인된타락한대신관카드#  //Fallen Bishop
+27209#SLD_Q_Scaraba_Card#
+27211#SLD_Baphomet_Card#
+27212#SLD_Maya_Card#
+27213#SLD_Clown_Card#
+27214#SLD_Professor_Card#
+27215#SLD_Champion_Card#
+27216#SLD_Creator_Card#
+27217#SLD_Stalker_Card#
+27218#SLD_Paladin_Card#
+27219#SLD_Gypsy_Card#
+27220#SLD_Daehyon_Card#
+27221#SLD_Gioia_Card#
+27222#SLD_Pyuriel_Card#
+27224#SLD_Kades_Card#
+27225#SLD_Timeholder_Card#
+
+//--Angel Poring Shoes Enchants : adding to prevent card view crashing game
+29148#sorry#
+29149#sorry#
+29150#sorry#
+29151#sorry#
+29152#sorry#
+29153#sorry#
+
+//--Temporal Boots Enchants : adding to prevent card view crashing game
+4875#sorry#
+4876#sorry#
+4877#sorry#
+4878#sorry#
+4879#sorry#
+4880#sorry#
+
+//--Dead King Card : were missing but now added
+27025#망자의군주카드#
+
+//--Tomb of Remorse MVP cards : Sorry images replaced
+300192#Sakray_Card#
+300193#Tiara_Card#
+
+//--Sealed Pharaoh Card
+4489#봉인된파라오카드#
+
+//-Custom Edits End Here-
