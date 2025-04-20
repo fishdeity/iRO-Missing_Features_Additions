@@ -127,6 +127,14 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 April 19:
+  - System/
+    - **customeffects.lua**: Added Biosphere update 2 drops to have light. Thanks to Mayo for the help!
+    - **unidentified_shows_item.zip**: Updated as v3.02
+  - **big_other_items.gpf**: Added Biosphere update 2 drops to 4x size like Venom Essence.
+  - **card_art_missing_added.gpf**: Updated with Kung Fu Panda
+  - **card_enchant_prefixes.gpf**: Updated with Kung Fu Panda
+  - **resource_file_fixes.gpf**: Added missing HN backpack sprite and fixed the monster special animation file from kRO, credits to zyn.
 - 2025 April 3:
   - **zoom_farther_out.gpf**: Added Biosphere update 2 maps: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/fdaf1ee003c1f06ed2404ceb4e40ca86ec6e8938)
 - 2025 March 4:
