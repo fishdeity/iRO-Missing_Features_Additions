@@ -1245,6 +1245,9 @@
 //2025.04.15 ÄôÇª ÆÒ´õ Äİ¶óº¸
 300618#CLB_CP_PD_Card#
 
+//2025.06.10 22ÁÖ³â ±â³ä ÀÚÃ¼ ÀÌº¥Æ®
+300291#1st_Anniver_Card#
+
 //-Custom Edits-
 
 //--Jitterbug : were missing but now added
