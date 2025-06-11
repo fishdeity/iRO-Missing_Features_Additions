@@ -796,6 +796,7 @@ customeffects = {
 	-- ##  Cards  ##
 	-- #############
 
+	[4557] = {EffectID = 1191}, -- Weakened Fenrir Card
 	[4001] = {EffectID = 1186}, -- Poring Card
 	[4002] = {EffectID = 1186}, -- Fabre Card
 	[4003] = {EffectID = 1186}, -- Pupa Card
@@ -1334,7 +1335,6 @@ customeffects = {
 	[4549] = {EffectID = 1186}, -- Upgrade Maya Puple Card
 	[4550] = {EffectID = 1186}, -- Upd Bow Guardian Card
 	[4556] = {EffectID = 1186}, -- Fenrir Card
-	[4557] = {EffectID = 1869}, -- Weakened Fenrir Card
 	[4559] = {EffectID = 1186}, -- Lord Morocc Card
 	[4560] = {EffectID = 1186}, -- Clown Card
 	[4561] = {EffectID = 1186}, -- Professor Card
