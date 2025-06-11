@@ -127,6 +127,12 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 June 10:
+    - 22nd Anniversary Event patch
+    - System/
+      - **customeffects.lua**: Change Weakened Fenrir Card to orange light and no ding sound.
+    - **card_art_missing_added.gpf**: Copy pasted edits to updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/4c5ea0298828d18479e4c7514f2a57347961c25f)
+    - **card_enchant_prefixes.gpf**: Big help from Mayo, added 260 new enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ddadaff9027fab9afd5dff96d2b22bfe5b3bb1e0)
 - 2025 April 19:
   - System/
     - **customeffects.lua**: Added Biosphere update 2 drops to have light. Thanks to Mayo for the help!
@@ -179,6 +185,7 @@ If any issues, Discord message me at 2Lazy2MakeAName.
 - ShinRai for skillsinfo edit
 - Kutz and Sanggoro for helping to enlargen sprites.
 - Pingaify for helping keep many files up to date and creating the wiki patcher.
+- Mayo for help with things such as with the varmundt biosphere update 2 enchants.
 
 # Sample Pictures #
 indoors_view_no_lock.gpf (for normal camera view): <br>
