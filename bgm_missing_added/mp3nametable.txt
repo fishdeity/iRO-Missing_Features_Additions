@@ -515,6 +515,7 @@ silk_lair.rsw#bgm\\146.mp3#
 
 //14.3 2차//
 1@jtb.rsw#bgm\\160.mp3#
+1@jtb2.rsw#bgm\\160.mp3#
 1@eom.rsw#bgm\\156.mp3#
 
 // 에피소드 14.3 //
