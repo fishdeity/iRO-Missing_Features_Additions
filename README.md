@@ -127,6 +127,8 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 July 9:
+    - Notes coming soon
 - 2025 June 10:
     - 22nd Anniversary Event patch
     - System/
