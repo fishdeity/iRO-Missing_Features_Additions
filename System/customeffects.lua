@@ -10,6 +10,9 @@ customeffects = {
 	1869: rare highlight (blue) - used for common drops in this file
 	1870: rare highlight (green) - used for crafting materials in this file
 	1871: rare highlight (red)
+	1191: rare highlight (orange) - no ding sound
+	105: plain, removes all effect
+
 	--]]
 
 	-- ###############
@@ -318,7 +321,7 @@ customeffects = {
 	-- Illusion of Frozen
 	[1846] = {EffectID = 1189}, -- Illusion Combo Battle Glove
 	[13337] = {EffectID = 1189}, -- Illusion Huuma Fluttering Snow
-	[19233] = {EffectID = 1189}, -- Illusion Cap
+	[19223] = {EffectID = 1189}, -- Illusion Cap
 	[20847] = {EffectID = 1189}, -- Illusion Survivor's Manteau
 	[28922] = {EffectID = 1189}, -- Illusion Sacred Mission
 	-- Illusion of Abyss
@@ -340,6 +343,7 @@ customeffects = {
 	[19366] = {EffectID = 1189}, -- Illusion Goibne's Helm
 	[20923] = {EffectID = 1189}, -- Illusion Goibne's Spaulders
 	[22192] = {EffectID = 1189}, -- Illusion Goibne's Greaves
+	[28626] = {EffectID = 1189}, -- Illusion Tablet
 	-- Illusion of Labyrinth
 	[19428] = {EffectID = 1189}, -- Illusion Morpheus's Hood
 	[20948] = {EffectID = 1189}, -- Illusion Morpheus's Shawl
@@ -348,6 +352,7 @@ customeffects = {
 	[32238] = {EffectID = 1189}, -- Illusion Morpheus's Ring
 	[32239] = {EffectID = 1189}, -- Illusion Morpheus's Bracelet
 	[32301] = {EffectID = 1189}, -- Illusion Gold Lux
+	[21050] = {EffectID = 1186}, -- Illusion Tae Goo Lyeon
 	-- Illusion of Underwater
 	[400053] = {EffectID = 1189}, -- Illusion Morrigane's Helm
 	[450144] = {EffectID = 1189}, -- Illusion Saint Robe
@@ -362,6 +367,19 @@ customeffects = {
 	[610012] = {EffectID = 1189}, -- Illusion Katar of Frozen Icicle
 	[630006] = {EffectID = 1189}, -- Illusion Brionac
 	[630007] = {EffectID = 1189}, -- Illusion Zephyrus
+	-- Illusion of Twins
+    [450182] = {EffectID = 1189}, -- Illusion Sprint Mail
+    [460018] = {EffectID = 1189}, -- Illusion Silver Guard
+    [470066] = {EffectID = 1189}, -- Illusion Sprint Shoes
+    [490121] = {EffectID = 1189}, -- Illusion Sprint Glove
+    [490120] = {EffectID = 1189}, -- Illusion Sprint Ring
+    [460017] = {EffectID = 1189}, -- Illusion Guard
+    [500030] = {EffectID = 1189}, -- Illusion Excalibur
+    [530015] = {EffectID = 1189}, -- Illusion Gelerdria
+    [550030] = {EffectID = 1189}, -- Illusion Thorn Staff of Darkness
+    [620010] = {EffectID = 1189}, -- Illusion Doom Slayer
+    [550031] = {EffectID = 1189}, -- Illusion Dea Staff
+    [510034] = {EffectID = 1189}, -- Illusion Ancient Dagger
 	-- Villa of Deception - Adulter Weapons
 	[500025] = {EffectID = 1189}, -- Adulter Fides Guardian Sword
 	[500026] = {EffectID = 1189}, -- Adulter Fides Rapier
@@ -504,6 +522,8 @@ customeffects = {
 	[100424] = {EffectID = 1190}, -- Special Labyrinth Refine Box
 	[100425] = {EffectID = 1190}, -- Underwater refine box
 	[100426] = {EffectID = 1190}, -- Special Underwater refine box
+	[100699] = {EffectID = 1190}, -- Twins Refine Box
+	[100700] = {EffectID = 1190}, -- Special Twins Refine Box
 	-- High value/rare drops
 	[12103] = {EffectID = 1190}, -- Bloody Branch
 	[12196] = {EffectID = 1190}, -- Hearty Rice Cake
@@ -1453,7 +1473,6 @@ customeffects = {
 	[4698] = {EffectID = 1186}, -- Step Card
 	[4699] = {EffectID = 1186}, -- Rock Step Card
 	[4991] = {EffectID = 1186}, -- Kafra Blossom Card
-	[21050] = {EffectID = 1186}, -- Illusion Tae Goo Lyeon
 	[27012] = {EffectID = 1186}, -- Kick Step Card
 	[27013] = {EffectID = 1186}, -- Kick and Kick Card
 	[27014] = {EffectID = 1186}, -- Green Cenere Card
@@ -1841,7 +1860,16 @@ customeffects = {
 	[300294] = {EffectID = 1186}, -- Jennifer Card
 	[300295] = {EffectID = 1186}, -- General Orc Card
 	[300297] = {EffectID = 1186}, -- Goblin King Card
-
+    [300237] = {EffectID = 1186}, -- Intrepid Familiar Card
+    [300232] = {EffectID = 1186}, -- Diligent Andre Larva Card
+    [300235] = {EffectID = 1186}, -- Mushy Ant Egg Card
+    [300230] = {EffectID = 1186}, -- Diligent Andre Card
+    [300233] = {EffectID = 1186}, -- Diligent Deniro Card
+    [300234] = {EffectID = 1186}, -- Diligent Piere Card
+    [300236] = {EffectID = 1186}, -- Intrepid Giearth Card
+    [300231] = {EffectID = 1186}, -- Diligent Soldier Andre Card
+    [300238] = {EffectID = 1186}, -- Diligent Vitata Card
+    [300239] = {EffectID = 1186}, -- Silent Maya Card
 
 	-- ####################
 	-- ## Effect Removed ##
