@@ -1111,6 +1111,22 @@
 4650#Magic Stun#
 4651#Monarch#
 
+//===========2025 1Q UPDATE
+//20221221 - 만렙 ?�장(260Lv)
+//260?�전 2�?
+300441#Hell Burning#
+300442#Dead Plant#
+300443#of Titan#
+300444#Living Dead#
+300445#Mother Earth#
+300446#Punching#
+300447#Magic Bug#
+300448#of Saint#
+300449#Magic Tree#
+300450#Thunder#
+//20221221 - 만렙 ?�장(260Lv) end
+//===========2025 1Q UPDATE end
+
 //2025.04.15 쿵푸 ?�더 콜라�?
 300618#Kung Fu Panda#
 
@@ -2833,5 +2849,106 @@
 313056#SoDev#
 313057#SacSpirit#
 313058#SvLoy#
+
+//--Herosria Enchants
+311777#PowerO1#
+311778#PowerO2#
+311779#PowerO3#
+311780#PowerO4#
+311781#PowerO5#
+311782#PowerO6#
+311783#PowerO7#
+311784#PowerO8#
+311785#PowerO9#
+311786#PowerO10#
+311787#PowerO11#
+311788#PowerO12#
+311789#PowerO13#
+311790#PowerO14#
+311791#PowerO15#
+311792#PowerO16#
+311793#PowerO17#
+311794#PowerO18#
+311795#PowerO19#
+311796#PowerO20#
+311797#SpellO1#
+311798#SpellO2#
+311799#SpellO3#
+311800#SpellO4#
+311801#SpellO5#
+311802#SpellO6#
+311803#SpellO7#
+311804#SpellO8#
+311805#SpellO9#
+311806#SpellO10#
+311807#SpellO11#
+311808#SpellO12#
+311809#SpellO13#
+311810#SpellO14#
+311811#SpellO15#
+311812#SpellO16#
+311813#SpellO17#
+311814#SpellO18#
+311815#SpellO19#
+311816#SpellO20#
+311817#WarO1#
+311818#WarO2#
+311819#WarO3#
+311820#WarO4#
+311821#WarO5#
+311822#WarO6#
+311823#WarO7#
+311824#WarO8#
+311825#WarO9#
+311826#WarO10#
+311827#WarO11#
+311828#WarO12#
+311829#WarO13#
+311830#WarO14#
+311831#WarO15#
+311832#MagicO1#
+311833#MagicO2#
+311834#MagicO3#
+311835#MagicO4#
+311836#MagicO5#
+311837#MagicO6#
+311838#MagicO7#
+311839#MagicO8#
+311840#MagicO9#
+311841#MagicO10#
+311842#MagicO11#
+311843#MagicO12#
+311844#MagicO13#
+311845#MagicO14#
+311846#MagicO15#
+311847#ShootO1#
+311848#ShootO2#
+311849#ShootO3#
+311850#ShootO4#
+311851#ShootO5#
+311852#ShootO6#
+311853#ShootO7#
+311854#ShootO8#
+311855#ShootO9#
+311856#ShootO10#
+311857#ShootO11#
+311858#ShootO12#
+311859#ShootO13#
+311860#ShootO14#
+311861#ShootO15#
+
+/--Muqaddas Weapons Enchant
+312004#BB(ASPD)#
+312005#BB(VCT)#
+312006#BB(GCD)#
+312007#BB(PH)#
+312008#BB(Cri)#
+312009#WS(Melee)#
+312010#WS(Magic)#
+312011#WS(Ranged)#
+
+//--How To Train Your Dragon Event
+314171#Foot(2D)#
+314172#Foot(3D)#
 
 //-Custom Edits End Here-
