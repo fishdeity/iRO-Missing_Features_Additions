@@ -1242,6 +1242,22 @@
 4650#무한오크히어로카드#
 4651#무한타오군카카드#
 
+//===========2025 1Q UPDATE
+//20221221 - 만렙 확장(260Lv)
+//260던전 카드 아이템
+300441#sorry#
+300442#sorry#
+300443#sorry#
+300444#sorry#
+300445#sorry#
+300446#sorry#
+300447#sorry#
+300448#sorry#
+300449#sorry#
+300450#sorry#
+//20221221 - 만렙 확장(260Lv) end
+//===========2025 1Q UPDATE end
+
 //2025.04.15 쿵푸 팬더 콜라보
 300618#CLB_CP_PD_Card#
 
@@ -1333,5 +1349,17 @@
 
 //--Sealed Pharaoh Card
 4489#봉인된파라오카드#
+
+//--Lvl 260 Cards: Sorry images replaced
+300441#Burning_Knight_Card#
+300442#Dedsera_Card#
+300443#Hardrock_Titan_Card#
+300444#Deadween_Card#
+300445#Gaia_Pol_Card#
+300446#Punch_Bug_Card#
+300447#Aferde_Card#
+300448#Dispol_Card#
+300449#Timbers_Card#
+300450#Renire_Card#
 
 //-Custom Edits End Here-
