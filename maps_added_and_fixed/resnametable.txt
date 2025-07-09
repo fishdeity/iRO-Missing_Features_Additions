@@ -2700,6 +2700,19 @@ te_prt_gld.rsw#te_prt_gld.rsw#
 1@infi.rsw#1@infi.rsw#
 유저인터페이스\map\1@infi.bmp#유저인터페이스\map\1@infi.bmp#
 
+//2025.07.08 드래곤 길들이기 콜라보
+// 드래곤길들이기-라이브 적용 버전
+httyd_01.gnd#hu_fild05.gnd#
+httyd_01.gat#hu_fild05.gat#
+httyd_01.rsw#hu_fild05.rsw#
+유저인터페이스\map\httyd_01.bmp#유저인터페이스\map\hu_fild05.bmp#
+
+httyd_02.gnd#abyss_01.gnd#
+httyd_02.gat#abyss_01.gat#
+httyd_02.rsw#abyss_01.rsw#
+유저인터페이스\map\httyd_02.bmp#유저인터페이스\map\abyss_01.bmp#
+//2025.07.08 드래곤 길들이기 콜라보 end
+
 //Custom Edits
 
 //this file tells each ingame map where to look for the mini map file
