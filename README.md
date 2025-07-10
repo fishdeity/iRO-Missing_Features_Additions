@@ -128,7 +128,14 @@ Note instructions work only for files ending with .gpf or .grf
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
 - 2025 July 9:
-    - Notes coming soon
+    - Level 260 update with How To Train Your Dragon Event
+      - System/
+        - **customeffects.lua**: Added some illusion of twins equips, fixed illusion cap. Credits to @impsy
+      - **bgm_missing_added.gpf**: Added missing music for jitterbug instance map
+      - **card_art_missing_added.gpf**: Added missing card art for level 260 monsters.
+      - **card_enchant_prefixes.gpf**: File updated with lvl 260 cards. Added Herosria, Muqaddas weapon, and How To Train Your Dragon enchants.
+      - **maps_added_and_fixed.gpf**: Added Prontera East Library map.
+      - **zoom_farther_out.gpf**: Added zoom for Herosria, new lvl 260 maps, How To Train Your Dragon 
 - 2025 June 10:
     - 22nd Anniversary Event patch
     - System/
