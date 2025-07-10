@@ -352,7 +352,7 @@ customeffects = {
 	[32238] = {EffectID = 1189}, -- Illusion Morpheus's Ring
 	[32239] = {EffectID = 1189}, -- Illusion Morpheus's Bracelet
 	[32301] = {EffectID = 1189}, -- Illusion Gold Lux
-	[21050] = {EffectID = 1186}, -- Illusion Tae Goo Lyeon
+	[21050] = {EffectID = 1189}, -- Illusion Tae Goo Lyeon
 	-- Illusion of Underwater
 	[400053] = {EffectID = 1189}, -- Illusion Morrigane's Helm
 	[450144] = {EffectID = 1189}, -- Illusion Saint Robe
