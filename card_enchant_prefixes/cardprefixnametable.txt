@@ -1754,7 +1754,7 @@
 
 //---Class Enchants
 
-//----Box 13
+//----Costume Stone Box 13
 29423#Champ(U)#
 29424#Champ(M)#
 29425#Champ(L)#
@@ -1768,7 +1768,7 @@
 29434#Prof(L)#
 29435#Sorc(G)#
 
-//----Box 14
+//----Costume Stone Box 14
 29460#LK(U)#
 29461#LK(M)#
 29462#LK(L)#
@@ -1782,7 +1782,7 @@
 29470#HW(L)#
 29471#WL(G)#
 
-//----Box 15
+//----Costume Stone Box 15
 29477#Stalker(U)#
 29478#Stalker(M)#
 29479#Stalker(L)#
@@ -1796,7 +1796,7 @@
 29487#Min/Gyp(L)#
 29488#Mae/Wan(G)#
 
-//----Box 16
+//----Costume Stone Box 16
 29513#HP(U)#
 29514#HP(M)#
 29515#HP(L)#
@@ -1810,7 +1810,7 @@
 29523#SinX(L)#
 29524#GX(G)#
 
-//----Box 17
+//----Costume Stone Box 17
 29613#Champ2(U)#
 29612#Champ2(M)#
 29611#Champ2(L)#
@@ -1824,7 +1824,7 @@
 29619#Stalker2(L)#
 29618#SC2(G)#
 
-//----Box 18
+//----Costume Stone Box 18
 29651#SL(U)#
 29652#SL(M)#
 29653#SL(L)#
@@ -1847,7 +1847,7 @@
 29670#Doram(L)#
 29671#Doram(G)#
 
-//----Box 19
+//----Costume Stone Box 19
 310000#Sniper2(U)#
 310001#Sniper2(M)#
 310002#Sniper2(L)#
@@ -1861,7 +1861,7 @@
 310010#HP2(L)#
 310011#AB2(G)#
 
-//----Box 20
+//----Costume Stone Box 20
 310180#WL2(G)#
 310181#HW2(U)#
 310182#HW2(M)#
@@ -1875,7 +1875,7 @@
 310190#SinX2(M)#
 310191#SinX2(U)#
 
-//----Box 21
+//----Costume Stone Box 21
 310257#RK2(G)#
 310258#LK2(U)#
 310259#LK2(M)#
@@ -1889,7 +1889,7 @@
 310267#Min/Gyp2(M)#
 310268#Min/Gyp2(L)#
 
-//----Box 22
+//----Costume Stone Box 22
 //Added melee and range stones in sections above
 
 //---Class Enchants section end
@@ -1897,7 +1897,7 @@
 
 //--Will start organizing based on latest items instead of category
 
-//---Box 23
+//---Costume Stone Box 23
 310654#ASPD+1(D)#
 310659#VCT(D)#
 310661#Melee(D)#
@@ -1907,7 +1907,7 @@
 310666#MgcPwr(L)#
 310667#MgcPwr(D)#
 
-//---Box 24
+//---Costume Stone Box 24
 310658#MCT(D)#
 310660#Range(D)#
 310663#SpAbs(D)#
@@ -1921,7 +1921,7 @@
 310888#RG(M)#
 310889#RG(L)#
 
-//---Box 25
+//---Costume Stone Box 25
 311005#Mae/Wan(U)#
 311006#Mae/Wan(M)#
 311007#Mae/Wan(L)#
@@ -1950,7 +1950,7 @@
 29591#Rigid#
 29592#WC#
 
-//---Box 26
+//---Costume Stone Box 26
 311354#Crit(D)#
 311355#CON(D)#
 311356#AB(U)#
@@ -1998,7 +1998,7 @@
 29688#tjL2#
 29689#tjL3#
 
-//---Box 27
+//---Costume Stone Box 27
 311425#SPL(D)#
 311426#S.MATK(G)#
 311427#Sura(U)#
@@ -2011,7 +2011,7 @@
 311434#GX(M)#
 311435#GX(L)#
 
-//---Box 28
+//---Costume Stone Box 28
 311460#SE(U)#
 311461#SE(M)#
 311462#SE(L)#
@@ -2087,7 +2087,7 @@
 310255#Annihi4#
 310256#Annihi5#
 
-//---Box 29
+//---Costume Stone Box 29
 311912#Kage(U)#
 311913#Kage(M)#
 311914#Kage(L)#
@@ -2494,7 +2494,7 @@
 311381#WilFir-TD#
 311382#HuuShuGra-TD#
 
-//--Box 31
+//--Costume Stone Box 31
 312398#Skiro(G)#
 312399#Snui(G)#
 312400#SX(G)#
@@ -2951,4 +2951,14 @@
 314171#Foot(2D)#
 314172#Foot(3D)#
 
+//--Costume Stone Box 32
+312476#SKE(G)#
+312477#EM(G)#
+312478#Mei(G)#
+
+//--August 2025 Spend Promotion
+313559#PandaBF#
+313560#PandaCF#
+
+//Edited by FishDeity (July 25 2025)
 //-Custom Edits End Here-
