@@ -7,7 +7,8 @@
 # Purpose #
 [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
 
-This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are:
+This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are below. <br>
+iRO players should really consider using the [iRO Wiki QoL patcher](https://irowiki.org/wiki/Clients_and_Patches#iRO_Wiki_QoL_Patcher) instead to get all these edits much easier.
 
 ### GPF Types ###
 - **bgm_missing_added.gpf**: Adds and replaces several maps' BGM to proper sound, like Eden 2F's BGM is changed to Morroc music instead of login.
@@ -30,6 +31,7 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
 - **skill_fixes.gpf**: Fixes some skill descriptions.
 - **zoom_farther_out.gpf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
+  - This is buggy on Taekwon Kid, Master, and Star Emperor classes. It is fixed at 4th job as Sky Emperor.
   - indoors_view_no_lock.gpf is automatically added into this file.
   - Each map is added manually. To stay up-to-date, check back here and redownload few days after a new missing map comes out.
 
@@ -41,8 +43,9 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
     + **customeffects.lua**: File that can customize item light effects.
     + **customeffects-example-minimal.lua**: customeffects but with less items.
     + **customsprites.lua**: File that can customize item sprites.
-    + **customsprites-example-mvp_cards.lua**: customsprites but has some mvp cards changed to Adventure Card A sprite. Highly suggest merging in the gpf below when using this.
-    + **Adventure_Card_A_sprite-big_x12**: Giant sprite in case someone wants it for big, different MVP cards.
+    + **customsprites-example-mvp_cards.lua**: customsprites but has some mvp cards changed to Adventure Card A sprite. Highly suggest merging in mvp_card_sprites_with_cat_a.gpf when using this.
+    + **customsprites-example_2-mvp_cards_2.lua**: customsprites but with mvp card art as sprites! You must merge mvp_card_sprites_with_cat_a.gpf for this to work!!!
+    + **mvp_card_sprites_with_cat_a.gpf**: All MVP Cards drop as their card art instead of the normal card sprite. You merge this into your data.grf!
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
 + **bundle_of_edits_for_newb/**: Edits into one gpf.
     + **bundle_all_edits**: Holds bundle of ALL gpf type edits in here.
@@ -127,6 +130,12 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Aug 5:
+  - **card_enchant_prefixes.gpf**: Added Costume Stone Box 32 enchants and Panda Footprints from August 2025 Spend Promotion. [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/b5c8155100e7478e831ffc2f72e4dd08451d650f)
+  - System/
+    - **customsprites-example_2-mvp_cards_2.lua**: Added as a way to show card art as mvp card sprite when it drops.
+    - **mvp_card_sprites_with_cat_a.gpf**: Renamed to this for all the mvp card art as drop sprite. Also Adventure Card A x12 size is in here too.  
+
 - 2025 July 9:
     - Level 260 update with How To Train Your Dragon Event
       - System/
@@ -142,6 +151,56 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
       - **customeffects.lua**: Change Weakened Fenrir Card to orange light and no ding sound.
     - **card_art_missing_added.gpf**: Copy pasted edits to updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/4c5ea0298828d18479e4c7514f2a57347961c25f)
     - **card_enchant_prefixes.gpf**: Big help from Mayo, added 260 new enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ddadaff9027fab9afd5dff96d2b22bfe5b3bb1e0)
+
+For previous changes, scroll all the way down.
+
+# Etc #
+If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
+
+# Contact #
+If any issues, Discord message me at 2Lazy2MakeAName.
+
+# Special Thanks #
+- Pingaify for helping keep many files up to date, creating the iROWiki QoL Patcher, making mvp card art as sprites.
+- [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
+- https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
+- zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
+  - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
+  - and his repository: https://github.com/wolfchev?tab=repositories
+- rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
+- [llchrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
+- Cate for info on fixing lvl 200 aura
+- Angux for the bigger Einbech 3 ores and helping with the customsprites.lua code
+- Blink for more mini maps and the file that tells the game where to look for each map's mini map
+- k.a for his eden view premium and bigger bio5 frags
+- Vividort and Yongky for contribution to more edits
+- ShinRai for skillsinfo edit
+- Kutz and Sanggoro for helping to enlargen sprites.
+- Mayo for help with things such as with the varmundt biosphere update 2 enchants.
+
+# Sample Pictures #
+indoors_view_no_lock.gpf (for normal camera view): <br>
+eden_textures_premium.gpf (for different color):
+
+![Eden view](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/290f74b5-73d6-451f-9330-c0c191daf12c)
+
+card_enchant_prefixes.gpf:
+
+![Enchants in Name 2](https://user-images.githubusercontent.com/56460323/146634561-c6cf520a-8351-4543-a911-7cf4d1927c19.jpg)
+
+zoom_farther_out.gpf:
+
+![super zoom](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b3535887-7b51-4c34-bffb-5fcb3e02f835)
+
+maps_added_and_fixed.gpf:
+
+![et map](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/247bda36-98c0-433f-83b4-382f432fa380)
+
+card_art_missing_added.gpf:
+
+![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
+
+# Changelog (Previous) #
 - 2025 April 19:
   - System/
     - **customeffects.lua**: Added Biosphere update 2 drops to have light. Thanks to Mayo for the help!
@@ -169,56 +228,6 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
   - **maps_added_and_fixed.gpf**: Added Constellation & Sunken Tower maps. Also added Geffen WoE castles' number map.
   - **skill_fixes.gpf**: Fixed skill wording from Each charm to spirit. Credits to ShinRai: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/8d80932e6abe0cf89a16a4982ee79c278c8cd2b9)
   - **zoom_farther_out.gpf**: Added zoom for Constellation & Sunken Tower: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/cbe1a12dee151d0febf17ccaf794d5ed4dc1c69a)
-
-For previous changes, scroll all the way down.
-
-# Etc #
-If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
-
-# Contact #
-If any issues, Discord message me at 2Lazy2MakeAName.
-
-# Special Thanks #
-- [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
-- https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
-- zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
-  - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
-  - and his repository: https://github.com/wolfchev?tab=repositories
-- rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
-- [llchrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
-- Cate for info on fixing lvl 200 aura
-- Angux for the bigger Einbech 3 ores and helping with the customsprites.lua code
-- Blink for more mini maps and the file that tells the game where to look for each map's mini map
-- k.a for his eden view premium and bigger bio5 frags
-- Vividort and Yongky for contribution to more edits
-- ShinRai for skillsinfo edit
-- Kutz and Sanggoro for helping to enlargen sprites.
-- Pingaify for helping keep many files up to date and creating the wiki patcher.
-- Mayo for help with things such as with the varmundt biosphere update 2 enchants.
-
-# Sample Pictures #
-indoors_view_no_lock.gpf (for normal camera view): <br>
-eden_textures_premium.gpf (for different color):
-
-![Eden view](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/290f74b5-73d6-451f-9330-c0c191daf12c)
-
-card_enchant_prefixes.gpf:
-
-![Enchants in Name 2](https://user-images.githubusercontent.com/56460323/146634561-c6cf520a-8351-4543-a911-7cf4d1927c19.jpg)
-
-zoom_farther_out.gpf:
-
-![super zoom](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b3535887-7b51-4c34-bffb-5fcb3e02f835)
-
-maps_added_and_fixed.gpf:
-
-![et map](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/247bda36-98c0-433f-83b4-382f432fa380)
-
-card_art_missing_added.gpf:
-
-![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
-
-# Changelog (Previous) #
 - 2024 Nov 19:
   - **card_art_missing_added.gpf**: Added missing Clock Tower Basement card art links, oops: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ebd5586c1d9a02b42becece6632d5043e6f9a371)
   - **card_enchant_prefixes.gpf**: Added new Enchant Stone Box 31 enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/0cef5c1d1f8046e8bdeb7ff7f06673a0f6289bd5)
