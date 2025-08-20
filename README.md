@@ -130,6 +130,10 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Aug 19:
+  - **card_art_missing_added.gpf**: File updated, copy pasted edits over.
+  - **card_enchant_prefixes.gpf**: File updated, copy pasted edits over. Added Costume Stone Box 33 enchants too.
+  - **maps_added_and_fixed.gpf**: File updated, copy pasted edits over.
 - 2025 Aug 5:
   - **card_enchant_prefixes.gpf**: Added Costume Stone Box 32 enchants and Panda Footprints from August 2025 Spend Promotion. [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/b5c8155100e7478e831ffc2f72e4dd08451d650f)
   - System/
