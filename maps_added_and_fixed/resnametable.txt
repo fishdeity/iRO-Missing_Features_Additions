@@ -2713,6 +2713,12 @@ httyd_02.rsw#abyss_01.rsw#
 유저인터페이스\map\httyd_02.bmp#유저인터페이스\map\abyss_01.bmp#
 //2025.07.08 드래곤 길들이기 콜라보 end
 
+//2025.08.19 주말 레이스 자체 이벤트
+iroweekrace.gnd#mjolnir_04.gnd#
+iroweekrace.gat#mjolnir_04.gat#
+iroweekrace.rsw#mjolnir_04.rsw#
+유저인터페이스\map\iroweekrace.bmp#유저인터페이스\map\mjolnir_04.bmp#
+
 //Custom Edits
 
 //this file tells each ingame map where to look for the mini map file
@@ -2734,4 +2740,5 @@ httyd_02.rsw#abyss_01.rsw#
 유저인터페이스\map\1@pump.bmp#유저인터페이스\map\1@pump.bmp#
 유저인터페이스\map\2@pump.bmp#유저인터페이스\map\2@pump.bmp#
 
+//Edited by FishDeity (August 19 2025)
 //Custom Edits end
