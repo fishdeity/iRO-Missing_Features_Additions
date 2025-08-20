@@ -1132,6 +1132,9 @@
 
 //2025.06.10 22ì£¼ë…„ ê¸°ë… ?ì²´ ?´ë²¤??
 300291#The First#
+//2025.08.19 ?¸ìŠ¤ë£¸ë‹ˆë¥??¤ì…˜?„í¬ 2024
+// 2024 ?¸ìŠ¤ë£¸ë‹ˆë¥??¤ì…˜?„í¬
+300549#of Ocean Week#
 
 //-Custom Edits-
 
@@ -2960,5 +2963,10 @@
 313559#PandaBF#
 313560#PandaCF#
 
-//Edited by FishDeity (July 25 2025)
+//--Costume Stone Box 33
+312692#AC(G)#
+312693#Trou(G)#
+312694#HN(G)#
+
+//Edited by FishDeity (August 19 2025)
 //-Custom Edits End Here-
