@@ -1264,6 +1264,10 @@
 //2025.06.10 22주년 기념 자체 이벤트
 300291#1st_Anniver_Card#
 
+//2025.08.19 세스룸니르 오션위크 2024
+// 2024 세스룸니르 오션위크
+300549#Ocean_Pope_Card#
+
 //-Custom Edits-
 
 //--Jitterbug : were missing but now added
@@ -1362,4 +1366,5 @@
 300449#Timbers_Card#
 300450#Renire_Card#
 
+//Edited by FishDeity (August 19 2025)
 //-Custom Edits End Here-
