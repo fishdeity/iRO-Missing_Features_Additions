@@ -917,11 +917,11 @@ que_qaru05.rsw#que_qsch01.rsw#
 arug_cas04.gnd#arug_cas03.gnd#
 arug_cas04.gat#arug_cas03.gat#
 arug_cas04.rsw#arug_cas03.rsw#
-유저인터페이스\map\arug_cas04.bmp#유저인터페이스\map\arug_cas03.bmp#
+유저인터페이스\map\arug_cas04.bmp#유저인터페이스\map\arug_cas04.bmp#
 arug_cas05.gnd#arug_cas03.gnd#
 arug_cas05.gat#arug_cas03.gat#
 arug_cas05.rsw#arug_cas03.rsw#
-유저인터페이스\map\arug_cas05.bmp#유저인터페이스\map\arug_cas03.bmp#
+유저인터페이스\map\arug_cas05.bmp#유저인터페이스\map\arug_cas05.bmp#
 
 schg_cas04.gnd#schg_cas01.gnd#
 schg_cas04.gat#schg_cas01.gat#
@@ -2724,7 +2724,7 @@ iroweekrace.rsw#mjolnir_04.rsw#
 //this file tells each ingame map where to look for the mini map file
 
 //the map names listed here have been changed in the file
-//dali02 , 2@nyd , schg_cas04 , schg_cas05
+//dali02 , 2@nyd , schg_cas04 , schg_cas05 , arug_cas04 , arug_cas05
 
 //below are added to fix missing ones
 유저인터페이스\map\1@cor.bmp#유저인터페이스\map\sp_cor.bmp#
@@ -2740,5 +2740,5 @@ iroweekrace.rsw#mjolnir_04.rsw#
 유저인터페이스\map\1@pump.bmp#유저인터페이스\map\1@pump.bmp#
 유저인터페이스\map\2@pump.bmp#유저인터페이스\map\2@pump.bmp#
 
-//Edited by FishDeity (August 19 2025)
+//Edited by FishDeity (Sept 2 2025)
 //Custom Edits end
