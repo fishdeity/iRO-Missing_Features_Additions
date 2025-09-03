@@ -1,3 +1,4 @@
+//-Custom Edits-
 // ∏  ¿Ã∏ß 	range	scope 	range_IN	rotationFrom 	rotationTo	rotation_IN	altitudeFrom	altitudeTo	altitude_IN
 //map_name	zoom_in	zoom_out	default_zoom_at_that_map	??	??	default_rotation	shift_camera_angle_downwards	shift_camera_angle_upwards	default_shift_camera_angle_downwards
 06guild_01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
@@ -1213,3 +1214,7 @@ ra_pol01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 mjo_wst01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 httyd_01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 httyd_02.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+//iRO Weekend Race Mt. Mjolnir Derby Race
+iroweekrace.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+//Edited by FishDeity (Sept 2 2025)
+//-Custom Edits End Here-
