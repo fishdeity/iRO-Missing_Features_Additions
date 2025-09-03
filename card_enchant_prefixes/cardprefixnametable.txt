@@ -1132,17 +1132,19 @@
 
 //2025.06.10 22ì£¼ë…„ ê¸°ë… ?ì²´ ?´ë²¤??
 300291#The First#
+
 //2025.08.19 ?¸ìŠ¤ë£¸ë‹ˆë¥??¤ì…˜?„í¬ 2024
 // 2024 ?¸ìŠ¤ë£¸ë‹ˆë¥??¤ì…˜?„í¬
 300549#of Ocean Week#
 
-//-Custom Edits-
-
-//--Jitterbug cards missing 
+//live mantis 181959 
 27106#Musician's#
 27107#Dancing#
 27108#Singing#
-27109#Jitterbug#
+27109#Jitterbug's#
+4489#Of Half Kirin#
+
+//-Custom Edits-
 
 //--Flame Basin cards missing
 27026#Blazing#
@@ -2968,5 +2970,5 @@
 312693#Trou(G)#
 312694#HN(G)#
 
-//Edited by FishDeity (August 19 2025)
+//Edited by FishDeity (Sept 2 2025)
 //-Custom Edits End Here-
