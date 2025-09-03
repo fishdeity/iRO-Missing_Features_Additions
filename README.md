@@ -130,6 +130,12 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Sept 2:
+  - **card_art_missing_added.gpf**: Gravity added some missing cards, removed some my edits since not needed anymore.
+  - **card_enchant_prefixes.gpf**: File updated, copy pasted edits over.
+  - **maps_added_and_fixed.gpf**: Changed the maps for the WoE 2 maps to make it more new player friendly.
+  - **resource_file_fixes.gpf**: Added missing summer event texture files.
+  - **zoom_farther_out.gpf**: Added zoom for Mt Mjolnir iRO Weekend Derby Race. 
 - 2025 Aug 19:
   - **card_art_missing_added.gpf**: File updated, copy pasted edits over.
   - **card_enchant_prefixes.gpf**: File updated, copy pasted edits over. Added Costume Stone Box 33 enchants too.
