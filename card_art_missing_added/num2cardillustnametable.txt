@@ -781,21 +781,21 @@
 27183#Gigantes_Card#
 27184#Knight_Sakray_Card#
 
-27249#sorry#
-27250#sorry#
-27251#sorry#
-27252#sorry#
-27253#sorry#
-27254#sorry#
-27255#sorry#
-27256#sorry#
-27257#sorry#
-27258#sorry#
-27259#sorry#
-27260#sorry#
-27261#sorry#
-27262#sorry#
-27263#sorry#
+27249#아르히카드#
+27250#디오아네모스카드#
+27253#게펜좀도둑카드#
+27252#게펜불량배카드#
+27251#게펜깡패카드#
+27254#페몽카드#
+27255#오르드르카드#
+27256#블루트하제카드#
+27257#쿠로아쿠마카드#
+27258#이포더스카드#
+27259#레체니예카드#
+27260#오도리코카드#
+27261#쥬카드#
+27262#디와이카드#
+27263#페이카나비안카드#
 
 27264#Evil_Shadow_Card#
 27265#Evil_Fanatics_Card#
@@ -1268,30 +1268,29 @@
 // 2024 세스룸니르 오션위크
 300549#Ocean_Pope_Card#
 
-//-Custom Edits-
-
-//--Jitterbug : were missing but now added
+//live mantis 181959
+4489#봉인된파라오카드#
+4557#약화된펜릴카드#
 27106#각성한페르카드#
 27107#연주하는페르카드#
 27108#노래하는페르카드#
 27109#지터벅카드#
+300192#Sakray_Card#
+300193#Tiara_Card#
+300441#Burning_Knight_Card#
+300442#Dedsera_Card#
+300443#Hardrock_Titan_Card#
+300444#Deadween_Card#
+300445#Gaia_Pol_Card#
+300446#Punch_Bug_Card#
+300447#Aferde_Card#
+300448#Dispol_Card#
+300449#Timbers_Card#
+300450#Renire_Card#
+27169#Payon_Soldier_Card#
+//live mantis 181959 end
 
-//--Geffen Magic Tournament : Sorry images replaced
-27249#Archi_Card#
-27250#Dio_Anemos_Card#
-27251#Geffen_Gang_Card#
-27252#Geffen_Thug_Card#
-27253#Geffen_Thief_Card#
-27254#Pa_Monk_Card#
-27255#Ordre_Card#
-27256#Blut_Hase_Card#
-27257#Kuro_Akuma_Card#
-27258#Hyper_Death_Card#
-27259#Rechenier_Card#
-27260#Odorico_Card#
-27261#Jew_Card#
-27262#Dy_Card#
-27263#Fei_Kanabian_Card#
+//-Custom Edits-
 
 //--Sealed MVPs : Sorry images replaced
 4480#봉인된키엘_D_01카드#      //Kiel
@@ -1347,24 +1346,9 @@
 //--Dead King Card : were missing but now added
 27025#망자의군주카드#
 
-//--Tomb of Remorse MVP cards : Sorry images replaced
-300192#Sakray_Card#
-300193#Tiara_Card#
+//--Missing Sealed MVP cards added
+4492#봉인된오크히어로카드#     //Orc Hero
+4498#봉인된타니아가씨카드#     //Lady Tanee
 
-//--Sealed Pharaoh Card
-4489#봉인된파라오카드#
-
-//--Lvl 260 Cards: Sorry images replaced
-300441#Burning_Knight_Card#
-300442#Dedsera_Card#
-300443#Hardrock_Titan_Card#
-300444#Deadween_Card#
-300445#Gaia_Pol_Card#
-300446#Punch_Bug_Card#
-300447#Aferde_Card#
-300448#Dispol_Card#
-300449#Timbers_Card#
-300450#Renire_Card#
-
-//Edited by FishDeity (August 19 2025)
+//Edited by FishDeity (Sept 2 2025)
 //-Custom Edits End Here-
