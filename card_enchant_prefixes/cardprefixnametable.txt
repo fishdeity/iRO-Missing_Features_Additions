@@ -1133,11 +1133,40 @@
 //2025.06.10 22Ï£ºÎÖÑ Í∏∞ÎÖê ?êÏ≤¥ ?¥Î≤§??
 300291#The First#
 
+//2025 2Q UPDATE
+//EPISODE 19
+300359#of Snowflake#
+300360#of Seaweed#
+300361#of Straw#
+300362#of Ice-free#
+300363#of Limacina#
+300364#Sea Water#
+300365#Primitive#
+300366#Lowest#
+300367#of Primitive#
+300368#of Lowest#
+300369#of Dark Spell#
+300370#of Telekinetic Spell#
+300371#of Poison Spell#
+300372#of Telekinetic Power#
+300373#Insect-proof#
+300374#of Pesticide#
+300375#Higher Level#
+300376#Higher Level#
+300377#of Ultra Power#
+300378#of Sim#
+300379#Higher Level#
+300380#Higher Level#
+300381#of Heart Hunting#
+300382#Aquila#
+//EPISODE 19 end
+//2025 2Q UPDATE end
+
 //2025.08.19 ?∏Ïä§Î£∏ÎãàÎ•??§ÏÖò?ÑÌÅ¨ 2024
 // 2024 ?∏Ïä§Î£∏ÎãàÎ•??§ÏÖò?ÑÌÅ¨
 300549#of Ocean Week#
 
-//live mantis 181959 
+//live mantis 181959 https://mantis.gravity.co.kr/view.php?id=181959
 27106#Musician's#
 27107#Dancing#
 27108#Singing#
@@ -2970,5 +2999,10 @@
 312693#Trou(G)#
 312694#HN(G)#
 
-//Edited by FishDeity (Sept 2 2025)
+//--Costume Stone Box 34
+313059#DK(G)#
+313060#IG(G)#
+313061#NW(G)#
+
+//Edited by FishDeity (Sept 17 2025)
 //-Custom Edits End Here-
