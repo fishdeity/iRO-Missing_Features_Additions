@@ -94,6 +94,7 @@ Note instructions work only for files ending with .gpf or .grf
       - Discord invite:   [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
 
 ### Adding for GPF Types (Alternate Method) ###
+*Note this method no longer works since July 2025 since they changed GRF from format 0x200 to 0x300. <br>
 *Note that this process has many possible ways to do, this is just 1 example.
 1. In the code section above, press the green button **Code**, choose **Download ZIP**, then extract the zip file.
 3. Make a backup copy of your iRO's **data.grf** in case you mess up.
@@ -106,7 +107,7 @@ Note instructions work only for files ending with .gpf or .grf
     - You can now delete those downloaded files earlier.
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
-### Adding for GPF Types (Pingaify Patcher Method) ###
+### Adding for GPF Types (iRO Wiki QoL Patcher Method) ###
 *Note this method actually adds all the gpf edits and light beam edits from customeffects.lua and customsprites.lua
 1. See the full instructions here: https://irowiki.org/wiki/Clients_and_Patches#iRO_Wiki_QoL_Patcher
 
@@ -130,6 +131,15 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Sept 17:
+  - Episode 19 update
+  - **bgm_missing_added.gpf**: Updated file and brought back Mora music to Rachel Temple event map: [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/d7ee2b12496cb5920179001a10a4e4680522dd23)
+  - **card_art_missing_added.gpf**: Updated file. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/c45c277648367f9ad3971316769b92b32cb18681)
+  - **card_enchant_prefixes.gpf**: Added Costume Enchant Stone Box 34. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ae6f5665a35d522a27da5eeb25d9ec566c00dbbe)
+  - **maps_added_and_fixed.gpf**: Added episode 19 maps that were missing.
+  - **resource_file_fixes.gpf**: Removed some files since WP added them.
+  - **skill_fixes.gpf**: Replaced with default 4th job skill descriptions since ShinRai is inactive now.
+  - **zoom_farther_out.gpf**: Added new ep 19 maps. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/46617c9092704abffb79d6408574144f033cbb12)
 - 2025 Sept 2:
   - **card_art_missing_added.gpf**: Gravity added some missing cards, removed some my edits since not needed anymore.
   - **card_enchant_prefixes.gpf**: File updated, copy pasted edits over.
