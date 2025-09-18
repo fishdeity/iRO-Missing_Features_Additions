@@ -2713,6 +2713,28 @@ httyd_02.rsw#abyss_01.rsw#
 유저인터페이스\map\httyd_02.bmp#유저인터페이스\map\abyss_01.bmp#
 //2025.07.08 드래곤 길들이기 콜라보 end
 
+//2025 2Q UPDATE
+//EPISODE 19
+// 에피소드 19 설화의 땅 이스가르드
+1@iwp.gnd#1@iwp.gnd#
+1@iwp.gat#1@iwp.gat#
+1@iwp.rsw#1@iwp.rsw#
+유저인터페이스\map\1@iwp.bmp#유저인터페이스\map\1@iwp.bmp#
+1@jorchs.gnd#1@jorchs.gnd#
+1@jorchs.gat#1@jorchs.gat#
+1@jorchs.rsw#1@jorchs.rsw#
+유저인터페이스\map\1@jorchs.bmp#유저인터페이스\map\jor_nest.bmp#
+1@jorlab.gnd#1@jorlab.gnd#
+1@jorlab.gat#1@jorlab.gat#
+1@jorlab.rsw#1@jorlab.rsw#
+유저인터페이스\map\1@jorlab.bmp#유저인터페이스\map\1@jorlab.bmp#
+1@whl.gnd#1@whl.gnd#
+1@whl.gat#1@whl.gat#
+1@whl.rsw#1@whl.rsw#
+유저인터페이스\map\1@whl.bmp#유저인터페이스\map\1@whl.bmp#
+//EPISODE 19 end
+//2025 2Q UPDATE end
+
 //2025.08.19 주말 레이스 자체 이벤트
 iroweekrace.gnd#mjolnir_04.gnd#
 iroweekrace.gat#mjolnir_04.gat#
@@ -2740,5 +2762,5 @@ iroweekrace.rsw#mjolnir_04.rsw#
 유저인터페이스\map\1@pump.bmp#유저인터페이스\map\1@pump.bmp#
 유저인터페이스\map\2@pump.bmp#유저인터페이스\map\2@pump.bmp#
 
-//Edited by FishDeity (Sept 2 2025)
+//Edited by FishDeity (Sept 17 2025)
 //Custom Edits end
