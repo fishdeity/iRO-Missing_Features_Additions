@@ -107,7 +107,7 @@ Note instructions work only for files ending with .gpf or .grf
     - You can now delete those downloaded files earlier.
     - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
 
-### Adding for GPF Types (Pingaify Patcher Method) ###
+### Adding for GPF Types (iRO Wiki QoL Patcher Method) ###
 *Note this method actually adds all the gpf edits and light beam edits from customeffects.lua and customsprites.lua
 1. See the full instructions here: https://irowiki.org/wiki/Clients_and_Patches#iRO_Wiki_QoL_Patcher
 
