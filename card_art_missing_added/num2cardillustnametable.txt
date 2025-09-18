@@ -1268,6 +1268,34 @@
 // 2024 세스룸니르 오션위크
 300549#Ocean_Pope_Card#
 
+//===========2025 2Q UPDATE
+//EPISODE 19
+300359#Ice_Gangu_Card#
+300360#Shining_Seaweed_Card#
+300361#Ice_Straw_Card#
+300362#Unfrost_Flower_card#
+300363#Limacina_Card#
+300364#Calmaring_Card#
+300365#Primitive_Rgan_Card#
+300366#Lowest_Rgan_Card#
+300367#Junior_Rgan_Card#
+300368#Middle_G_Rgan_Card#
+300369#Discarded_P_R_Card#
+300370#Discarded_L_R_Card#
+300371#Cave_Calmaring_Card#
+300372#Cave_Un_Flower_Card#
+300373#B_Hallucigenia_Card#
+300374#Hallucigenia_Card#
+300375#One_E_Dollocaris_Card#
+300376#Eyes_Dollocaris_Card#
+300377#Ultra_Limacina_Card#
+300378#Simulation_Juncea_Card#
+300379#R_Superior_Rgan_Card#
+300380#E_Inter_Rgan_Card#
+300381#Heart_Hunter_AT_Card#
+300382#Aquila_Card#
+//===========2025 2Q UPDATE end
+
 //live mantis 181959
 4489#봉인된파라오카드#
 4557#약화된펜릴카드#
@@ -1350,5 +1378,5 @@
 4492#봉인된오크히어로카드#     //Orc Hero
 4498#봉인된타니아가씨카드#     //Lady Tanee
 
-//Edited by FishDeity (Sept 2 2025)
+//Edited by FishDeity (Sept 17 2025)
 //-Custom Edits End Here-
