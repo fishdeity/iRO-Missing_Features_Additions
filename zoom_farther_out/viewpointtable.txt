@@ -1,4 +1,4 @@
-//-Custom Edits-
+//-Custom Edits-									
 // ∏  ¿Ã∏ß 	range	scope 	range_IN	rotationFrom 	rotationTo	rotation_IN	altitudeFrom	altitudeTo	altitude_IN
 //map_name	zoom_in	zoom_out	default_zoom_at_that_map	??	??	default_rotation	shift_camera_angle_downwards	shift_camera_angle_upwards	default_shift_camera_angle_downwards
 06guild_01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
@@ -1214,7 +1214,26 @@ ra_pol01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 mjo_wst01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 httyd_01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 httyd_02.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
-//iRO Weekend Race Mt. Mjolnir Derby Race
+//iRO Weekend Race Mt. Mjolnir Derby Race									
 iroweekrace.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
-//Edited by FishDeity (Sept 2 2025)
-//-Custom Edits End Here-
+//Ep 19 update									
+air_if.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_ab02.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_dun01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+icecastle.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+1@jorchs.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_nest.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_ab01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_back3.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_dun03.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+1@whl.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+1@jorlab.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_que.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_dun02.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_back1.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_tail.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+icas_in.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+jor_back2.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+1@iwpa.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+//Edited by FishDeity (Sept 17 2025)									
+//-Custom Edits End Here-									
