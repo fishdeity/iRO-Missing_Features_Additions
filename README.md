@@ -131,6 +131,8 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Sept 19:
+  - **zoom_farther_out.gpf**: Fixed ep 19 instance map zoom 1@iwp. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/b6089cb116b0b95d1638ef618092e6698cf57724)
 - 2025 Sept 17:
   - Episode 19 update
   - **bgm_missing_added.gpf**: Updated file and brought back Mora music to Rachel Temple event map: [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/d7ee2b12496cb5920179001a10a4e4680522dd23)
