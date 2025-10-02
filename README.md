@@ -131,6 +131,9 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Oct 1:
+  - **card_art_missing_added.gpf**: Updated file. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/a57029a70fcee83e8b0c9c2ec189982bd3554df6)
+  - **card_enchant_prefixes.gpf**: Added October Spend Promo enchants. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/9890e5bd795c723247353d87c8a0c559285e3516)
 - 2025 Sept 19:
   - **zoom_farther_out.gpf**: Fixed ep 19 instance map zoom 1@iwp. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/b6089cb116b0b95d1638ef618092e6698cf57724)
 - 2025 Sept 17:
