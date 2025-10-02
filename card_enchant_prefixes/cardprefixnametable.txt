@@ -1166,12 +1166,15 @@
 // 2024 ?∏Ïä§Î£∏ÎãàÎ•??§ÏÖò?ÑÌÅ¨
 300549#of Ocean Week#
 
-//live mantis 181959 https://mantis.gravity.co.kr/view.php?id=181959
+//live mantis 181959
 27106#Musician's#
 27107#Dancing#
 27108#Singing#
 27109#Jitterbug's#
 4489#Of Half Kirin#
+
+//live mantis 184954
+4493#Half-High Risk#
 
 //-Custom Edits-
 
@@ -3004,5 +3007,11 @@
 313060#IG(G)#
 313061#NW(G)#
 
-//Edited by FishDeity (Sept 17 2025)
+//--October Spend Promotion 2025 Footprints
+313069#RedStarF#
+313956#PurpBflyF#
+313957#YelBflyF#
+
+//Other 298 enchants from Ep 19 will come in the future....
+//Edited by FishDeity (Oct 1 2025)
 //-Custom Edits End Here-
