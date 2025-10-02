@@ -1318,6 +1318,9 @@
 27169#Payon_Soldier_Card#
 //live mantis 181959 end
 
+//live mantis 184954
+4493#봉인된타오군카카드#
+
 //-Custom Edits-
 
 //--Sealed MVPs : Sorry images replaced
@@ -1378,5 +1381,5 @@
 4492#봉인된오크히어로카드#     //Orc Hero
 4498#봉인된타니아가씨카드#     //Lady Tanee
 
-//Edited by FishDeity (Sept 17 2025)
+//Edited by FishDeity (Oct 1 2025)
 //-Custom Edits End Here-
