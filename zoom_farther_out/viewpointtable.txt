@@ -1,4 +1,4 @@
-//-Custom Edits-									
+//-Custom Edits-
 // ∏  ¿Ã∏ß 	range	scope 	range_IN	rotationFrom 	rotationTo	rotation_IN	altitudeFrom	altitudeTo	altitude_IN
 //map_name	zoom_in	zoom_out	default_zoom_at_that_map	??	??	default_rotation	shift_camera_angle_downwards	shift_camera_angle_upwards	default_shift_camera_angle_downwards
 06guild_01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
@@ -1235,5 +1235,11 @@ jor_tail.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 icas_in.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 jor_back2.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 1@iwp.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
-//Edited by FishDeity (Sept 19 2025)									
-//-Custom Edits End Here-									
+//Battle Pass Season 2 Update									
+bphunt_low.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+bphunt_mid.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+bphunt_high.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+x_prt_evt.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+x_prt_in.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+//Edited by FishDeity (Oct 24 2025)
+//-Custom Edits End Here-
