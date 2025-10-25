@@ -2741,6 +2741,20 @@ iroweekrace.gat#mjolnir_04.gat#
 iroweekrace.rsw#mjolnir_04.rsw#
 유저인터페이스\map\iroweekrace.bmp#유저인터페이스\map\mjolnir_04.bmp#
 
+//2025.10.23 배틀패스 시즌2
+bphunt_low.gnd#hu_fild03.gnd#
+bphunt_low.gat#hu_fild03.gat#
+bphunt_low.rsw#hu_fild03.rsw#
+유저인터페이스\map\bphunt_low.bmp#유저인터페이스\map\hu_fild03.bmp#
+bphunt_mid.gnd#hu_fild03.gnd#
+bphunt_mid.gat#hu_fild03.gat#
+bphunt_mid.rsw#hu_fild03.rsw#
+유저인터페이스\map\bphunt_mid.bmp#유저인터페이스\map\hu_fild03.bmp#
+bphunt_high.gnd#hu_fild03.gnd#
+bphunt_high.gat#hu_fild03.gat#
+bphunt_high.rsw#hu_fild03.rsw#
+유저인터페이스\map\bphunt_high.bmp#유저인터페이스\map\hu_fild03.bmp#
+
 //Custom Edits
 
 //this file tells each ingame map where to look for the mini map file
