@@ -131,6 +131,11 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Oct 24:
+  - **bgm_missing_added.gpf**: Using kRO file from October 2025. Added missing iRO maps in there. Rachel Temple map music back to normal since Ocean event is over. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/dcc08e0616f32470402a1ffc4686717ff59a20e1)
+  - **card_enchant_prefixes.gpf**: Added Khon, Kankrai, Kradat enchants, October 2025 Kachua Coupon Headgear Jewel cards, Battle Pass Season 2 enchants, Costume Stone Box 35 enchants.
+  - **maps_added_and_fixed.gpf**: Copy pasted edits over to updated Battle Pass 2 file. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/bb397ae95f4c48325296bc57cf8fbf9df3c7252a)
+  - **zoom_farther_out.gpf**: Added zoom to new Battle Pass 2 maps. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/3a9a612a1498da27e74ae60afa98373d903553e6)
 - 2025 Oct 1:
   - **card_art_missing_added.gpf**: Updated file. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/a57029a70fcee83e8b0c9c2ec189982bd3554df6)
   - **card_enchant_prefixes.gpf**: Added October Spend Promo enchants. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/9890e5bd795c723247353d87c8a0c559285e3516)
