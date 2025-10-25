@@ -3012,6 +3012,44 @@
 313956#PurpBflyF#
 313957#YelBflyF#
 
+//--Khon, Kankrai, Kradat Enchants
+313574#RoS1#
+313575#AoV1#
+313576#ToA1#
+313577#SoI1#
+313578#EoD1#
+313579#DoF1#
+314015#RoS2#
+314016#AoV2#
+314017#ToA2#
+314018#SoI2#
+314019#EoD2#
+314020#DoF2#
+
+//--October 2025 Kachua Coupon Headgear Jewel Cards
+27421#Str Jewel#
+27422#Agi Jewel#
+27423#Dex Jewel#
+27424#Fat Jewel#
+27425#Vit Jewel#
+27426#Int Jewel#
+
+//--Battle Pass Season 2 Enchants
+314679#S2VRMelee1#
+314680#S2VRMelee2#
+314681#S2VRMagic1#
+314682#S2VRMagic2#
+314683#S2VRRange1#
+314684#S2VRRange2#
+314685#S2VRSup1#
+314686#S2VRSup2#
+
+//--Costume Stone Box 35
+313324#Biolo(G)#
+313325#Inq(G)#
+313326#SH(G)#
+313065#Foot#
+
 //Other 298 enchants from Ep 19 will come in the future....
-//Edited by FishDeity (Oct 1 2025)
+//Edited by FishDeity (Oct 24 2025)
 //-Custom Edits End Here-
