@@ -368,18 +368,18 @@ customeffects = {
 	[630006] = {EffectID = 1189}, -- Illusion Brionac
 	[630007] = {EffectID = 1189}, -- Illusion Zephyrus
 	-- Illusion of Twins
-    [450182] = {EffectID = 1189}, -- Illusion Sprint Mail
-    [460018] = {EffectID = 1189}, -- Illusion Silver Guard
-    [470066] = {EffectID = 1189}, -- Illusion Sprint Shoes
-    [490121] = {EffectID = 1189}, -- Illusion Sprint Glove
-    [490120] = {EffectID = 1189}, -- Illusion Sprint Ring
-    [460017] = {EffectID = 1189}, -- Illusion Guard
-    [500030] = {EffectID = 1189}, -- Illusion Excalibur
-    [530015] = {EffectID = 1189}, -- Illusion Gelerdria
-    [550030] = {EffectID = 1189}, -- Illusion Thorn Staff of Darkness
-    [620010] = {EffectID = 1189}, -- Illusion Doom Slayer
-    [550031] = {EffectID = 1189}, -- Illusion Dea Staff
-    [510034] = {EffectID = 1189}, -- Illusion Ancient Dagger
+	[450182] = {EffectID = 1189}, -- Illusion Sprint Mail
+	[460018] = {EffectID = 1189}, -- Illusion Silver Guard
+	[470066] = {EffectID = 1189}, -- Illusion Sprint Shoes
+	[490121] = {EffectID = 1189}, -- Illusion Sprint Glove
+	[490120] = {EffectID = 1189}, -- Illusion Sprint Ring
+	[460017] = {EffectID = 1189}, -- Illusion Guard
+	[500030] = {EffectID = 1189}, -- Illusion Excalibur
+	[530015] = {EffectID = 1189}, -- Illusion Gelerdria
+	[550030] = {EffectID = 1189}, -- Illusion Thorn Staff of Darkness
+	[620010] = {EffectID = 1189}, -- Illusion Doom Slayer
+	[550031] = {EffectID = 1189}, -- Illusion Dea Staff
+	[510034] = {EffectID = 1189}, -- Illusion Ancient Dagger
 	-- Villa of Deception - Adulter Weapons
 	[500025] = {EffectID = 1189}, -- Adulter Fides Guardian Sword
 	[500026] = {EffectID = 1189}, -- Adulter Fides Rapier
@@ -609,6 +609,14 @@ customeffects = {
 	[1000261] = {EffectID = 1869}, -- Fragments of Condolence
 	[1000262] = {EffectID = 1869}, -- Fragment of Wishes
 	[1000405] = {EffectID = 1869}, -- Amethyst Fragment
+	[1002424] = {EffectID = 1190}, -- [S2] Low Grade Core Data
+	[1002425] = {EffectID = 1190}, -- [S2] Mid Grade Core Data
+	[1002426] = {EffectID = 1190}, -- [S2] High Grade Core Data
+	[1000608] = {EffectID = 1869}, -- Snow Flower Petal
+	[1000812] = {EffectID = 1869}, -- Snow Flower Magic Stone
+	[719] = {EffectID = 1869}, -- Amethyst
+	[720] = {EffectID = 1869}, -- Aquamarine
+	[728] = {EffectID = 1869}, -- Topaz
 
 	-- Rune materials
 	[969] = {EffectID = 1870}, -- Gold
@@ -1860,16 +1868,16 @@ customeffects = {
 	[300294] = {EffectID = 1186}, -- Jennifer Card
 	[300295] = {EffectID = 1186}, -- General Orc Card
 	[300297] = {EffectID = 1186}, -- Goblin King Card
-    [300237] = {EffectID = 1186}, -- Intrepid Familiar Card
-    [300232] = {EffectID = 1186}, -- Diligent Andre Larva Card
-    [300235] = {EffectID = 1186}, -- Mushy Ant Egg Card
-    [300230] = {EffectID = 1186}, -- Diligent Andre Card
-    [300233] = {EffectID = 1186}, -- Diligent Deniro Card
-    [300234] = {EffectID = 1186}, -- Diligent Piere Card
-    [300236] = {EffectID = 1186}, -- Intrepid Giearth Card
-    [300231] = {EffectID = 1186}, -- Diligent Soldier Andre Card
-    [300238] = {EffectID = 1186}, -- Diligent Vitata Card
-    [300239] = {EffectID = 1186}, -- Silent Maya Card
+	[300237] = {EffectID = 1186}, -- Intrepid Familiar Card
+	[300232] = {EffectID = 1186}, -- Diligent Andre Larva Card
+	[300235] = {EffectID = 1186}, -- Mushy Ant Egg Card
+	[300230] = {EffectID = 1186}, -- Diligent Andre Card
+	[300233] = {EffectID = 1186}, -- Diligent Deniro Card
+	[300234] = {EffectID = 1186}, -- Diligent Piere Card
+	[300236] = {EffectID = 1186}, -- Intrepid Giearth Card
+	[300231] = {EffectID = 1186}, -- Diligent Soldier Andre Card
+	[300238] = {EffectID = 1186}, -- Diligent Vitata Card
+	[300239] = {EffectID = 1186}, -- Silent Maya Card
 
 	-- ####################
 	-- ## Effect Removed ##
