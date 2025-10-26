@@ -1381,5 +1381,13 @@
 4492#봉인된오크히어로카드#     //Orc Hero
 4498#봉인된타니아가씨카드#     //Lady Tanee
 
-//Edited by FishDeity (Oct 1 2025)
+//--October 2025 Kachua Coupon Headgear Jewel Cards (Shard of Stat Jewel): adding to prevent card view crashing game
+27421#sorry#
+27422#sorry#
+27423#sorry#
+27424#sorry#
+27425#sorry#
+27426#sorry#
+
+//Edited by FishDeity (Oct 26 2025)
 //-Custom Edits End Here-
