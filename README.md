@@ -134,7 +134,8 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
 - 2025 Oct 26:
   - **System/iteminfo.lub**: Updated the file to fix Unknown Item apples Beehive Box and Dark Bible.
   - **System/customeffects.lua**: Added Battle Pass 2 Core Data items, Snow Flower stuff, and gems like Amethyst, Aquamarine, and Topaz.
-   - **card_art_missing_added.gpf**: Added Shard of Stat Jewel card views to prevent crashing when clicked. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/bf5a2c4d1ae5f4f708ab7156e531989e96809578) 
+   - **card_art_missing_added.gpf**: Added Shard of Stat Jewel card views to prevent crashing when clicked. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/bf5a2c4d1ae5f4f708ab7156e531989e96809578)
+   - **resource_file_fixes.gpf**: Added missing sprites for Dark Bible.
 - 2025 Oct 24:
   - **bgm_missing_added.gpf**: Using kRO file from October 2025. Added missing iRO maps in there. Rachel Temple map music back to normal since Ocean event is over. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/dcc08e0616f32470402a1ffc4686717ff59a20e1)
   - **card_enchant_prefixes.gpf**: Added Khon, Kankrai, Kradat enchants, October 2025 Kachua Coupon Headgear Jewel cards, Battle Pass Season 2 enchants, Costume Stone Box 35 enchants. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/4a5725e098285c3a1270357c7667dd8ae48406df)
