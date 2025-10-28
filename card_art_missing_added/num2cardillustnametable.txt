@@ -1389,5 +1389,23 @@
 27425#sorry#
 27426#sorry#
 
-//Edited by FishDeity (Oct 26 2025)
+//--Battle Pass 2 [S2] Vellgunde Resonance : adding to prevent card view crashing game
+314679#sorry#
+314680#sorry#
+314681#sorry#
+314682#sorry#
+314683#sorry#
+314684#sorry#
+314685#sorry#
+314686#sorry#
+
+//--Temporal Boots enchants 3rd slot : adding to prevent card view crashing game
+4822#sorry#
+4835#sorry#
+4826#sorry#
+4862#sorry#
+4881#sorry#
+4755#sorry#
+
+//Edited by FishDeity (Oct 27 2025)
 //-Custom Edits End Here-
