@@ -131,6 +131,10 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Nov 5:
+  - **System/customeffects.lua**: Added Ep 19 Dim Glacier weapons, Snow Flower Ore, and Season 2 Battle Pass stuff. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/35b470e0351b01f30c45eb6ce5ae0a424d83c49e)
+  - **card_enchant_prefixes.gpf**: Added 200 enchants. Ep 19 Glacial Flower, Heroic Token, and Unknown Watch enchants. Also renamed Shard of Stat Jewels prefixes. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/49e2c1b813fc45beeffd7de9e9cde1279211ba1b)
+  - **resource_file_fixes.gpf**: Removed Dark Bible sprites because official update includes it now.
 - 2025 Oct 27:
   - **card_art_missing_added.gpf**: Added S2 Vellgunde Resonance card art and Temporal Boot's 4th slot enchants' card art to prevent crashing when clicked. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/b8ba52eedf5c2b8ab48aace5804fa50208477e04)
   - **card_enchant_prefixes.gpf**: Added Episode 19's Ice Snow Flower enchant prefixes. 100 of them! [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/1d7de116e5fe6174e2b623f052f6b70b2155dfaf)
