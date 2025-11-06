@@ -460,6 +460,33 @@ customeffects = {
 	[820006] = {EffectID = 1189}, -- Vivatus Fides Shotgun
 	[830011] = {EffectID = 1189}, -- Vivatus Fides Gatling Gun
 	[840007] = {EffectID = 1189}, -- Vivatus Fides Launcher
+	-- Dim Glacier weapons - EP19
+	[520021] = {EffectID = 1189}, -- Dim Glacier Axe
+	[510076] = {EffectID = 1189}, -- Dim Glacier Basic Knife
+	[500055] = {EffectID = 1189}, -- Dim Glacier Basic Sword
+	[540056] = {EffectID = 1189}, -- Dim Glacier Book
+	[700059] = {EffectID = 1189}, -- Dim Glacier Bow
+	[550090] = {EffectID = 1189}, -- Dim Glacier Foxtail
+	[830015] = {EffectID = 1189}, -- Dim Glacier Gatling Gun
+	[840010] = {EffectID = 1189}, -- Dim Glacier Grenade Launcher
+	[650028] = {EffectID = 1189}, -- Dim Glacier Huuma Shuriken
+	[610041] = {EffectID = 1189}, -- Dim Glacier Katar
+	[560037] = {EffectID = 1189}, -- Dim Glacier Knuckle
+	[630019] = {EffectID = 1189}, -- Dim Glacier Lance
+	[590047] = {EffectID = 1189}, -- Dim Glacier Mace
+	[620019] = {EffectID = 1189}, -- Dim Glacier Mechanic Axe
+	[590048] = {EffectID = 1189}, -- Dim Glacier Mechanic Mace
+	[800015] = {EffectID = 1189}, -- Dim Glacier Revolver
+	[810015] = {EffectID = 1189}, -- Dim Glacier Rifle
+	[510075] = {EffectID = 1189}, -- Dim Glacier Rogue Knife
+	[820011] = {EffectID = 1189}, -- Dim Glacier Shotgun
+	[530034] = {EffectID = 1189}, -- Dim Glacier Spear
+	[640034] = {EffectID = 1189}, -- Dim Glacier Staff
+	[500054] = {EffectID = 1189}, -- Dim Glacier Sword
+	[600030] = {EffectID = 1189}, -- Dim Glacier Two-handed Sword
+	[570032] = {EffectID = 1189}, -- Dim Glacier Violin
+	[550089] = {EffectID = 1189}, -- Dim Glacier Wand
+	[580033] = {EffectID = 1189}, -- Dim Glacier Whip
 
 	-- ######################
 	-- ## Consumable items ##
@@ -613,6 +640,7 @@ customeffects = {
 	[1002425] = {EffectID = 1190}, -- [S2] Mid Grade Core Data
 	[1002426] = {EffectID = 1190}, -- [S2] High Grade Core Data
 	[1000608] = {EffectID = 1869}, -- Snow Flower Petal
+	[1000811] = {EffectID = 1869}, -- Snow Flower Ore
 	[1000812] = {EffectID = 1869}, -- Snow Flower Magic Stone
 	[719] = {EffectID = 1869}, -- Amethyst
 	[720] = {EffectID = 1869}, -- Aquamarine
@@ -734,6 +762,19 @@ customeffects = {
 	[1000503] = {EffectID = 1190}, -- Shroud of Rest
 	[1000372] = {EffectID = 1190}, -- Meteorite Dust
 	[1000373] = {EffectID = 1190}, -- Meteorite Fragment
+
+	-- ###################
+	-- ##   BattlePass  ##
+	-- ###################
+
+	[1002421] = {EffectID = 1870}, -- [S2] Battle Pass Token
+	[105544] = {EffectID = 1871}, -- [S2] Condensed Glacier Core
+	[105598] = {EffectID = 1871}, -- [S2] Research Data I
+	[105597] = {EffectID = 1190}, -- [S2] Research Data II
+	[105596] = {EffectID = 1869}, -- [S2] Research Data III
+	[1002424] = {EffectID = 1869}, -- [S2] Low Grade Core Data
+	[1002425] = {EffectID = 1190}, -- [S2] Mid Grade Core Data
+	[1002426] = {EffectID = 1871}, -- [S2] High Grade Core Data
 
 	-- ###################
 	-- ##   Biosphere   ##
