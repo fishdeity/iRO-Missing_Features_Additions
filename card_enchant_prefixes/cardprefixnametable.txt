@@ -3353,5 +3353,11 @@
 314240#WL#
 314242#Sorc#
 
-//Edited by FishDeity (Nov 5 2025)
+//--Costume Stone Box 36
+313345#PuppyF#
+313359#AM(G)#
+313360#WH(G)#
+313361#SA(G)#
+
+//Edited by FishDeity (Dec 17 2025)
 //-Custom Edits End Here-
