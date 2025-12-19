@@ -28,7 +28,6 @@ This is a collection of bug fixes and additions for Ragnarok Online (iRO specifi
   - Missing Doram Garment Sprites like Amistr Bag
   - Missing map name pop up for some people, and more.
 - **signboardList_Mosu.gpf**: Mini maps that are missing some clickable NPCs, like Ep 18 warp npc, are now added. Credits to Mosu
-- **skill_fixes.gpf**: Fixes some skill descriptions.
 - **zoom_farther_out.gpf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
   - This is buggy on Taekwon Kid, Master, and Star Emperor classes. It is fixed at 4th job as Sky Emperor.
@@ -92,24 +91,6 @@ Note instructions work only for files ending with .gpf or .grf
     - If there any issues, you can swap back to your backup copy data.grf
     - If you wish to get notifications on when edits are updated, join my discord, go to #roles, and react to the 🔔
       - Discord invite:   [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
-
-### Adding for GPF Types (Alternate Method) ###
-*Note this method no longer works since July 2025 since they changed GRF from format 0x200 to 0x300. <br>
-*Note that this process has many possible ways to do, this is just 1 example.
-1. In the code section above, press the green button **Code**, choose **Download ZIP**, then extract the zip file.
-3. Make a backup copy of your iRO's **data.grf** in case you mess up.
-4. Close all iRO game clients.
-5. Move each .gpf you want added to your game into **iRO-Missing_Features_Additions-master**'s **tools** folder.
-6. Go into iRO folder and move **data.grf** into that tools folder.
-7. Run **merge_gpf_into_data_grf.bat**, a command prompt should open, press 1, and follow the instructions on there.
-8. Now move **data.grf** back into the iRO folder.
-9. Open the game and test it out! If there any issues, you can swap back to your backup copy data.grf by renaming it back to data.grf
-    - You can now delete those downloaded files earlier.
-    - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
-
-### Adding for GPF Types (iRO Wiki QoL Patcher Method) ###
-*Note this method actually adds all the gpf edits and light beam edits from customeffects.lua and customsprites.lua
-1. See the full instructions here: https://irowiki.org/wiki/Clients_and_Patches#iRO_Wiki_QoL_Patcher
 
 ### Adding for Non-GPF Types ###
 - #### **System/unidentified_shows_item.zip** ####
