@@ -8,7 +8,6 @@
 [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
 
 This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are below. <br>
-iRO players should really consider using the [iRO Wiki QoL patcher](https://irowiki.org/wiki/Clients_and_Patches#iRO_Wiki_QoL_Patcher) instead to get all these edits much easier.
 
 ### GPF Types ###
 - **bgm_missing_added.gpf**: Adds and replaces several maps' BGM to proper sound, like Eden 2F's BGM is changed to Morroc music instead of login.
@@ -28,7 +27,7 @@ iRO players should really consider using the [iRO Wiki QoL patcher](https://irow
 - **resource_file_fixes.gpf**: Files that are missing and fail to load and appear as red text in chat box have been added.
   - Missing Doram Garment Sprites like Amistr Bag
   - Missing map name pop up for some people, and more.
-- **skill_fixes.gpf**: Fixes some skill descriptions.
+- **signboardList_Mosu.gpf**: Mini maps that are missing some clickable NPCs, like Ep 18 warp npc, are now added. Credits to Mosu
 - **zoom_farther_out.gpf**: More flexibility with zooming in, out, angled, and default zoom in each map! Check inside GRF for details.
   - Note that double right click to reset camera angle is disabled.
   - This is buggy on Taekwon Kid, Master, and Star Emperor classes. It is fixed at 4th job as Sky Emperor.
@@ -93,24 +92,6 @@ Note instructions work only for files ending with .gpf or .grf
     - If you wish to get notifications on when edits are updated, join my discord, go to #roles, and react to the 🔔
       - Discord invite:   [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
 
-### Adding for GPF Types (Alternate Method) ###
-*Note this method no longer works since July 2025 since they changed GRF from format 0x200 to 0x300. <br>
-*Note that this process has many possible ways to do, this is just 1 example.
-1. In the code section above, press the green button **Code**, choose **Download ZIP**, then extract the zip file.
-3. Make a backup copy of your iRO's **data.grf** in case you mess up.
-4. Close all iRO game clients.
-5. Move each .gpf you want added to your game into **iRO-Missing_Features_Additions-master**'s **tools** folder.
-6. Go into iRO folder and move **data.grf** into that tools folder.
-7. Run **merge_gpf_into_data_grf.bat**, a command prompt should open, press 1, and follow the instructions on there.
-8. Now move **data.grf** back into the iRO folder.
-9. Open the game and test it out! If there any issues, you can swap back to your backup copy data.grf by renaming it back to data.grf
-    - You can now delete those downloaded files earlier.
-    - merge_gpf_into_data_grf.bat and rsumerge.exe are suggested to be kept in case for future use again.
-
-### Adding for GPF Types (iRO Wiki QoL Patcher Method) ###
-*Note this method actually adds all the gpf edits and light beam edits from customeffects.lua and customsprites.lua
-1. See the full instructions here: https://irowiki.org/wiki/Clients_and_Patches#iRO_Wiki_QoL_Patcher
-
 ### Adding for Non-GPF Types ###
 - #### **System/unidentified_shows_item.zip** ####
   1. Download my [zip file](https://github.com/fishdeity/iRO-Missing_Features_Additions/blob/master/System/unidentified_shows_item.zip) and extract. 
@@ -131,6 +112,11 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Dec 17:
+  - **bgm_missing_added.gpf**: BGM fix updated thanks to Vividort. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/20380e0c1affd618ef99e248b09af93c4ad9b1a8)
+  - **card_enchant_prefixes.gpf**: Added Costume Stone Box 36 enchants. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/2284f2df8163373508a7a238433d1c15cbb65c84)
+  - **maps_added_and_fixed.gpf**: Ein_fild03, 04, 08 mini maps marked with portals to Heart Hunter, Amicitia, OS added. Credits to Mosu
+  - **signboardList_Mosu.gpf**: Mini maps that had missing clickable npcs have been added, at least some have. Credits to Mosu.
 - 2025 Nov 5:
   - **System/customeffects.lua**: Added Ep 19 Dim Glacier weapons, Snow Flower Ore, and Season 2 Battle Pass stuff. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/35b470e0351b01f30c45eb6ce5ae0a424d83c49e)
   - **card_enchant_prefixes.gpf**: Added 200 enchants. Ep 19 Glacial Flower, Heroic Token, and Unknown Watch enchants. Also renamed Shard of Stat Jewels prefixes. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/49e2c1b813fc45beeffd7de9e9cde1279211ba1b)
@@ -219,6 +205,7 @@ If any issues, Discord message me at 2Lazy2MakeAName.
 - ShinRai for skillsinfo edit
 - Kutz and Sanggoro for helping to enlargen sprites.
 - Mayo for help with things such as with the varmundt biosphere update 2 enchants.
+- Mosu for working on signboardlist grf
 
 # Sample Pictures #
 indoors_view_no_lock.gpf (for normal camera view): <br>
