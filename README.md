@@ -115,6 +115,7 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
 - 2025 Dec 17:
   - **bgm_missing_added.gpf**: BGM fix updated thanks to Vividort. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/20380e0c1affd618ef99e248b09af93c4ad9b1a8)
   - **card_enchant_prefixes.gpf**: Added Costume Stone Box 36 enchants. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/2284f2df8163373508a7a238433d1c15cbb65c84)
+  - **maps_added_and_fixed.gpf**: Ein_fild03, 04, 08 mini maps marked with portals to Heart Hunter, Amicitia, OS added. Credits to Mosu
   - **signboardList_Mosu.gpf**: Mini maps that had missing clickable npcs have been added, at least some have. Credits to Mosu.
 - 2025 Nov 5:
   - **System/customeffects.lua**: Added Ep 19 Dim Glacier weapons, Snow Flower Ore, and Season 2 Battle Pass stuff. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/35b470e0351b01f30c45eb6ce5ae0a424d83c49e)
