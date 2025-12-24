@@ -616,12 +616,12 @@ SignBoardList = {
 	},
 	{
 		"aldebaran",
-		168,
-		168,
+		223, --changed
+		222, --changed
 		10,
 		IT_SIGNBOARD,
 		"유저인터페이스\\item\\ship_ticket.bmp",
-		"  Destination: Rutie",
+		"  Destination: Lutie", --changed
 		"#0x00FFFFFF"
 	},
 	{
@@ -1444,6 +1444,10 @@ SignBoardList = {
 		"S2 Daily Quest",
 		"#0x00FFFFFF"
 	},
+
+	--Custom Edits
+
+	--by Mosu
 	{
 		"mid_camp",
 		62,
@@ -1741,14 +1745,54 @@ SignBoardList = {
 		"  Geffen Magic Tournament",
 		"#0x00FFFFFF"
 	},
+
+	--by FishDeity
+	---The sections below were changed in the file above
+	
+	----search up Rutie
 	{
 		"aldebaran",
-		223,
-		222,
+		223, --changed
+		222, --changed
 		10,
 		IT_SIGNBOARD,
 		"유저인터페이스\\item\\ship_ticket.bmp",
-		"  Destination: Lutie",
+		"  Destination: Lutie", --changed
+		"#0x00FFFFFF"
+	},
+	
+	---These are added
+	{
+		"prontera",
+		183,
+		328,
+		0,
+		IT_SIGNBOARD,
+		"item\\gd_kafracontract.bmp",
+		"  Daily Login Manager",
+		"#0x00FFFFFF"
+	},
+	{
+		"prontera",
+		180,
+		328,
+		0,
+		IT_SIGNBOARD,
+		"item\\su_soulattack.bmp",
+		"  Kachua Milage Coupon",
+		"#0x00FFFFFF"
+	},
+	{
+		"prontera",
+		177,
+		328,
+		0,
+		IT_SIGNBOARD,
+		"item\\so_summon_agni.bmp",
+		"  Enchant Ticket System",
 		"#0x00FFFFFF"
 	}
+	
+	--Edited by Mosu, FishDeity (Dec 23 2025)
+	--Custom Edits end
 }
