@@ -7,7 +7,9 @@
 # Purpose #
 [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
 
-This is a collection of bug fixes and additions for Ragnarok Online (iRO specifically). Specifics for each file are below. <br>
+This is a collection of bug fixes and edit additions for Ragnarok Online (iRO specifically). Specifics for each file are below. <br>
+
+Note: Players are suggested to use the FishPatcher for easy edits while those that want to pick which to get should use the original method with GRF Editor. <br>
 
 ### GPF Types ###
 - **bgm_missing_added.gpf**: Adds and replaces several maps' BGM to proper sound, like Eden 2F's BGM is changed to Morroc music instead of login.
@@ -92,6 +94,9 @@ Note instructions work only for files ending with .gpf or .grf
     - If you wish to get notifications on when edits are updated, join my discord, go to #roles, and react to the 🔔
       - Discord invite:   [![FishDeity iRO GRF Edits](https://discordapp.com/api/guilds/1149550005674328114/widget.png?style=shield)](https://discord.gg/UBjTpErdQU)
 
+### FishPatcher Method ###
+This replaces the irowiki qol patcher since it is now outdated and not maintained. Big credits to Pingaify for making this.
+
 ### Adding for Non-GPF Types ###
 - #### **System/unidentified_shows_item.zip** ####
   1. Download my [zip file](https://github.com/fishdeity/iRO-Missing_Features_Additions/blob/master/System/unidentified_shows_item.zip) and extract. 
@@ -112,6 +117,11 @@ Note instructions work only for files ending with .gpf or .grf
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2025 Dec 23:
+  - **iROFishPatcher/**: FishPatcher has been added to replace outdated iRO Wiki's QoL Patcher. Process is similar; download the zip, extract all contents into your RO folder, then run the FishPatcher. Big credits to Pingaify.
+  - **big_other_items.gpf**: Many items from S2 Battle Pass, Ep 19 Dim Glacier weapons, OCA, Santa Hat & Sock added. Credits to Xerxes.
+  - **signboardList_Mosu.gpf**: Updated to include the Prontera Kachua Mileage npc.
+  - **backup_of_originals/ndl_off_lub_version.gpf**: Added for those that want to disable NDL from FishPatcher.
 - 2025 Dec 17:
   - **bgm_missing_added.gpf**: BGM fix updated thanks to Vividort. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/20380e0c1affd618ef99e248b09af93c4ad9b1a8)
   - **card_enchant_prefixes.gpf**: Added Costume Stone Box 36 enchants. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/2284f2df8163373508a7a238433d1c15cbb65c84)
@@ -189,7 +199,7 @@ If interested to learn more how to use **GRF Editor**, check out a tutorial like
 If any issues, Discord message me at 2Lazy2MakeAName.
 
 # Special Thanks #
-- Pingaify for helping keep many files up to date, creating the iROWiki QoL Patcher, making mvp card art as sprites.
+- Pingaify for helping keep many files up to date, creating the Fish Patcher, making mvp card art as sprites.
 - [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
 - https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
 - zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
@@ -206,6 +216,7 @@ If any issues, Discord message me at 2Lazy2MakeAName.
 - Kutz and Sanggoro for helping to enlargen sprites.
 - Mayo for help with things such as with the varmundt biosphere update 2 enchants.
 - Mosu for working on signboardlist grf
+- Xerxes for making some BP2 and other items big
 
 # Sample Pictures #
 indoors_view_no_lock.gpf (for normal camera view): <br>
