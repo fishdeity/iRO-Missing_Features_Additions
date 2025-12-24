@@ -98,7 +98,11 @@ Note instructions work only for files ending with .gpf or .grf
 ### FishPatcher Method ###
 This replaces the irowiki qol patcher since it is now outdated and not maintained. Big credits to Pingaify for making this.
 1. Download the [zip file](https://github.com/fishdeity/iRO-Missing_Features_Additions/blob/master/iROFishPatcher/iROFishPatcher.zip) and extract all its contents into your RO folder.
-2. Always run official patcher Ragnarok.exe first to see if any patches. Then run FishPatcher.exe afterwards.
+   <img width="616" height="304" alt="image" src="https://github.com/user-attachments/assets/fcb4c10e-3256-4714-accf-31d0ca7927c3" />
+   <img width="913" height="567" alt="image" src="https://github.com/user-attachments/assets/1816c2bc-faac-44e2-8870-4df752f0a81a" />
+
+
+3. Always run official patcher Ragnarok.exe first to see if any patches. Then run FishPatcher.exe afterwards.
    <img width="673" height="555" alt="image" src="https://github.com/user-attachments/assets/a6cbf5c2-b1c8-40fd-b6db-32d91b23992a" />
 
 4. Feel free to open the game now with official patcher.
