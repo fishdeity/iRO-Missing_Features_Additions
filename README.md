@@ -1,6 +1,7 @@
 # Table of Contents Mini #
 [Purpose](#purpose) <br>
-[Installation Steps - Original Method](#adding-for-gpf-types-original-method) <br>
+[Add Edits - Original Method](#adding-for-gpf-types-original-method) <br>
+[Add Edits - Fish Patcher Method](#fishpatcher-method) <br>
 [Changelog](#changelog) <br>
 [Sample Pictures](#sample-pictures) <br>
 
