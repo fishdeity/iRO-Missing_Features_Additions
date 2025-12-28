@@ -622,12 +622,12 @@ SignBoardList = {
 	},
 	{
 		"aldebaran",
-		168,
-		168,
+		223,
+		221,
 		10,
 		IT_SIGNBOARD,
 		"유저인터페이스\\item\\ship_ticket.bmp",
-		"  Destination: Rutie",
+		"  Destination: Lutie",
 		"#0x00FFFFFF"
 	},
 	{
