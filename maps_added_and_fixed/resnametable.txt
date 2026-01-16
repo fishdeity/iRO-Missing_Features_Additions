@@ -2755,6 +2755,76 @@ bphunt_high.gat#hu_fild03.gat#
 bphunt_high.rsw#hu_fild03.rsw#
 유저인터페이스\map\bphunt_high.bmp#유저인터페이스\map\hu_fild03.bmp#
 
+//2025 3Q UPDATE
+// 환상총서 1차 - 금수저 영애님
+1@vrcas.gnd#1@vrcas.gnd#
+1@vrcas.gat#1@vrcas.gat#
+1@vrcas.rsw#1@vrcas.rsw#
+유저인터페이스\map\1@vrcas.bmp#유저인터페이스\map\1@vrcas.bmp#
+// 환상총서 1차 - 엘레나 볼코바, 그 위대한 불꽃
+1@vrev.gnd#1@vrev.gnd#
+1@vrev.gat#1@vrev.gat#
+1@vrev.rsw#1@vrev.rsw#
+유저인터페이스\map\1@vrev.bmp#유저인터페이스\map\1@vrev.bmp#
+// 환상총서 1차 - 식물 실무
+1@vrgen.gnd#1@vrgen.gnd#
+1@vrgen.gat#1@vrgen.gat#
+1@vrgen.rsw#1@vrgen.rsw#
+유저인터페이스\map\1@vrgen.bmp#유저인터페이스\map\1@vrgen.bmp#
+// 환상총서 2차 - 엔젤링 키우기 ~꿈꾸는 포링~
+1@vrpo.gnd#1@vrpo.gnd#
+1@vrpo.gat#1@vrpo.gat#
+1@vrpo.rsw#1@vrpo.rsw#
+유저인터페이스\map\1@vrpo.bmp#유저인터페이스\map\1@vrpo.bmp#
+// 환상총서 3차 - 거울 수도원
+1@vrclo.gnd#1@vrclo.gnd#
+1@vrclo.gat#1@vrclo.gat#
+1@vrclo.rsw#1@vrclo.rsw#
+유저인터페이스\map\1@vrclo.bmp#유저인터페이스\map\1@vrclo.bmp#
+2@vrclo.gnd#2@vrclo.gnd#
+2@vrclo.gat#2@vrclo.gat#
+2@vrclo.rsw#2@vrclo.rsw#
+유저인터페이스\map\2@vrclo.bmp#유저인터페이스\map\2@vrclo.bmp#
+// 환상총서 3차 - 나 혼자 순혈인간&순혈인간-금서판
+1@vrhha.gnd#1@vrhha.gnd#
+1@vrhha.gat#1@vrhha.gat#
+1@vrhha.rsw#1@vrhha.rsw#
+유저인터페이스\map\1@vrhha.bmp#유저인터페이스\map\1@vrhha.bmp#
+// 환상총서 3차 - 크리투라 업무편람
+1@vrac1.gnd#1@vrac1.gnd#
+1@vrac1.gat#1@vrac1.gat#
+1@vrac1.rsw#1@vrac1.rsw#
+유저인터페이스\map\1@vrac1.bmp#유저인터페이스\map\1@vrac1.bmp#
+1@vrac2.gnd#1@vrac2.gnd#
+1@vrac2.gat#1@vrac2.gat#
+1@vrac2.rsw#1@vrac2.rsw#
+유저인터페이스\map\1@vrac2.bmp#유저인터페이스\map\1@vrac2.bmp#
+// 시간의 정원 - 생명의 전당
+1@ba_go.gnd#1@ba_go.gnd#
+1@ba_go.gat#1@ba_go.gat#
+1@ba_go.rsw#1@ba_go.rsw#
+유저인터페이스\map\1@ba_go.bmp#유저인터페이스\map\1@ba_go.bmp#
+// 시간의 정원 - 불의 호수
+1@f_lake.gnd#1@f_lake.gnd#
+1@f_lake.gat#1@f_lake.gat#
+1@f_lake.rsw#1@f_lake.rsw#
+유저인터페이스\map\1@f_lake.bmp#유저인터페이스\map\1@f_lake.bmp#
+//2025 3Q UPDATE end
+
+// 내비추출용
+vrcas.gnd#vrcas.gnd#
+vrcas.gat#vrcas.gat#
+vrcas.rsw#vrcas.rsw#
+유저인터페이스\map\1@vrcas.bmp#유저인터페이스\map\1@vrcas.bmp#
+vrac1.gnd#vrac1.gnd#
+vrac1.gat#vrac1.gat#
+vrac1.rsw#vrac1.rsw#
+유저인터페이스\map\1@vrac1.bmp#유저인터페이스\map\1@vrac1.bmp#
+vrac2.gnd#vrac2.gnd#
+vrac2.gat#vrac2.gat#
+vrac2.rsw#vrac2.rsw#
+유저인터페이스\map\1@vrac2.bmp#유저인터페이스\map\1@vrac2.bmp#
+
 //Custom Edits
 
 //this file tells each ingame map where to look for the mini map file
@@ -2776,5 +2846,5 @@ bphunt_high.rsw#hu_fild03.rsw#
 유저인터페이스\map\1@pump.bmp#유저인터페이스\map\1@pump.bmp#
 유저인터페이스\map\2@pump.bmp#유저인터페이스\map\2@pump.bmp#
 
-//Edited by FishDeity (Sept 17 2025)
+//Edited by FishDeity (Jan 16 2026)
 //Custom Edits end
