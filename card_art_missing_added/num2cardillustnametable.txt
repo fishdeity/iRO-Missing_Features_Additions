@@ -586,8 +586,8 @@
 4584#머너넝걸카드#
 4585#멍쿠쿠럼카드#
 4586#틱버렁카드#
-4587#티억넠카드#
-4588#웤웤카드#
+4587#티억넉카드#
+4588#웍웍카드#
 4589#제제링카드#
 4590#벙웅곳카드#
 4591#버코너워카드#
@@ -1321,6 +1321,22 @@
 //live mantis 184954
 4493#봉인된타오군카카드#
 
+//2025 3Q UPDATE
+//환상총서 버프 아이템 - 2부
+101705#F_VR_Book006#
+101706#F_VR_Book007#
+
+//환상총서 버프 아이템 - 3부
+101835#F_VR_Book005#
+101837#F_VR_Book008#
+101834#F_VR_Book009#
+
+//룬 타블렛 전용 카드
+300482#sorry#
+27025#망자의군주카드#
+
+//2025 3Q UPDATE end
+
 //-Custom Edits-
 
 //--Sealed MVPs : Sorry images replaced
@@ -1374,9 +1390,6 @@
 4879#sorry#
 4880#sorry#
 
-//--Dead King Card : were missing but now added
-27025#망자의군주카드#
-
 //--Missing Sealed MVP cards added
 4492#봉인된오크히어로카드#     //Orc Hero
 4498#봉인된타니아가씨카드#     //Lady Tanee
@@ -1407,5 +1420,5 @@
 4881#sorry#
 4755#sorry#
 
-//Edited by FishDeity (Oct 27 2025)
+//Edited by FishDeity (Jan 16 2026)
 //-Custom Edits End Here-
