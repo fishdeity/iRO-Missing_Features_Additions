@@ -1176,6 +1176,10 @@
 //live mantis 184954
 4493#Half-High Risk#
 
+//2025 3Q UPDATE
+//룬�?블렛 ?�스??
+300482#Useless#
+
 //-Custom Edits-
 
 //--Flame Basin cards missing
@@ -3359,5 +3363,5 @@
 313360#WH(G)#
 313361#SA(G)#
 
-//Edited by FishDeity (Dec 17 2025)
+//Edited by FishDeity (Jan 16 2026)
 //-Custom Edits End Here-
