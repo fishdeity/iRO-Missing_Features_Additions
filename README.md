@@ -127,6 +127,64 @@ This replaces the irowiki qol patcher since it is now outdated and not maintaine
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2026 Jan 16:
+  - **big_other_items.gpf**: Removed Santa Hat
+  - **card_art_missing_added.gpf**: Garden of Time update.
+  - **card_enchant_prefixes.gpf**: Garden of Time update. New enchants added next time.
+  - **maps_added_and_fixed.gpf**: New update mini maps added.
+  - **zoom_farther_out.gpf**: New maps added to zoom.
+
+For previous changes, scroll all the way down.
+
+# Etc #
+If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
+
+# Contact #
+If any issues, Discord message me at 2Lazy2MakeAName.
+
+# Special Thanks #
+- Pingaify for helping keep many files up to date, creating the Fish Patcher, making mvp card art as sprites.
+- [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
+- https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
+- zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
+  - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
+  - and his repository: https://github.com/wolfchev?tab=repositories
+- rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
+- [llchrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
+- Cate for info on fixing lvl 200 aura
+- Angux for the bigger Einbech 3 ores and helping with the customsprites.lua code
+- Blink for more mini maps and the file that tells the game where to look for each map's mini map
+- k.a for his eden view premium and bigger bio5 frags
+- Vividort and Yongky for contribution to more edits
+- ShinRai for skillsinfo edit
+- Kutz and Sanggoro for helping to enlargen sprites.
+- Mayo for help with things such as with the varmundt biosphere update 2 enchants.
+- Mosu for working on signboardlist grf
+- Xerxes for making some BP2 and other items big
+
+# Sample Pictures #
+indoors_view_no_lock.gpf (for normal camera view): <br>
+eden_textures_premium.gpf (for different color):
+
+![Eden view](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/290f74b5-73d6-451f-9330-c0c191daf12c)
+
+card_enchant_prefixes.gpf:
+
+![Enchants in Name 2](https://user-images.githubusercontent.com/56460323/146634561-c6cf520a-8351-4543-a911-7cf4d1927c19.jpg)
+
+zoom_farther_out.gpf:
+
+![super zoom](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b3535887-7b51-4c34-bffb-5fcb3e02f835)
+
+maps_added_and_fixed.gpf:
+
+![et map](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/247bda36-98c0-433f-83b4-382f432fa380)
+
+card_art_missing_added.gpf:
+
+![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
+
+# Changelog (Previous) #
 - 2025 Dec 23:
   - **iROFishPatcher/**: FishPatcher has been added to replace outdated iRO Wiki's QoL Patcher. Process is similar; download the zip, extract all contents into your RO folder, then run the FishPatcher. Big credits to Pingaify.
   - **big_other_items.gpf**: Many items from S2 Battle Pass, Ep 19 Dim Glacier weapons, OCA, Santa Hat & Sock added. Credits to Xerxes.
@@ -199,58 +257,6 @@ Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additio
       - **customeffects.lua**: Change Weakened Fenrir Card to orange light and no ding sound.
     - **card_art_missing_added.gpf**: Copy pasted edits to updated file: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/4c5ea0298828d18479e4c7514f2a57347961c25f)
     - **card_enchant_prefixes.gpf**: Big help from Mayo, added 260 new enchants: [details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/ddadaff9027fab9afd5dff96d2b22bfe5b3bb1e0)
-
-For previous changes, scroll all the way down.
-
-# Etc #
-If interested to learn more how to use **GRF Editor**, check out a tutorial like this one: https://youtu.be/ONG9CcFcVK0
-
-# Contact #
-If any issues, Discord message me at 2Lazy2MakeAName.
-
-# Special Thanks #
-- Pingaify for helping keep many files up to date, creating the Fish Patcher, making mvp card art as sprites.
-- [Tokei](https://rathena.org/board/files/file/2766-grf-editor/) for making and sharing GRF Editor!
-- https://kawaii-rage.com/grfs/ for lots of the mini maps, big card grf, and more!
-- zyn for sharing and updating the unidentified_shows_item.zip file and for the big changes! 
-  - check out his youtube channel here: https://www.youtube.com/@zynzynzyn
-  - and his repository: https://github.com/wolfchev?tab=repositories
-- rsu.merge (source: https://nn.ai4rei.net/dev/rotools/)
-- [llchrisll](https://github.com/llchrisll/ROenglishRE) for his customeffects.lua
-- Cate for info on fixing lvl 200 aura
-- Angux for the bigger Einbech 3 ores and helping with the customsprites.lua code
-- Blink for more mini maps and the file that tells the game where to look for each map's mini map
-- k.a for his eden view premium and bigger bio5 frags
-- Vividort and Yongky for contribution to more edits
-- ShinRai for skillsinfo edit
-- Kutz and Sanggoro for helping to enlargen sprites.
-- Mayo for help with things such as with the varmundt biosphere update 2 enchants.
-- Mosu for working on signboardlist grf
-- Xerxes for making some BP2 and other items big
-
-# Sample Pictures #
-indoors_view_no_lock.gpf (for normal camera view): <br>
-eden_textures_premium.gpf (for different color):
-
-![Eden view](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/290f74b5-73d6-451f-9330-c0c191daf12c)
-
-card_enchant_prefixes.gpf:
-
-![Enchants in Name 2](https://user-images.githubusercontent.com/56460323/146634561-c6cf520a-8351-4543-a911-7cf4d1927c19.jpg)
-
-zoom_farther_out.gpf:
-
-![super zoom](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/b3535887-7b51-4c34-bffb-5fcb3e02f835)
-
-maps_added_and_fixed.gpf:
-
-![et map](https://github.com/fishdeity/iRO-Missing_Features_Additions/assets/56460323/247bda36-98c0-433f-83b4-382f432fa380)
-
-card_art_missing_added.gpf:
-
-![Card Sorry Fixed](https://user-images.githubusercontent.com/56460323/146634564-fe3ccbfc-f8fd-4dcb-81a9-0d90a09c4a95.jpg)
-
-# Changelog (Previous) #
 - 2025 April 19:
   - System/
     - **customeffects.lua**: Added Biosphere update 2 drops to have light. Thanks to Mayo for the help!
