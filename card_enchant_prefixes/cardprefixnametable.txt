@@ -1180,6 +1180,30 @@
 //Î£¨Ì?Î∏îÎ†õ ?úÏä§??
 300482#Useless#
 
+//2026 1Q UPDATE
+//?êÌîº?åÎìú 20
+300455#Copo#
+300456#of Cool Egg#
+300457#of Gray Wind#
+300458#of White Wind#
+300459#of Rgan#
+300460#Spell Force#
+300461#Faker#
+300462#Sorceric#
+300463#Impure#
+300464#of Impure#
+300465#of Guardian#
+300466#Cleaning#
+300467#of Slug#
+300468#Snowing#
+300469#Melibe#
+300470#Ice Bear#
+300471#Fallen#
+300472#of Demigod#
+300473#of Angel Storm#
+300474#Chief#
+//2026 1Q UPDATE end
+
 //-Custom Edits-
 
 //--Flame Basin cards missing
@@ -3363,5 +3387,64 @@
 313360#WH(G)#
 313361#SA(G)#
 
-//Edited by FishDeity (Jan 16 2026)
+//--August 2025 Footprints
+313067#PurStarF#
+313068#YelStarF#
+
+//--September 2025 Footprints
+314212#NyaBlueF#
+314213#NyaPurF#
+314214#DivLiF#
+
+//--Good and Evil enchants part 2
+312424#GV(SA)#
+312427#EV(SA)#
+312451#GV(SH)#
+312452#EV(SH)#
+312641#GV(SkE)#
+312644#EV(SkE)#
+312651#GV(Shi)#
+312654#EV(Shi)#
+312689#GV(HN)#
+312690#EV(HN)#
+312805#GV(NW)#
+312806#EV(NW)#
+
+//--Dim Crystal enchants
+300784#SXDC#
+300785#ShiDC#
+314811#ACDC#
+314812#InqDC#
+314821#WHDC#
+314904#CardiDC#
+314905#MeiDC#
+314906#TrouDC#
+314985#AMDC#
+314986#DKDC#
+
+//--April 2026 Footprints
+313066#TorF#
+314846#BluStarF#
+314847#DivBluLiF#
+
+/--Dim Crystal enchants part 2
+315109#IGDC#
+315110#HNDC#
+315111#SkEDC#
+315112#EMDC#
+315113#WHDGC#
+
+//--Cherry Blossom Footprint
+313953#CheBloF#
+
+//--Dim Crystal enchants part 3
+315161#SHDC#
+315162#BioloDC#
+315163#NWDC#
+315164#SADC#
+
+//--Garden of Time Enchants Missing
+//--Ep 20 Enchants Missing 
+
+//Edited by FishDeity (June 4 2026)
 //-Custom Edits End Here-
