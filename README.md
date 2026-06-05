@@ -127,6 +127,12 @@ This replaces the irowiki qol patcher since it is now outdated and not maintaine
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2026 June 4:
+  - Ep 20 update
+  - **card_art_missing_added.gpf**: Updated with Ep 20 cards. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/1f14bc5190549dd62374cef5fdc8fe73f0e8ea1a)
+  - **card_enchant_prefixes.gpf**: Updated with Ep 20 cards and added a bunch of missing enchants from previous months. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/38ced7fd85c9bb1d49604b4d2bbe387cc0f47ffc)
+  - **maps_added_and_fixed.gpf**: Added Ep 20 mini maps.
+  - **zoom_farther_out.gpf**: Added zoom for new Ep 20 maps. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/985bb435e10e40affa7f4ec8729043a59b9f77ca)
 - 2026 Jan 16:
   - **big_other_items.gpf**: Removed Santa Hat
   - **card_art_missing_added.gpf**: Garden of Time update.
