@@ -788,7 +788,7 @@ questsign.rsw#que_sign01.rsw#
 2@nyd.gnd#2@nyd.gnd#
 2@nyd.gat#2@nyd.gat#
 2@nyd.rsw#2@nyd.rsw#
-유저인터페이스\map\2@nyd.bmp#유저인터페이스\map\2@nyd.bmp#
+유저인터페이스\map\2@nyd.bmp#유저인터페이스\map\1@nyd.bmp#
 
 bat_c02.gnd#bat_c01.gnd#
 bat_c02.gat#bat_c01.gat#
@@ -917,20 +917,20 @@ que_qaru05.rsw#que_qsch01.rsw#
 arug_cas04.gnd#arug_cas03.gnd#
 arug_cas04.gat#arug_cas03.gat#
 arug_cas04.rsw#arug_cas03.rsw#
-유저인터페이스\map\arug_cas04.bmp#유저인터페이스\map\arug_cas04.bmp#
+유저인터페이스\map\arug_cas04.bmp#유저인터페이스\map\arug_cas03.bmp#
 arug_cas05.gnd#arug_cas03.gnd#
 arug_cas05.gat#arug_cas03.gat#
 arug_cas05.rsw#arug_cas03.rsw#
-유저인터페이스\map\arug_cas05.bmp#유저인터페이스\map\arug_cas05.bmp#
+유저인터페이스\map\arug_cas05.bmp#유저인터페이스\map\arug_cas03.bmp#
 
 schg_cas04.gnd#schg_cas01.gnd#
 schg_cas04.gat#schg_cas01.gat#
 schg_cas04.rsw#schg_cas01.rsw#
-유저인터페이스\map\schg_cas04.bmp#유저인터페이스\map\schg_cas04.bmp#
+유저인터페이스\map\schg_cas04.bmp#유저인터페이스\map\schg_cas01.bmp#
 schg_cas05.gnd#schg_cas01.gnd#
 schg_cas05.gat#schg_cas01.gat#
 schg_cas05.rsw#schg_cas01.rsw#
-유저인터페이스\map\schg_cas05.bmp#유저인터페이스\map\schg_cas05.bmp#
+유저인터페이스\map\schg_cas05.bmp#유저인터페이스\map\schg_cas01.bmp#
 
 que_moc_16.gnd#in_moc_16.gnd#
 que_moc_16.gat#in_moc_16.gat#
@@ -1952,7 +1952,7 @@ ecl_tdun03.rsw#ecl_tdun03.rsw#
 dali02.gnd#dali.gnd#
 dali02.gat#dali.gat#
 dali02.rsw#dali.rsw#
-유저인터페이스\map\dali02.bmp#유저인터페이스\map\dali02.bmp#
+유저인터페이스\map\dali02.bmp#유저인터페이스\map\dali.bmp#
 
 1@tnm1.gnd#1@tnm1.gnd#
 1@tnm1.gat#1@tnm1.gat#
@@ -2825,6 +2825,43 @@ vrac2.gat#vrac2.gat#
 vrac2.rsw#vrac2.rsw#
 유저인터페이스\map\1@vrac2.bmp#유저인터페이스\map\1@vrac2.bmp#
 
+//2026 1Q UPDATE
+// Episode 20 죽지 않는 자 - 끈적이는 바다
+1@slug.gnd#1@slug.gnd#
+1@slug.gat#1@slug.gat#
+1@slug.rsw#1@slug.rsw#
+유저인터페이스\map\1@slug.bmp#유저인터페이스\map\1@slug.bmp#
+// Episode 20 죽지 않는 자 - 유빙 지대
+1@twsd.gnd#1@twsd.gnd#
+1@twsd.gat#1@twsd.gat#
+1@twsd.rsw#1@twsd.rsw#
+유저인터페이스\map\1@twsd.bmp#유저인터페이스\map\1@twsd.bmp#
+// Episode 20 죽지 않는 자 - 죽지 않는 자 / 죽지 않는 자(상급)
+1@twbs.gnd#1@twbs.gnd#
+1@twbs.gat#1@twbs.gat#
+1@twbs.rsw#1@twbs.rsw#
+유저인터페이스\map\1@twbs.bmp#유저인터페이스\map\1@ch_t.bmp#
+// Episode 20 죽지 않는 자 - 분리된 성소
+1@twas.gnd#1@twas.gnd#
+1@twas.gat#1@twas.gat#
+1@twas.rsw#1@twas.rsw#
+유저인터페이스\map\1@twas.bmp#유저인터페이스\map\1@ch_t.bmp#
+// Episode 20 죽지 않는 자 - 협곡 탐사
+1@20cn1.gnd#1@20cn1.gnd#
+1@20cn1.gat#1@20cn1.gat#
+1@20cn1.rsw#1@20cn1.rsw#
+유저인터페이스\map\1@20cn1.bmp#유저인터페이스\map\1@20cn1.bmp#
+1@20cn2.gnd#1@20cn2.gnd#
+1@20cn2.gat#1@20cn2.gat#
+1@20cn2.rsw#1@20cn2.rsw#
+유저인터페이스\map\1@20cn2.bmp#유저인터페이스\map\1@20cn2.bmp#
+// Episode 20 죽지 않는 자 - 작은 가지의 둥지
+1@twig.gnd#1@twig.gnd#
+1@twig.gat#1@twig.gat#
+1@twig.rsw#1@twig.rsw#
+유저인터페이스\map\1@twig.bmp#유저인터페이스\map\1@twig.bmp#
+//2026 1Q UPDATE end
+
 //Custom Edits
 
 //this file tells each ingame map where to look for the mini map file
@@ -2846,5 +2883,5 @@ vrac2.rsw#vrac2.rsw#
 유저인터페이스\map\1@pump.bmp#유저인터페이스\map\1@pump.bmp#
 유저인터페이스\map\2@pump.bmp#유저인터페이스\map\2@pump.bmp#
 
-//Edited by FishDeity (Jan 16 2026)
+//Edited by FishDeity (June 4 2026)
 //Custom Edits end
