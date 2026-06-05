@@ -1337,6 +1337,31 @@
 
 //2025 3Q UPDATE end
 
+//2026 1Q UPDATE
+
+//에피소드 20
+300455#Copo_Card#
+300456#Icewind_Egg_Card#
+300457#Grey_Icewind_Card#
+300458#Icewind_Card#
+300459#E_Rgan_Healer_Card#
+300460#Jormun_Guardian_Card#
+300461#Fake_Iwin_S_Card#
+300462#S_Rgan_Warlock_Card#
+300463#S_Rgan_Healer_Card#
+300464#E_Rgan_Warlock_Card#
+300465#E_Rgan_Guardian_Card#
+300466#E_Rgan_Cleaner_Card#
+300467#Angel_Iceslug_Card#
+300468#Rabbit_Iceslug_card#
+300469#Melibe_Iceslug_Card#
+300470#Icebear_Card#
+300471#F_Angel_Iceslug_Card#
+300472#Demigod_Lasgand_Card#
+300473#Snow_Angel_Card#
+300474#Rgan_Chief_Clean_Card#
+//2026 1Q UPDATE end
+
 //-Custom Edits-
 
 //--Sealed MVPs : Sorry images replaced
@@ -1420,5 +1445,5 @@
 4881#sorry#
 4755#sorry#
 
-//Edited by FishDeity (Jan 16 2026)
+//Edited by FishDeity (June 4 2026)
 //-Custom Edits End Here-
