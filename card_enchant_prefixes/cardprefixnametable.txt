@@ -790,8 +790,6 @@
 27224#of Half Devilish#
 27225#Half Wise Man's#
 27330#Of Kronecker#
-27331#Of Grantz Heine#
-27332#Of Skia#
 27333#Of Shiny Nerius#
 //Abyss and Nogrod 3rd floor
 27346#Orb of Howling#
@@ -1203,6 +1201,36 @@
 300473#of Angel Storm#
 300474#Chief#
 //2026 1Q UPDATE end
+
+//2026.06.11 23주년 ?�벤??
+27196#Heine#
+27197#Lugenburg#
+27198#Wigner#
+27199#Nerius#
+27331#of Grantz Heine#
+27333#of Shiny Nerius#
+27394#of Virtuos Wigner#
+27396#of Bright Wigner#
+300128#of Wolf Lugenburg#
+300130#of Richard#
+300308#of Meyer#
+300310#of Lugenburg#
+300422#of Gaebolg#
+300424#of Stolz Heine#
+300426#of Findel#
+300487#Elena#
+300489#Rookie#
+300491#Est#
+300493#Gony#
+300495#Fontes#
+300497#Lazy#
+300606#of Dien#
+300607#of Ridsh#
+300608#of Cotness#
+300719#As#
+300720#Kaya Toss#
+300722#of Rekenber#
+//2026.06.11 23주년 ?�벤??end
 
 //-Custom Edits-
 
@@ -3446,5 +3474,5 @@
 //--Garden of Time Enchants Missing
 //--Ep 20 Enchants Missing 
 
-//Edited by FishDeity (June 4 2026)
+//Edited by FishDeity (June 16 2026)
 //-Custom Edits End Here-
