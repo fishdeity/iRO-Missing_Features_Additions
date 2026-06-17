@@ -788,7 +788,7 @@ questsign.rsw#que_sign01.rsw#
 2@nyd.gnd#2@nyd.gnd#
 2@nyd.gat#2@nyd.gat#
 2@nyd.rsw#2@nyd.rsw#
-유저인터페이스\map\2@nyd.bmp#유저인터페이스\map\1@nyd.bmp#
+유저인터페이스\map\2@nyd.bmp#유저인터페이스\map\2@nyd.bmp#
 
 bat_c02.gnd#bat_c01.gnd#
 bat_c02.gat#bat_c01.gat#
@@ -917,20 +917,20 @@ que_qaru05.rsw#que_qsch01.rsw#
 arug_cas04.gnd#arug_cas03.gnd#
 arug_cas04.gat#arug_cas03.gat#
 arug_cas04.rsw#arug_cas03.rsw#
-유저인터페이스\map\arug_cas04.bmp#유저인터페이스\map\arug_cas03.bmp#
+유저인터페이스\map\arug_cas04.bmp#유저인터페이스\map\arug_cas04.bmp#
 arug_cas05.gnd#arug_cas03.gnd#
 arug_cas05.gat#arug_cas03.gat#
 arug_cas05.rsw#arug_cas03.rsw#
-유저인터페이스\map\arug_cas05.bmp#유저인터페이스\map\arug_cas03.bmp#
+유저인터페이스\map\arug_cas05.bmp#유저인터페이스\map\arug_cas05.bmp#
 
 schg_cas04.gnd#schg_cas01.gnd#
 schg_cas04.gat#schg_cas01.gat#
 schg_cas04.rsw#schg_cas01.rsw#
-유저인터페이스\map\schg_cas04.bmp#유저인터페이스\map\schg_cas01.bmp#
+유저인터페이스\map\schg_cas04.bmp#유저인터페이스\map\schg_cas04.bmp#
 schg_cas05.gnd#schg_cas01.gnd#
 schg_cas05.gat#schg_cas01.gat#
 schg_cas05.rsw#schg_cas01.rsw#
-유저인터페이스\map\schg_cas05.bmp#유저인터페이스\map\schg_cas01.bmp#
+유저인터페이스\map\schg_cas05.bmp#유저인터페이스\map\schg_cas05.bmp#
 
 que_moc_16.gnd#in_moc_16.gnd#
 que_moc_16.gat#in_moc_16.gat#
@@ -1952,7 +1952,7 @@ ecl_tdun03.rsw#ecl_tdun03.rsw#
 dali02.gnd#dali.gnd#
 dali02.gat#dali.gat#
 dali02.rsw#dali.rsw#
-유저인터페이스\map\dali02.bmp#유저인터페이스\map\dali.bmp#
+유저인터페이스\map\dali02.bmp#유저인터페이스\map\dali02.bmp#
 
 1@tnm1.gnd#1@tnm1.gnd#
 1@tnm1.gat#1@tnm1.gat#
@@ -2810,7 +2810,7 @@ bphunt_high.rsw#hu_fild03.rsw#
 1@f_lake.rsw#1@f_lake.rsw#
 유저인터페이스\map\1@f_lake.bmp#유저인터페이스\map\1@f_lake.bmp#
 //2025 3Q UPDATE end
-
+dali02
 // 내비추출용
 vrcas.gnd#vrcas.gnd#
 vrcas.gat#vrcas.gat#
@@ -2883,5 +2883,5 @@ vrac2.rsw#vrac2.rsw#
 유저인터페이스\map\1@pump.bmp#유저인터페이스\map\1@pump.bmp#
 유저인터페이스\map\2@pump.bmp#유저인터페이스\map\2@pump.bmp#
 
-//Edited by FishDeity (June 4 2026)
+//Edited by FishDeity (June 16 2026)
 //Custom Edits end
