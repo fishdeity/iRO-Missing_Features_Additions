@@ -2840,12 +2840,12 @@ vrac2.rsw#vrac2.rsw#
 1@twbs.gnd#1@twbs.gnd#
 1@twbs.gat#1@twbs.gat#
 1@twbs.rsw#1@twbs.rsw#
-유저인터페이스\map\1@twbs.bmp#유저인터페이스\map\1@ch_t.bmp#
+유저인터페이스\map\1@twbs.bmp#유저인터페이스\map\1@twbs.bmp#
 // Episode 20 죽지 않는 자 - 분리된 성소
 1@twas.gnd#1@twas.gnd#
 1@twas.gat#1@twas.gat#
 1@twas.rsw#1@twas.rsw#
-유저인터페이스\map\1@twas.bmp#유저인터페이스\map\1@ch_t.bmp#
+유저인터페이스\map\1@twas.bmp#유저인터페이스\map\1@twas.bmp#
 // Episode 20 죽지 않는 자 - 협곡 탐사
 1@20cn1.gnd#1@20cn1.gnd#
 1@20cn1.gat#1@20cn1.gat#
@@ -2866,8 +2866,9 @@ vrac2.rsw#vrac2.rsw#
 
 //this file tells each ingame map where to look for the mini map file
 
-//the map names listed here have been changed in the file
+//the map names listed here have been changed in the file:
 //dali02 , 2@nyd , schg_cas04 , schg_cas05 , arug_cas04 , arug_cas05
+//1@twbs , 1@twas
 
 //below are added to fix missing ones
 유저인터페이스\map\1@cor.bmp#유저인터페이스\map\sp_cor.bmp#
@@ -2883,5 +2884,5 @@ vrac2.rsw#vrac2.rsw#
 유저인터페이스\map\1@pump.bmp#유저인터페이스\map\1@pump.bmp#
 유저인터페이스\map\2@pump.bmp#유저인터페이스\map\2@pump.bmp#
 
-//Edited by FishDeity (June 16 2026)
+//Edited by FishDeity (June 17 2026)
 //Custom Edits end
