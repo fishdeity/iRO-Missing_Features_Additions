@@ -877,18 +877,12 @@
 27222#sorry#
 27224#sorry#
 27225#sorry#
-27196#S_Nihil_Card#
-27197#S_Agnes_Card#
-27198#S_Jurgen_Card#
-27199#S_Spica_Card#
 27200#Nihil_Card#
 27201#Agnes_Card#
 27202#Jurgen_Card#
 27203#Spica_Card#
 27330#Kronecker_Card#
-27331#S_Kronecker_Card#
 27332#Skia_Card#
-27333#S_Skia_Card#
 27346#Firm_Muspell_Card#
 27347#Firm_Kaho_Card#
 27348#Firm_Lava_G_Card#
@@ -1362,6 +1356,38 @@
 300474#Rgan_Chief_Clean_Card#
 //2026 1Q UPDATE end
 
+
+//2026.06.11 23주년 이벤트
+27196#S_Nihil_Card#
+27197#S_Agnes_Card#
+27198#S_Jurgen_Card#
+27199#S_Spica_Card#
+27331#S_Kronecker_Card#
+27332#Skia_Card#
+27333#S_Skia_Card#
+27394#S_Kathryn_Card#
+27396#S_Issac_Card#
+300128#S_Wolf_Card#
+300130#S_Poe_Card#
+300308#S_Meyer_Card#
+300310#S_Helmut_Card#
+300422#S_Catherine_Card#
+300424#S_Friedrich_Card#
+300426#S_Crux_Card#
+300487#S_Elena_Card#
+300489#S_Lookie_Card#
+300491#S_Est_Card#
+300493#S_Gony_Card#
+300495#S_Tes_Card#
+300497#S_Leizi_Card#
+300606#S_Dien_Card#
+300607#S_Ridsh_Card#
+300608#S_Cotness_Card#
+300719#S_As_Card#
+300720#S_Kaya_Toss_Card#
+300722#S_Rekenber_Card#
+//2026.06.11 23주년 이벤트 end
+
 //-Custom Edits-
 
 //--Sealed MVPs : Sorry images replaced
@@ -1445,5 +1471,5 @@
 4881#sorry#
 4755#sorry#
 
-//Edited by FishDeity (June 4 2026)
+//Edited by FishDeity (June 16 2026)
 //-Custom Edits End Here-
