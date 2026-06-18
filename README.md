@@ -127,6 +127,11 @@ This replaces the irowiki qol patcher since it is now outdated and not maintaine
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2026 Jun 16:
+  - 23rd Anni update
+  - **card_art_missing_added.gpf**: Updated with 23rd Anni cards.
+  - **card_enchant_prefixes.gpf**: Updated with 23rd Anni cards.
+  - **maps_added_and_fixed.gpf**: Mini maps for areas like Nidhoggur's Nest instance 2F or Lasgand instance should be fixed.
 - 2026 June 4:
   - Ep 20 update
   - **card_art_missing_added.gpf**: Updated with Ep 20 cards. [Details](https://github.com/fishdeity/iRO-Missing_Features_Additions/commit/1f14bc5190549dd62374cef5fdc8fe73f0e8ea1a)
