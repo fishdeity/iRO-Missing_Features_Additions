@@ -1278,5 +1278,8 @@ jor_twice.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 jor_back6.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 jor_safty2.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 1@slug.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
-//Edited by FishDeity (June 4 2026)
+//Gatchaman and Kumamon collab event update
+clb_kuma.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+1@gat.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+//Edited by FishDeity (July 7 2026)
 //-Custom Edits End Here-
