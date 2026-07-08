@@ -1232,6 +1232,11 @@
 300722#of Rekenber#
 //2026.06.11 23ì£¼ë…„ ?´ë²¤??end
 
+//2026.07.07 ?…ìˆ˜ë¦??¤í˜•??ì½œë¼ë³?
+300732#Soaring#
+300733#Crushing#
+300734#Launching#
+
 //-Custom Edits-
 
 //--Flame Basin cards missing
@@ -3472,7 +3477,9 @@
 315164#SADC#
 
 //--Garden of Time Enchants Missing
-//--Ep 20 Enchants Missing 
+//--Ep 20 Enchants Missing
+//--S3 Battle Pass and Gatchaman Enchants Missing
+//--Biosphere Depth Enchants Missing
 
-//Edited by FishDeity (June 16 2026)
+//Edited by FishDeity (July 7 2026)
 //-Custom Edits End Here-
