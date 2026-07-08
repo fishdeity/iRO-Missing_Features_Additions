@@ -127,6 +127,13 @@ This replaces the irowiki qol patcher since it is now outdated and not maintaine
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2026 July 7:
+  - Gatchaman Collab Event Update
+  - **bgm_missing_added.gpf**: Music updated.
+  - **card_art_missing_added.gpf**: Card art file updated.
+  - **card_enchant_prefixes.gpf**: File updated to include new cards.
+  - **maps_added_and_fixed.gpf**: jor_maze with linked numbers added.
+  - **zoom_farther_out.gpf**: Gatchaman event map added.
 - 2026 Jun 16:
   - 23rd Anni update
   - **card_art_missing_added.gpf**: Updated with 23rd Anni cards.
