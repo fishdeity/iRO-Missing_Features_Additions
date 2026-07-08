@@ -1388,6 +1388,12 @@
 300722#S_Rekenber_Card#
 //2026.06.11 23주년 이벤트 end
 
+//2026.07.07 독수리 오형제 콜라보
+//독수리 5형제 콜라보
+300732#CLB_GAT_card1#
+300733#CLB_GAT_card2#
+300734#CLB_GAT_card3#
+
 //-Custom Edits-
 
 //--Sealed MVPs : Sorry images replaced
@@ -1471,5 +1477,5 @@
 4881#sorry#
 4755#sorry#
 
-//Edited by FishDeity (June 16 2026)
+//Edited by FishDeity (July 7 2026)
 //-Custom Edits End Here-
