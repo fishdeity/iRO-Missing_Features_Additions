@@ -2810,7 +2810,7 @@ bphunt_high.rsw#hu_fild03.rsw#
 1@f_lake.rsw#1@f_lake.rsw#
 유저인터페이스\map\1@f_lake.bmp#유저인터페이스\map\1@f_lake.bmp#
 //2025 3Q UPDATE end
-dali02
+
 // 내비추출용
 vrcas.gnd#vrcas.gnd#
 vrcas.gat#vrcas.gat#
@@ -2862,6 +2862,13 @@ vrac2.rsw#vrac2.rsw#
 유저인터페이스\map\1@twig.bmp#유저인터페이스\map\1@twig.bmp#
 //2026 1Q UPDATE end
 
+//2026.07.07 독수리 오형제 콜라보
+//독수리 5형제 콜라보
+1@gat.gnd#in_sphinx4.gnd#
+1@gat.gat#in_sphinx4.gat#
+1@gat.rsw#in_sphinx4.rsw#
+유저인터페이스\map\1@gat.bmp#유저인터페이스\map\in_sphinx4.bmp#
+
 //Custom Edits
 
 //this file tells each ingame map where to look for the mini map file
@@ -2884,5 +2891,5 @@ vrac2.rsw#vrac2.rsw#
 유저인터페이스\map\1@pump.bmp#유저인터페이스\map\1@pump.bmp#
 유저인터페이스\map\2@pump.bmp#유저인터페이스\map\2@pump.bmp#
 
-//Edited by FishDeity (June 17 2026)
+//Edited by FishDeity (July 7 2026)
 //Custom Edits end
