@@ -45,8 +45,7 @@ Note: Players are suggested to use the FishPatcher for easy edits while those th
     + **customeffects.lua**: File that can customize item light effects.
     + **customeffects-example-minimal.lua**: customeffects but with less items.
     + **customsprites.lua**: File that can customize item sprites.
-    + **customsprites-example-mvp_cards.lua**: customsprites but has some mvp cards changed to Adventure Card A sprite. Highly suggest merging in mvp_card_sprites_with_cat_a.gpf when using this.
-    + **customsprites-example_2-mvp_cards_2.lua**: customsprites but with mvp card art as sprites! You must merge mvp_card_sprites_with_cat_a.gpf for this to work!!!
+    + **customsprites-example-mvp_cards.lua**: customsprites but with mvp card art as sprites! You must merge mvp_card_sprites_with_cat_a.gpf for this to work!!!
     + **mvp_card_sprites_with_cat_a.gpf**: All MVP Cards drop as their card art instead of the normal card sprite. You merge this into your data.grf!
 + **backup_of_originals/**: Folder that contains backups of some originals in case wanting to revert back.
 + **bundle_of_edits_for_newb/**: Edits into one gpf.
@@ -127,6 +126,13 @@ This replaces the irowiki qol patcher since it is now outdated and not maintaine
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2026 July 9:
+  - **big_other_items.gpf**: Season 3 Battle Pass items added and bigger. Credits to Xerxes
+  - System/
+    - **customeffects.lua**: Added light beams for Season 3 BP items. Credits to Meek and NiceView143
+    - **customsprites-example-mvp_cards.lua**: MVP card sprites updated all the way to Chapter 1, credits to Pingaify
+    - **mvp_card_sprites_with_cat_a.gpf**: MVP card sprites updated all the way to Chapter 1, credits to Pingaify
+    - **unidentified_shows_item.zip**: Updated with latest files.
 - 2026 July 7:
   - Gatchaman Collab Event Update
   - **bgm_missing_added.gpf**: Music updated.
