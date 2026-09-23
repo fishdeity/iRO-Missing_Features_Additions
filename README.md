@@ -126,6 +126,9 @@ This replaces the irowiki qol patcher since it is now outdated and not maintaine
 
 # Changelog #
 Check out [dev branch](https://github.com/fishdeity/iRO-Missing_Features_Additions/tree/dev_branch) if you like to see some file changes through Git w/o opening the gpfs.
+- 2026 Sept 23:
+  - **card_art_missing_added.gpf**: Card art file updated.
+  - **card_enchant_prefixes.gpf**: File updated to include new cards.
 - 2026 July 9:
   - **big_other_items.gpf**: Season 3 Battle Pass items added and bigger. Credits to Xerxes
   - System/
