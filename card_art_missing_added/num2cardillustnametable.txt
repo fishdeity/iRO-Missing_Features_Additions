@@ -1394,6 +1394,10 @@
 300733#CLB_GAT_card2#
 300734#CLB_GAT_card3#
 
+//live mantis 207033
+4542#봉인된디타르카드#
+4543#봉인된하티카드#
+
 //-Custom Edits-
 
 //--Sealed MVPs : Sorry images replaced
@@ -1477,5 +1481,5 @@
 4881#sorry#
 4755#sorry#
 
-//Edited by FishDeity (July 7 2026)
+//Edited by FishDeity (Sept 23 2026)
 //-Custom Edits End Here-
