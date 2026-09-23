@@ -1237,6 +1237,10 @@
 300733#Crushing#
 300734#Launching#
 
+//live mantis 207033
+4542#Of Half-Magic Shelter#
+4543#Half Frozen#
+
 //-Custom Edits-
 
 //--Flame Basin cards missing
@@ -3481,5 +3485,5 @@
 //--S3 Battle Pass and Gatchaman Enchants Missing
 //--Biosphere Depth Enchants Missing
 
-//Edited by FishDeity (July 7 2026)
+//Edited by FishDeity (Sept 23 2026)
 //-Custom Edits End Here-
