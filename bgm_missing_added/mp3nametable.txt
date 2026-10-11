@@ -1463,8 +1463,19 @@ jor_safty2.rsw#bgm\\195.mp3#
 // 구마몬 콜라보
 clb_kuma.rsw#bgm\\74.mp3#
 
+//2026 2Q UPDATE
+// 바이오스피어 심층
+bl_depth1.rsw#bgm\\183.mp3#
+// 바르문트 바이오스피어 심층 어비스
+bl_depth2.rsw#bgm\\156.mp3#
+
 //2026.07.07 독수리 오형제 콜라보
 1@gat.rsw#bgm\\22.mp3#
+
+//2026.10.06 아기상어 콜라보
+// 아기상어 콜라보
+1@pbs.rsw#bgm\\998.mp3#
+pbse.rsw#bgm\\998.mp3#
 
 //Custom Edits
 
@@ -1501,5 +1512,5 @@ bphunt_low.rsw#bgm\\41.mp3#
 bphunt_mid.rsw#bgm\\41.mp3#
 bphunt_high.rsw#bgm\\41.mp3#
 
-//Edited by Vividort, FishDeity (July 7 2026)
+//Edited by Vividort, FishDeity (Oct 10 2026)
 //Custom Edits end
