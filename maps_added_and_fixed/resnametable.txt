@@ -2869,6 +2869,31 @@ vrac2.rsw#vrac2.rsw#
 1@gat.rsw#in_sphinx4.rsw#
 유저인터페이스\map\1@gat.bmp#유저인터페이스\map\in_sphinx4.bmp#
 
+//2026.10.06 배틀패스 시즌3 맵 추가 요청
+bphunt_low2.gnd#hu_fild03.gnd#
+bphunt_low2.gat#hu_fild03.gat#
+bphunt_low2.rsw#hu_fild03.rsw#
+유저인터페이스\map\bphunt_low2.bmp#유저인터페이스\map\hu_fild03.bmp#
+bphunt_mid2.gnd#hu_fild03.gnd#
+bphunt_mid2.gat#hu_fild03.gat#
+bphunt_mid2.rsw#hu_fild03.rsw#
+유저인터페이스\map\bphunt_mid2.bmp#유저인터페이스\map\hu_fild03.bmp#
+bphunt_hi2.gnd#hu_fild03.gnd#
+bphunt_hi2.gat#hu_fild03.gat#
+bphunt_hi2.rsw#hu_fild03.rsw#
+유저인터페이스\map\bphunt_hi2.bmp#유저인터페이스\map\hu_fild03.bmp#
+
+//2026.10.06 아기상어 콜라보
+// 아기상어 콜라보
+1@pbs.gnd#1@pbs.gnd#
+1@pbs.gat#1@pbs.gat#
+1@pbs.rsw#1@pbs.rsw#
+유저인터페이스\map\1@pbs.bmp#유저인터페이스\map\1@pbs.bmp#
+pbse.gnd#cmd_bhole.gnd#
+pbse.gat#cmd_bhole.gat#
+pbse.rsw#cmd_bhole.rsw#
+유저인터페이스\map\pbse.bmp#유저인터페이스\map\cmd_bhole.bmp#
+
 //Custom Edits
 
 //this file tells each ingame map where to look for the mini map file
@@ -2891,5 +2916,5 @@ vrac2.rsw#vrac2.rsw#
 유저인터페이스\map\1@pump.bmp#유저인터페이스\map\1@pump.bmp#
 유저인터페이스\map\2@pump.bmp#유저인터페이스\map\2@pump.bmp#
 
-//Edited by FishDeity (July 7 2026)
+//Edited by FishDeity (Oct 10 2026)
 //Custom Edits end
