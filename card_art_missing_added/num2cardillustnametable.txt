@@ -1398,6 +1398,11 @@
 4542#봉인된디타르카드#
 4543#봉인된하티카드#
 
+//2026.10.06 아기상어 콜라보
+//아기상어콜라보
+300834#CLB_BS_Card1#
+300835#CLB_BS_Card2#
+
 //-Custom Edits-
 
 //--Sealed MVPs : Sorry images replaced
@@ -1481,5 +1486,5 @@
 4881#sorry#
 4755#sorry#
 
-//Edited by FishDeity (Sept 23 2026)
+//Edited by FishDeity (Oct 8 2026)
 //-Custom Edits End Here-
