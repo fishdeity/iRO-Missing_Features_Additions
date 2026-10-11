@@ -1,4 +1,4 @@
-//-Custom Edits-
+//-Custom Edits-									
 // ∏  ¿Ã∏ß 	range	scope 	range_IN	rotationFrom 	rotationTo	rotation_IN	altitudeFrom	altitudeTo	altitude_IN
 //map_name	zoom_in	zoom_out	default_zoom_at_that_map	??	??	default_rotation	shift_camera_angle_downwards	shift_camera_angle_upwards	default_shift_camera_angle_downwards
 06guild_01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
@@ -1257,7 +1257,7 @@ for_dun01.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 t_garden.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 1@ba_go.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 1@vrpo.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
-//Ep 20 update
+//Ep 20 update									
 jor_back4.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 jor_root3.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 jor_twig.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
@@ -1278,8 +1278,16 @@ jor_twice.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 jor_back6.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 jor_safty2.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 1@slug.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
-//Gatchaman and Kumamon collab event update
+//Gatchaman and Kumamon collab event update									
 clb_kuma.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
 1@gat.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
-//Edited by FishDeity (July 7 2026)
+//Varmundt Biosphere Deep Level 1 and Baby Shark event update									
+bphunt_mid2.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+pbse.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+bl_depth1.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+1@pbs.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+bphunt_hi2.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+bphunt_low2.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+bl_depth2.rsw#	10#	1200#	500#	-360#	360#	0#	-1#	-66#	-65#
+//Edited by FishDeity (October 8 2026)
 //-Custom Edits End Here-
